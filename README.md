@@ -1,6 +1,6 @@
 # Crítica vs. Público
 
-![]("img/RSlogo.png")
+![logo]("img/RSlogo.png")
 
 
 
