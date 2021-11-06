@@ -1,10 +1,10 @@
 # Crítica vs. Público
 
-![logo]("img/RSlogo.png")
+<img src= "img/RSlogo.png">
 
-![lago]("images/RSlogo.png")
+<img src= "images/RSlogo.png">
 
-![lego]("images/mira.jpg")
+<img src= "images/mira.jpg">
 
 
 
