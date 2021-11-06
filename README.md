@@ -5,9 +5,6 @@
 # Crítica vs. Público
 
 
-<img src= "images/mira.jpg">
-
-
 
 
 
