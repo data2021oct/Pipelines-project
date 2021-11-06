@@ -1,501 +1,501 @@
-,Number,Year,Album,Artist,Genre,Subgenre,Gen,Subgen
-0,1,1967,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Rock,"Rock & Roll, Psychedelic Rock",Rock,Rock & Roll
-1,2,1966,Pet Sounds,The Beach Boys,Rock,"Pop Rock, Psychedelic Rock",Rock,Pop Rock
-2,3,1966,Revolver,The Beatles,Rock,"Psychedelic Rock, Pop Rock",Rock,Psychedelic Rock
-3,4,1965,Highway 61 Revisited,Bob Dylan,Rock,"Folk Rock, Blues Rock",Rock,Folk Rock
-4,5,1965,Rubber Soul,The Beatles,"Rock, Pop",Pop Rock,Rock,Pop Rock
-5,6,1971,What's Going On,Marvin Gaye,Funk / Soul,Soul,Funk / Soul,Soul
-6,7,1972,Exile on Main St.,The Rolling Stones,Rock,"Blues Rock, Rock & Roll, Classic Rock",Rock,Blues Rock
-7,8,1979,London Calling,The Clash,Rock,"Punk, New Wave",Rock,Punk
-8,9,1966,Blonde on Blonde,Bob Dylan,"Rock, Blues","Folk Rock, Rhythm & Blues",Rock,Folk Rock
-9,10,1968,"The Beatles (""The White Album"")",The Beatles,Rock,"Rock & Roll, Pop Rock, Psychedelic Rock, Experimental",Rock,Rock & Roll
-10,11,1976,The Sun Sessions,Elvis Presley,Rock,Rock & Roll,Rock,Rock & Roll
-11,12,1959,Kind of Blue,Miles Davis,Jazz,Modal,Jazz,Modal
-12,13,1967,The Velvet Underground & Nico,The Velvet Underground,Rock,"Garage Rock, Art Rock, Experimental",Rock,Garage Rock
-13,14,1969,Abbey Road,The Beatles,Rock,"Psychedelic Rock, Classic Rock, Pop Rock",Rock,Psychedelic Rock
-14,15,1967,Are You Experienced,The Jimi Hendrix Experience,"Rock, Blues","Blues Rock, Psychedelic Rock",Rock,Blues Rock
-15,16,1975,Blood on the Tracks,Bob Dylan,Rock,"Folk Rock, Acoustic, Ballad",Rock,Folk Rock
-16,17,1991,Nevermind,Nirvana,Rock,"Alternative Rock, Grunge",Rock,Alternative Rock
-17,18,1975,Born to Run,Bruce Springsteen,Rock,Pop Rock,Rock,Pop Rock
-18,19,1968,Astral Weeks,Van Morrison,"Jazz, Rock, Blues, Folk, World, & Country","Acoustic, Classic Rock, Free Improvisation",Jazz,Acoustic
-19,20,1982,Thriller,Michael Jackson,"Funk / Soul, Pop",Disco,Funk / Soul,Disco
-20,21,1982,The Great Twenty_Eight,Chuck Berry,Rock,Rock & Roll,Rock,Rock & Roll
-21,22,1990,The Complete Recordings,Robert Johnson,Blues,Delta Blues,Blues,Delta Blues
-22,23,1970,John Lennon/Plastic Ono Band,John Lennon / Plastic Ono Band,Rock,Pop Rock,Rock,Pop Rock
-23,24,1973,Innervisions,Stevie Wonder,Funk / Soul,Soul,Funk / Soul,Soul
-24,25,1963,"Live at the Apollo, 1962",James Brown,Funk / Soul,"Rhythm & Blues, Soul",Funk / Soul,Rhythm & Blues
-25,26,1977,Rumours,Fleetwood Mac,Rock,Pop Rock,Rock,Pop Rock
-26,27,1987,The Joshua Tree,U2,Rock,"Alternative Rock, Pop Rock",Rock,Alternative Rock
-27,28,1971,Who's Next,The Who,Rock,"Hard Rock, Mod, Prog Rock, Psychedelic Rock",Rock,Hard Rock
-28,29,1969,Led Zeppelin,Led Zeppelin,Rock,"Blues Rock, Hard Rock",Rock,Blues Rock
-29,30,1971,Blue,Joni Mitchell,Pop,"Acoustic, Ballad, Folk",Pop,Acoustic
-30,31,1965,Bringing It All Back Home,Bob Dylan,"Rock, Folk, World, & Country","Folk Rock, Folk",Rock,Folk Rock
-31,32,1969,Let It Bleed,The Rolling Stones,Rock,"Blues Rock, Hard Rock",Rock,Blues Rock
-32,33,1976,Ramones,Ramones,Rock,"Rock & Roll, Punk",Rock,Rock & Roll
-33,34,1968,Music From Big Pink,The Band,Rock,"Folk Rock, Acoustic, Blues Rock",Rock,Folk Rock
-34,35,1972,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,Rock,"Classic Rock, Glam",Rock,Classic Rock
-35,36,1971,Tapestry,Carole King,"Rock, Pop","Folk Rock, Soft Rock",Rock,Folk Rock
-36,37,1976,Hotel California,Eagles,Rock,Classic Rock,Rock,Classic Rock
-37,38,2001,The Anthology,Muddy Waters,"Folk, World, & Country",Folk,Folk,Folk
-38,39,1963,Please Please Me,The Beatles,Rock,"Beat, Rock & Roll",Rock,Beat
-39,40,1967,Forever Changes,Love,Rock,"Folk Rock, Psychedelic Rock",Rock,Folk Rock
-40,41,1977,Never Mind the Bollocks Here's the Sex Pistols,Sex Pistols,Rock,Punk,Rock,Punk
-41,42,1967,The Doors,The Doors,Rock,Psychedelic Rock,Rock,Psychedelic Rock
-42,43,1973,The Dark Side of the Moon,Pink Floyd,Rock,Prog Rock,Rock,Prog Rock
-43,44,1975,Horses,Patti Smith,Rock,Art Rock,Rock,Art Rock
-44,45,1969,"The Band (""The Brown Album"")",The Band,"Classical, Stage & Screen","Soundtrack, Modern Classical, Contemporary, Score",Classical,Soundtrack
-45,46,1984,Legend: The Best of Bob Marley and The Wailers,Bob Marley & The Wailers,Reggae,"Reggae, Roots Reggae",Reggae,Reggae
-46,47,1965,A Love Supreme,John Coltrane,Jazz,"Free Jazz, Hard Bop, Modal",Jazz,Free Jazz
-47,48,1988,It Takes a Nation of Millions to Hold Us Back,Public Enemy,Hip Hop,Conscious,Hip Hop,Conscious
-48,49,1971,At Fillmore East,The Allman Brothers Band,"Rock, Blues",Blues Rock,Rock,Blues Rock
-49,50,1957,Here's Little Richard,Little Richard,"Rock, Blues","Rock & Roll, Rhythm & Blues",Rock,Rock & Roll
-50,51,1970,Bridge Over Troubled Water,Simon & Garfunkel,Rock,"Folk Rock, Classic Rock",Rock,Folk Rock
-51,52,1975,Greatest Hits,Al Green,Funk / Soul,Soul,Funk / Soul,Soul
-52,53,1964,Meet The Beatles!,The Beatles,Rock,"Beat, Rock & Roll",Rock,Beat
-53,54,1991,The Birth of Soul,Ray Charles,"Jazz, Funk / Soul","Rhythm & Blues, Big Band, Soul, Soul-Jazz",Jazz,Rhythm & Blues
-54,55,1968,Electric Ladyland,The Jimi Hendrix Experience,"Rock, Blues","Electric Blues, Psychedelic Rock",Rock,Electric Blues
-55,56,1956,Elvis Presley,Elvis Presley,Rock,"Rock & Roll, Rockabilly",Rock,Rock & Roll
-56,57,1976,Songs in the Key of Life,Stevie Wonder,Funk / Soul,"Soul, Disco",Funk / Soul,Soul
-57,58,1968,Beggars Banquet,The Rolling Stones,"Rock, Funk / Soul, Pop","Blues Rock, Southern Rock, Classic Rock",Rock,Blues Rock
-58,59,1976,Chronicle: The 20 Greatest Hits,Creedence Clearwater Revival,Rock,None,Rock,None
-59,60,1969,Trout Mask Replica,Captain Beefheart & His Magic Band,"Rock, Blues","Dialogue, Field Recording, Avantgarde, Electric Blues, Psychedelic Rock, Experimental",Rock,Dialogue
-60,61,1970,Greatest Hits,Sly & The Family Stone,Funk / Soul,"Rhythm & Blues, Funk",Funk / Soul,Rhythm & Blues
-61,62,1987,Appetite for Destruction,Guns N' Roses,Rock,"Hard Rock, Heavy Metal",Rock,Hard Rock
-62,63,1991,Achtung Baby,U2,"Electronic, Rock","Pop Rock, Synth-pop, Alternative Rock, Arena Rock",Electronic,Pop Rock
-63,64,1971,Sticky Fingers,The Rolling Stones,Rock,Classic Rock,Rock,Classic Rock
-64,65,1991,Back to Mono (1958-1969),Phil Spector,"Rock, Funk / Soul, Pop","Doo Wop, Pop Rock, Ballad, Rhythm & Blues",Rock,Doo Wop
-65,66,1970,Moondance,Van Morrison,"Jazz, Rock, Funk / Soul, Folk, World, & Country","Folk Rock, Rhythm & Blues, Classic Rock, Contemporary Jazz",Jazz,Folk Rock
-66,67,2000,Kid A,Radiohead,"Electronic, Rock","Alternative Rock, IDM, Experimental",Electronic,Alternative Rock
-67,68,1979,Off the Wall,Michael Jackson,"Funk / Soul, Pop","Disco, Soul, Ballad",Funk / Soul,Disco
-68,69,1971,[Led Zeppelin IV],Led Zeppelin,Rock,"Hard Rock, Classic Rock, Blues Rock",Rock,Hard Rock
-69,70,1977,The Stranger,Billy Joel,Rock,Pop Rock,Rock,Pop Rock
-70,71,1986,Graceland,Paul Simon,"Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country","Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm & Blues",Jazz,Folk Rock
-71,72,1972,Superfly,Curtis Mayfield,"Funk / Soul, Stage & Screen","Soundtrack, Soul",Funk / Soul,Soundtrack
-72,73,1975,Physical Graffiti,Led Zeppelin,Rock,Classic Rock,Rock,Classic Rock
-73,74,1970,After the Gold Rush,Neil Young,Rock,"Rock & Roll, Country Rock",Rock,Rock & Roll
-74,75,1991,Star Time,James Brown,Funk / Soul,"Soul, Funk, Disco",Funk / Soul,Soul
-75,76,1984,Purple Rain,Prince and the Revolution,"Electronic, Rock, Funk / Soul, Stage & Screen","Pop Rock, Funk, Soundtrack, Synth-pop",Electronic,Pop Rock
-76,77,1980,Back in Black,AC/DC,Rock,Hard Rock,Rock,Hard Rock
-77,78,1965,Otis Blue: Otis Redding Sings Soul,Otis Redding,Funk / Soul,Soul,Funk / Soul,Soul
-78,79,1969,Led Zeppelin II,Led Zeppelin,Rock,"Blues Rock, Classic Rock, Hard Rock",Rock,Blues Rock
-79,80,1971,Imagine,John Lennon,Rock,Pop Rock,Rock,Pop Rock
-80,81,1977,The Clash,The Clash,Rock,Punk,Rock,Punk
-81,82,1972,Harvest,Neil Young,Rock,"Folk Rock, Country Rock, Classic Rock",Rock,Folk Rock
-82,83,1967,Axis: Bold as Love,The Jimi Hendrix Experience,Rock,"Psychedelic Rock, Electric Blues",Rock,Psychedelic Rock
-83,84,1967,I Never Loved a Man the Way I Love You,Aretha Franklin,Funk / Soul,Soul,Funk / Soul,Soul
-84,85,1968,Lady Soul,Aretha Franklin,Funk / Soul,Soul,Funk / Soul,Soul
-85,86,1984,Born in the U.S.A.,Bruce Springsteen,Rock,Pop Rock,Rock,Pop Rock
-86,87,1979,The Wall,Pink Floyd,Rock,"Alternative Rock, Prog Rock",Rock,Alternative Rock
-87,88,1968,At Folsom Prison,Johnny Cash,"Folk, World, & Country",Country,Folk,Country
-88,89,1969,Dusty in Memphis,Dusty Springfield,"Rock, Funk / Soul","Pop Rock, Soul",Rock,Pop Rock
-89,90,1972,Talking Book,Stevie Wonder,Funk / Soul,"Soul, Funk",Funk / Soul,Soul
-90,91,1973,Goodbye Yellow Brick Road,Elton John,Rock,"Pop Rock, Classic Rock",Rock,Pop Rock
-91,92,1978,20 Golden Greats,Buddy Holly,Rock,Rock & Roll,Rock,Rock & Roll
-92,93,1987,"Sign ""Peace"" the Times",Prince,"Rock, Reggae","Ska, Reggae-Pop",Rock,Ska
-93,94,1984,40 Greatest Hits,Hank Williams,"Folk, World, & Country",Country,Folk,Country
-94,95,1970,Bitches Brew,Miles Davis,Jazz,Fusion,Jazz,Fusion
-95,96,1969,Tommy,The Who,Rock,Psychedelic Rock,Rock,Psychedelic Rock
-96,97,1963,The Freewheelin' Bob Dylan,Bob Dylan,"Folk, World, & Country",Folk,Folk,Folk
-97,98,1978,This Year's Model,Elvis Costello,Rock,New Wave,Rock,New Wave
-98,99,1971,There's a Riot Goin' On,Sly & The Family Stone,Funk / Soul,"Rhythm & Blues, Funk",Funk / Soul,Rhythm & Blues
-99,100,1968,Odessey and Oracle,The Zombies,Rock,Psychedelic Rock,Rock,Psychedelic Rock
-100,101,1955,In the Wee Small Hours,Frank Sinatra,"Jazz, Pop","Big Band, Ballad",Jazz,Big Band
-101,102,1966,Fresh Cream,Cream,"Rock, Blues","Blues Rock, Electric Blues",Rock,Blues Rock
-102,103,1959,Giant Steps,John Coltrane,Jazz,Hard Bop,Jazz,Hard Bop
-103,104,1970,Sweet Baby James,James Taylor,Rock,"Folk Rock, Acoustic, Soft Rock",Rock,Folk Rock
-104,105,1962,Modern Sounds in Country and Western Music,Ray Charles,"Funk / Soul, Folk, World, & Country","Country, Rhythm & Blues",Funk / Soul,Country
-105,106,1977,Rocket to Russia,Ramones,Rock,"Rock & Roll, Punk",Rock,Rock & Roll
-106,107,2003,Portrait of a Legend 1951-1964,Sam Cooke,"Latin, Funk / Soul","Soul, Rhythm & Blues, Gospel, Cha-Cha",Latin,Soul
-107,108,1971,Hunky Dory,David Bowie,Rock,"Classic Rock, Glam",Rock,Classic Rock
-108,109,1966,Aftermath,The Rolling Stones,Rock,"Blues Rock, Pop Rock",Rock,Blues Rock
-109,110,1970,Loaded,The Velvet Underground,Rock,"Art Rock, Classic Rock",Rock,Art Rock
-110,111,1995,The Bends,Radiohead,Rock,Alternative Rock,Rock,Alternative Rock
-111,112,1966,If You Can Believe Your Eyes and Ears,The Mamas and the Papas,Rock,"Folk Rock, Pop Rock",Rock,Folk Rock
-112,113,1974,Court and Spark,Joni Mitchell,Rock,"Soft Rock, Pop Rock",Rock,Soft Rock
-113,114,1967,Disraeli Gears,Cream,Rock,"Psychedelic Rock, Blues Rock",Rock,Psychedelic Rock
-114,115,1967,The Who Sell Out,The Who,Rock,"Psychedelic Rock, Mod",Rock,Psychedelic Rock
-115,116,1965,Out of Our Heads,The Rolling Stones,Rock,"Blues Rock, Rock & Roll",Rock,Blues Rock
-116,117,1970,Layla and Other Assorted Love Songs,Derek and the Dominos,Rock,Blues Rock,Rock,Blues Rock
-117,118,2005,Late Registration,Kanye West,Hip Hop,None,Hip Hop,None
-118,119,1960,At Last!,Etta James,"Funk / Soul, Blues","Rhythm & Blues, Soul",Funk / Soul,Rhythm & Blues
-119,120,1968,Sweetheart of the Rodeo,The Byrds,Rock,"Folk Rock, Country Rock",Rock,Folk Rock
-120,121,1969,Stand!,Sly & The Family Stone,Funk / Soul,"Funk, Psychedelic, Disco",Funk / Soul,Funk
-121,122,1972,The Harder They Come,Various Artists,"Reggae,ÊPop,ÊFolk, World, & Country,ÊStage & Screen","Reggae,ÊRoots Reggae,ÊRocksteady,ÊContemporary,ÊSoundtrack",Reggae,Reggae
-122,123,1986,Raising Hell,Run D.M.C.,Hip Hop,None,Hip Hop,None
-123,124,1967,Moby Grape,Moby Grape,Rock,"Folk Rock, Psychedelic Rock",Rock,Folk Rock
-124,125,1971,Pearl,Janis Joplin,"Rock, Blues",Blues Rock,Rock,Blues Rock
-125,126,1973,Catch a Fire,The Wailers,Reggae,Roots Reggae,Reggae,Roots Reggae
-126,127,1967,Younger Than Yesterday,The Byrds,Rock,"Folk Rock, Psychedelic Rock",Rock,Folk Rock
-127,128,1973,Raw Power,Iggy and The Stooges,Rock,"Garage Rock, Hard Rock, Punk",Rock,Garage Rock
-128,129,1980,Remain in Light,Talking Heads,"Electronic, Rock","New Wave, Art Rock, Funk",Electronic,New Wave
-129,130,1977,Marquee Moon,Television,Rock,"New Wave, Punk",Rock,New Wave
-130,131,1970,Paranoid,Black Sabbath,Rock,"Hard Rock, Heavy Metal",Rock,Hard Rock
-131,132,1977,Saturday Night Fever: The Original Movie Sound Track,Various Artists,"Electronic,ÊStage & Screen","Soundtrack,ÊDisco",Electronic,Soundtrack
-132,133,1973,"The Wild, the Innocent & the E Street Shuffle",Bruce Springsteen,Rock,None,Rock,None
-133,134,1994,Ready to Die,The Notorious B.I.G.,Hip Hop,Thug Rap,Hip Hop,Thug Rap
-134,135,1992,Slanted and Enchanted,Pavement,Rock,Alternative Rock,Rock,Alternative Rock
-135,136,1974,Greatest Hits,Elton John,Rock,Classic Rock,Rock,Classic Rock
-136,137,1985,Tim,The Replacements,Rock,Indie Rock,Rock,Indie Rock
-137,138,1992,The Chronic,Dr. Dre,Hip Hop,Gangsta,Hip Hop,Gangsta
-138,139,1974,Rejuvenation,The Meters,Funk / Soul,"Bayou Funk, Soul",Funk / Soul,Bayou Funk
-139,140,1978,Parallel Lines,Blondie,"Electronic, Rock","New Wave, Pop Rock, Punk, Disco",Electronic,New Wave
-140,141,1965,Live at the Regal,B.B. King,Blues,Chicago Blues,Blues,Chicago Blues
-141,142,1963,A Christmas Gift for You From Phil Spector,Phil Spector,"Rock, Funk / Soul, Pop",Pop Rock,Rock,Pop Rock
-142,143,1968,Gris-Gris,"Dr. John, the Night Tripper","Jazz, Rock, Funk / Soul, Blues","Soul-Jazz, Louisiana Blues, Fusion, Bayou Funk",Jazz,Soul-Jazz
-143,144,1988,Straight Outta Compton,N.W.A,Hip Hop,Gangsta,Hip Hop,Gangsta
-144,145,1977,Aja,Steely Dan,"Jazz, Rock","Jazz-Rock, Classic Rock",Jazz,Jazz-Rock
-145,146,1967,Surrealistic Pillow,Jefferson Airplane,Rock,"Folk Rock, Psychedelic Rock",Rock,Folk Rock
-146,147,1970,Deja vu,"Crosby, Stills, Nash & Young",Rock,Classic Rock,Rock,Classic Rock
-147,148,1973,Houses of the Holy,Led Zeppelin,Rock,Classic Rock,Rock,Classic Rock
-148,149,1969,Santana,Santana,"Rock, Latin, Funk / Soul","Afro-Cuban, Psychedelic Rock",Rock,Afro-Cuban
-149,150,1978,Darkness on the Edge of Town,Bruce Springsteen,Rock,Pop Rock,Rock,Pop Rock
-150,151,2004,Funeral,Arcade Fire,Rock,Indie Rock,Rock,Indie Rock
-151,152,1979,The B 52's / Play Loud,The B 52's,"Electronic, Rock, Pop","New Wave, Punk, Mod",Electronic,New Wave
-152,153,1991,The Low End Theory,A Tribe Called Quest,Hip Hop,Conscious,Hip Hop,Conscious
-153,154,1958,Moanin' in the Moonlight,Howlin' Wolf,Blues,Chicago Blues,Blues,Chicago Blues
-154,155,1980,Pretenders,Pretenders,Rock,"Alternative Rock, New Wave",Rock,Alternative Rock
-155,156,1989,Paul's Boutique,Beastie Boys,"Hip Hop, Rock, Funk / Soul","Alternative Rock, Pop Rap, Psychedelic",Hip Hop,Alternative Rock
-156,157,1980,Closer,Joy Division,Rock,"Post-Punk, New Wave",Rock,Post-Punk
-157,158,1975,Captain Fantastic and the Brown Dirt Cowboy,Elton John,Rock,"Pop Rock, Classic Rock",Rock,Pop Rock
-158,159,1975,Alive!,KISS,Rock,"Hard Rock, Glam",Rock,Hard Rock
-159,160,1971,Electric Warrior,T. Rex,Rock,"Glam, Classic Rock",Rock,Glam
-160,161,1968,The Dock of the Bay,Otis Redding,Funk / Soul,"Rhythm & Blues, Soul",Funk / Soul,Rhythm & Blues
-161,162,1997,OK Computer,Radiohead,"Electronic, Rock",Alternative Rock,Electronic,Alternative Rock
-162,163,1982,1999,Prince,"Funk / Soul, Pop",None,Funk / Soul,None
-163,164,2002,The Very Best of Linda Ronstadt,Linda Ronstadt,"Rock, Pop","Soft Rock, Pop Rock",Rock,Soft Rock
-164,165,1973,Let's Get It On,Marvin Gaye,Funk / Soul,Soul,Funk / Soul,Soul
-165,166,1982,Imperial Bedroom,Elvis Costello & The Attractions,Rock,"Alternative Rock, New Wave",Rock,Alternative Rock
-166,167,1986,Master of Puppets,Metallica,Rock,"Thrash, Speed Metal",Rock,Thrash
-167,168,1977,My Aim Is True,Elvis Costello,Rock,"New Wave, Pop Rock",Rock,New Wave
-168,169,1977,Exodus,Bob Marley & The Wailers,Reggae,"Reggae, Roots Reggae",Reggae,Reggae
-169,170,1970,Live at Leeds,The Who,Rock,"Classic Rock, Blues Rock, Hard Rock",Rock,Classic Rock
-170,171,1968,The Notorious Byrd Brothers,The Byrds,Rock,"Psychedelic Rock, Folk Rock, Country Rock, Pop Rock",Rock,Psychedelic Rock
-171,172,1971,Every Picture Tells a Story,Rod Stewart,Rock,Pop Rock,Rock,Pop Rock
-172,173,1972,Something/Anything?,Todd Rundgren,Rock,"Power Pop, Pop Rock, Prog Rock",Rock,Power Pop
-173,174,1976,Desire,Bob Dylan,Rock,Folk Rock,Rock,Folk Rock
-174,175,1970,Close to You,Carpenters,"Rock, Pop","Pop Rock, Vocal",Rock,Pop Rock
-175,176,1976,Rocks,Aerosmith,Rock,"Hard Rock, Classic Rock",Rock,Hard Rock
-176,177,1978,One Nation Under a Groove,Funkadelic,Funk / Soul,P.Funk,Funk / Soul,P.Funk
-177,178,1992,The Anthology: 1961-1977,Curtis Mayfield and The Impressions,Funk / Soul,"Rhythm & Blues, Soul, Funk",Funk / Soul,Rhythm & Blues
-178,179,2001,The Definitive Collection,ABBA,"Electronic, Pop","Europop, Synth-pop, Disco",Electronic,Europop
-179,180,1965,"The Rolling Stones, Now!",The Rolling Stones,"Rock, Blues, Pop","Pop Rock, Rhythm & Blues, Rock & Roll",Rock,Pop Rock
-180,181,1974,Natty Dread,Bob Marley & The Wailers,Reggae,"Reggae, Roots Reggae",Reggae,Reggae
-181,182,1975,Fleetwood Mac,Fleetwood Mac,"Rock, Pop","Folk Rock, Pop Rock",Rock,Folk Rock
-182,183,1975,Red Headed Stranger,Willie Nelson,"Folk, World, & Country",Country,Folk,Country
-183,184,1990,The Immaculate Collection,Madonna,"Electronic, Pop",Synth-pop,Electronic,Synth-pop
-184,185,1969,The Stooges,The Stooges,Rock,"Garage Rock, Punk",Rock,Garage Rock
-185,186,1973,Fresh,Sly & The Family Stone,Funk / Soul,"Rhythm & Blues, Funk",Funk / Soul,Rhythm & Blues
-186,187,1986,So,Peter Gabriel,"Electronic, Rock, Funk / Soul, Pop","Art Rock, Pop Rock, Synth-pop, Funk",Electronic,Art Rock
-187,188,1967,Buffalo Springfield Again,Buffalo Springfield,"Rock, Pop",Country Rock,Rock,Country Rock
-188,189,1969,Happy Trails,Quicksilver Messenger Service,Rock,"Acid Rock, Psychedelic Rock",Rock,Acid Rock
-189,190,1969,From Elvis in Memphis,Elvis Presley,"Rock, Funk / Soul, Folk, World, & Country","Country, Soul",Rock,Country
-190,191,1970,Fun House,The Stooges,Rock,"Garage Rock, Punk",Rock,Garage Rock
-191,192,1969,The Gilded Palace of Sin,The Flying Burrito Brothers,"Rock, Folk, World, & Country",Country Rock,Rock,Country Rock
-192,193,1994,Dookie,Green Day,Rock,"Alternative Rock, Pop Punk, Punk",Rock,Alternative Rock
-193,194,1972,Transformer,Lou Reed,Rock,Glam,Rock,Glam
-194,195,1966,"Blues Breakers With Eric Clapton (""The Beano Album"")",John Mayall & The Bluesbreakers,"Rock,ÊBlues","Blues Rock,ÊElectric Blues,ÊHarmonica Blues",Rock,Blues Rock
-195,196,1998,"Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",Various Artists,Rock,"Garage Rock,ÊPsychedelic Rock",Rock,Garage Rock
-196,197,1983,Murmur,R.E.M.,Rock,Alternative Rock,Rock,Alternative Rock
-197,198,1967,The Best of Little Walter,Little Walter,Blues,Chicago Blues,Blues,Chicago Blues
-198,199,2001,Is This It,The Strokes,Rock,Indie Rock,Rock,Indie Rock
-199,200,1979,Highway to Hell,AC/DC,Rock,Hard Rock,Rock,Hard Rock
-200,201,1994,The Downward Spiral,Nine Inch Nails,"Electronic, Rock",Industrial,Electronic,Industrial
-201,202,1966,"Parsley, Sage, Rosemary and Thyme",Simon & Garfunkel,"Rock, Pop, Folk, World, & Country","Folk Rock, Pop Rock",Rock,Folk Rock
-202,203,1987,Bad,Michael Jackson,"Funk / Soul, Pop","Pop Rock, Ballad, Funk, Soul",Funk / Soul,Pop Rock
-203,204,2006,Modern Times,Bob Dylan,Rock,"Blues Rock, Folk Rock",Rock,Blues Rock
-204,205,1968,Wheels of Fire,Cream,"Rock, Blues","Blues Rock, Psychedelic Rock, Classic Rock",Rock,Blues Rock
-205,206,1980,Dirty Mind,Prince,Funk / Soul,None,Funk / Soul,None
-206,207,1970,Abraxas,Santana,"Rock, Latin","Fusion, Hard Rock, Psychedelic Rock",Rock,Fusion
-207,208,1970,Tea for the Tillerman,Cat Stevens,"Rock, Stage & Screen","Folk Rock, Pop Rock",Rock,Folk Rock
-208,209,1991,Ten,Pearl Jam,Rock,Grunge,Rock,Grunge
-209,210,1969,Everybody Knows This Is Nowhere,Neil Young & Crazy Horse,Rock,"Folk Rock, Country Rock, Classic Rock",Rock,Folk Rock
-210,211,1975,Wish You Were Here,Pink Floyd,Rock,"Classic Rock, Prog Rock",Rock,Classic Rock
-211,212,1994,Crooked Rain Crooked Rain,Pavement,Rock,"Alternative Rock, Indie Rock",Rock,Alternative Rock
-212,213,1981,Tattoo You,The Rolling Stones,Rock,Classic Rock,Rock,Classic Rock
-213,214,1991,Proud Mary: The Best of Ike and Tina Turner,Ike & Tina Turner,Funk / Soul,"Rhythm & Blues, Bayou Funk, Soul",Funk / Soul,Rhythm & Blues
-214,215,1973,New York Dolls,New York Dolls,Rock,Glam,Rock,Glam
-215,216,1986,Bo Diddley / Go Bo Diddley,Bo Diddley,"Rock, Blues","Rhythm & Blues, Rock & Roll",Rock,Rhythm & Blues
-216,217,1961,Two Steps From the Blues,"Bobby ""Blue"" Bland","Funk / Soul, Blues","Rhythm & Blues, Soul",Funk / Soul,Rhythm & Blues
-217,218,1986,The Queen Is Dead,The Smiths,"Rock, Pop",Indie Rock,Rock,Indie Rock
-218,219,1986,Licensed to Ill,Beastie Boys,Hip Hop,None,Hip Hop,None
-219,220,1970,Look-Ka Py Py,The Meters,Funk / Soul,"Bayou Funk, Soul, Funk",Funk / Soul,Bayou Funk
-220,221,1991,Loveless,My Bloody Valentine,Rock,"Alternative Rock, Shoegaze",Rock,Alternative Rock
-221,222,1972,New Orleans Piano,Professor Longhair,"Funk / Soul, Blues",Piano Blues,Funk / Soul,Piano Blues
-222,223,1983,War,U2,Rock,Pop Rock,Rock,Pop Rock
-223,224,1999,The Neil Diamond Collection,Neil Diamond,"Rock, Pop","Soft Rock, Ballad",Rock,Soft Rock
-224,225,2004,American Idiot,Green Day,Rock,"Pop Rock, Punk",Rock,Pop Rock
-225,226,1982,Nebraska,Bruce Springsteen,Rock,Acoustic,Rock,Acoustic
-226,227,1989,Doolittle,Pixies,Rock,Indie Rock,Rock,Indie Rock
-227,228,1987,Paid in Full,Eric B. & Rakim,Hip Hop,None,Hip Hop,None
-228,229,1975,Toys in the Attic,Aerosmith,Rock,"Hard Rock, Blues Rock",Rock,Hard Rock
-229,230,1989,Nick of Time,Bonnie Raitt,"Rock, Pop","Blues Rock, Pop Rock",Rock,Blues Rock
-230,231,1975,A Night at the Opera,Queen,Rock,"Hard Rock, Pop Rock, Prog Rock",Rock,Hard Rock
-231,232,1972,The Kink Kronikles,The Kinks,Rock,"Rock & Roll, Pop Rock",Rock,Rock & Roll
-232,233,1965,Mr. Tambourine Man,The Byrds,Rock,"Folk Rock, Garage Rock, Pop Rock",Rock,Folk Rock
-233,234,1968,Bookends,Simon & Garfunkel,Rock,"Folk Rock, Classic Rock",Rock,Folk Rock
-234,235,2000,The Ultimate Collection,Patsy Cline,"Folk, World, & Country",None,Folk,None
-235,236,1992,Mr. Excitement!,Jackie Wilson,Funk / Soul,None,Funk / Soul,None
-236,237,1965,My Generation,The Who,Rock,Mod,Rock,Mod
-237,238,1962,Howlin' Wolf,Howlin' Wolf,Blues,None,Blues,None
-238,239,1989,Like a Prayer,Madonna,"Electronic, Pop",Synth-pop,Electronic,Synth-pop
-239,240,1972,Can't Buy a Thrill,Steely Dan,Rock,Classic Rock,Rock,Classic Rock
-240,241,1984,Let It Be,The Replacements,Rock,"Alternative Rock, Power Pop, Punk, Indie Rock",Rock,Alternative Rock
-241,242,1984,Run D.M.C.,Run D.M.C.,Hip Hop,None,Hip Hop,None
-242,243,1970,Black Sabbath,Black Sabbath,Rock,"Blues Rock, Heavy Metal",Rock,Blues Rock
-243,244,2000,The Marshall Mathers LP,Eminem,Hip Hop,"Pop Rap, Hardcore Hip-Hop, Horrorcore",Hip Hop,Pop Rap
-244,245,1993,All Killer No Filler! The Jerry Lee Lewis Anthology,Jerry Lee Lewis,"Rock, Blues, Folk, World, & Country","Country Blues, Rock & Roll, Rhythm & Blues",Rock,Country Blues
-245,246,1966,Freak Out!,The Mothers of Invention,"Electronic, Rock","Musique Concr?te, Avantgarde, Symphonic Rock, Rhythm & Blues, Psychedelic Rock, Experimental, Parody",Electronic,Musique Concr?te
-246,247,1969,Live/Dead,The Grateful Dead,Rock,"Folk Rock, Country Rock, Psychedelic Rock, Experimental",Rock,Folk Rock
-247,248,1959,The Shape of Jazz to Come,Ornette Coleman,Jazz,Free Jazz,Jazz,Free Jazz
-248,249,1992,Automatic for the People,R.E.M.,Rock,Alternative Rock,Rock,Alternative Rock
-249,250,1996,Reasonable Doubt,Jay Z,Hip Hop,None,Hip Hop,None
-250,251,1977,Low,David Bowie,"Electronic, Rock","Art Rock, Ambient, Experimental",Electronic,Art Rock
-251,252,2001,The Blueprint,Jay Z,Hip Hop,None,Hip Hop,None
-252,253,1980,The River,Bruce Springsteen,Rock,"Folk Rock, Pop Rock, Classic Rock",Rock,Folk Rock
-253,254,1966,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Otis Redding,Funk / Soul,Soul,Funk / Soul,Soul
-254,255,1991,"Metallica (""The Black Album"")",Metallica,Rock,Heavy Metal,Rock,Heavy Metal
-255,256,1977,Trans Europa Express,Kraftwerk,Electronic,Electro,Electronic,Electro
-256,257,1985,Whitney Houston,Whitney Houston,"Funk / Soul, Pop","Synth-pop, Rhythm & Blues",Funk / Soul,Synth-pop
-257,258,1968,The Kinks Are The Village Green Preservation Society,The Kinks,Rock,"Psychedelic Rock, Pop Rock",Rock,Psychedelic Rock
-258,259,1997,The Velvet Rope,Janet,"Electronic, Funk / Soul, Pop","RnB/Swing, Downtempo",Electronic,RnB/Swing
-259,260,1978,Stardust,Willie Nelson,"Pop, Folk, World, & Country",Vocal,Pop,Vocal
-260,261,1970,American Beauty,Grateful Dead,Rock,Folk Rock,Rock,Folk Rock
-261,262,1969,"Crosby, Stills & Nash","Crosby, Stills & Nash","Rock, Folk, World, & Country","Folk Rock, Classic Rock",Rock,Folk Rock
-262,263,1988,Tracy Chapman,Tracy Chapman,Rock,None,Rock,None
-263,264,1970,Workingman's Dead,Grateful Dead,Rock,"Folk Rock, Country Rock, Classic Rock",Rock,Folk Rock
-264,265,1959,The Genius of Ray Charles,Ray Charles,"Jazz, Pop","Soul-Jazz, Big Band",Jazz,Soul-Jazz
-265,266,1968,Child Is Father to the Man,"Blood, Sweat & Tears",Rock,"Blues Rock, Jazz-Rock, Classic Rock",Rock,Blues Rock
-266,267,1973,Quadrophenia,The Who,Rock,"Hard Rock, Classic Rock, Mod",Rock,Hard Rock
-267,268,1972,Paul Simon,Paul Simon,Rock,"Folk Rock, Pop Rock",Rock,Folk Rock
-268,269,1985,Psychocandy,The Jesus and Mary Chain,Rock,Noise,Rock,Noise
-269,270,1978,Some Girls,The Rolling Stones,Rock,"Blues Rock, Rock & Roll, Classic Rock, Disco",Rock,Blues Rock
-270,271,1965,The Beach Boys Today!,The Beach Boys,Rock,"Pop Rock, Psychedelic Rock",Rock,Pop Rock
-271,272,1997,Dig Me Out,Sleater Kinney,Rock,Indie Rock,Rock,Indie Rock
-272,273,1966,Going to a Go-Go,Smokey Robinson & The Miracles,Funk / Soul,Soul,Funk / Soul,Soul
-273,274,1974,Nightbirds,LaBelle,Funk / Soul,"Funk, Disco",Funk / Soul,Funk
-274,275,1999,The Slim Shady LP,Eminem,Hip Hop,None,Hip Hop,None
-275,276,1975,Mothership Connection,Parliament,Funk / Soul,"P.Funk, Funk",Funk / Soul,P.Funk
-276,277,1989,Rhythm Nation 1814,Janet Jackson,"Electronic, Hip Hop, Pop","RnB/Swing, Downtempo, Synth-pop",Electronic,RnB/Swing
-277,278,1997,Anthology of American Folk Music,Various,"Blues, Folk, World, & Country","Cajun, Country, Field Recording, Gospel, Delta Blues, Folk",Blues,Cajun
-278,279,1973,Aladdin Sane,David Bowie,Rock,Glam,Rock,Glam
-279,280,2000,All That You Can't Leave Behind,U2,Rock,Pop Rock,Rock,Pop Rock
-280,281,1994,My Life,Mary J. Blige,Hip Hop,RnB/Swing,Hip Hop,RnB/Swing
-281,282,1964,Folk Singer,Muddy Waters,Blues,Delta Blues,Blues,Delta Blues
-282,283,1974,Can't Get Enough,Barry White,Funk / Soul,"Soul, Disco",Funk / Soul,Soul
-283,284,1978,The Cars,The Cars,"Electronic, Rock","New Wave, Pop Rock, Synth-pop",Electronic,New Wave
-284,285,1972,Music of My Mind,Stevie Wonder,Funk / Soul,"Soul-Jazz, Soul",Funk / Soul,Soul-Jazz
-285,286,1972,I'm Still in Love With You,Al Green,Funk / Soul,"Rhythm & Blues, Soul",Funk / Soul,Rhythm & Blues
-286,287,1980,Los Angeles,X,Rock,"Punk, Rock & Roll",Rock,Punk
-287,288,1968,Anthem of the Sun,Grateful Dead,Rock,Psychedelic Rock,Rock,Psychedelic Rock
-288,289,1967,Something Else by The Kinks,The Kinks,Rock,"Pop Rock, Psychedelic Rock, Mod",Rock,Pop Rock
-289,290,1973,Call Me,Al Green,Funk / Soul,"Rhythm & Blues, Soul",Funk / Soul,Rhythm & Blues
-290,291,1977,Talking Heads: 77,Talking Heads,Rock,New Wave,Rock,New Wave
-291,292,1975,The Basement Tapes,Bob Dylan and the Band,Rock,"Folk Rock, Country Rock, Classic Rock",Rock,Folk Rock
-292,293,1968,White Light/White Heat,The Velvet Underground,Rock,"Avantgarde, Experimental",Rock,Avantgarde
-293,294,1969,Kick Out the Jams,MC5,Rock,"Garage Rock, Hard Rock, Punk, Blues Rock",Rock,Garage Rock
-294,295,1970,Songs of Love and Hate,Leonard Cohen,"Folk, World, & Country","Folk Rock, Folk, Ballad",Folk,Folk Rock
-295,296,1985,Meat Is Murder,The Smiths,Rock,"Alternative Rock, Indie Rock",Rock,Alternative Rock
-296,297,1968,We're Only in It for the Money,The Mothers of Invention,"Electronic, Rock","Modern Classical, Avantgarde, Psychedelic Rock, Experimental, Parody",Electronic,Modern Classical
-297,298,2003,The College Dropout,Kanye West,Hip Hop,"Pop Rap, Conscious, Contemporary R&B",Hip Hop,Pop Rap
-298,299,1994,Weezer (Blue Album),Weezer,Rock,"Alternative Rock, Emo",Rock,Alternative Rock
-299,300,1971,Master of Reality,Black Sabbath,Rock,"Hard Rock, Heavy Metal",Rock,Hard Rock
-300,301,1971,Coat of Many Colors,Dolly Parton,"Folk, World, & Country",Country,Folk,Country
-301,302,1990,Fear of a Black Planet,Public Enemy,Hip Hop,Conscious,Hip Hop,Conscious
-302,303,1967,John Wesley Harding,Bob Dylan,Rock,"Folk Rock, Country Rock",Rock,Folk Rock
-303,304,1994,Grace,Jeff Buckley,Rock,"Alternative Rock, Folk Rock",Rock,Alternative Rock
-304,305,1998,Car Wheels on a Gravel Road,Lucinda Williams,"Folk, World, & Country","Country, Folk",Folk,Country
-305,306,1996,Odelay,Beck,"Electronic, Hip Hop, Funk / Soul, Pop","Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract",Electronic,Electro
-306,307,1964,A Hard Day's Night,The Beatles,"Rock, Stage & Screen","Soundtrack, Beat, Pop Rock",Rock,Soundtrack
-307,308,1956,Songs for Swingin' Lovers!,Frank Sinatra,"Jazz, Pop","Vocal, Easy Listening",Jazz,Vocal
-308,309,1969,Willy and the Poor Boys,Creedence Clearwater Revival,Rock,"Blues Rock, Rock & Roll, Classic Rock",Rock,Blues Rock
-309,310,1991,Blood Sugar Sex Magik,Red Hot Chili Peppers,Rock,"Alternative Rock, Funk Metal",Rock,Alternative Rock
-310,311,1994,The Sun Records Collection,Various,"Rock, Funk / Soul, Blues, Pop, Folk, World, & Country","Country Blues, Rock & Roll, Rockabilly",Rock,Country Blues
-311,312,1988,Nothing's Shocking,Jane's Addiction,Rock,Alternative Rock,Rock,Alternative Rock
-312,313,1994,MTV Unplugged in New York,Nirvana,Rock,"Folk Rock, Acoustic, Grunge",Rock,Folk Rock
-313,314,1998,The Miseducation of Lauryn Hill,Lauryn Hill,Hip Hop,"RnB/Swing, Conscious",Hip Hop,RnB/Swing
-314,315,1979,Damn the Torpedoes,Tom Petty and the Heartbreakers,Rock,"Soft Rock, Hard Rock, Pop Rock",Rock,Soft Rock
-315,316,1969,The Velvet Underground,The Velvet Underground,Rock,"Garage Rock, Art Rock, Experimental",Rock,Garage Rock
-316,317,1988,Surfer Rosa,Pixies,Rock,Alternative Rock,Rock,Alternative Rock
-317,318,1972,Back Stabbers,The O'Jays,Funk / Soul,Soul,Funk / Soul,Soul
-318,319,1973,Burnin',The Wailers,Reggae,Reggae,Reggae,Reggae
-319,320,2001,Amnesiac,Radiohead,"Electronic, Rock","Alternative Rock, Experimental",Electronic,Alternative Rock
-320,321,1972,Pink Moon,Nick Drake,"Rock, Folk, World, & Country","Folk, Folk Rock, Acoustic",Rock,Folk
-321,322,1972,Sail Away,Randy Newman,"Rock, Pop",None,Rock,None
-322,323,1981,Ghost in the Machine,The Police,"Rock, Pop","Alternative Rock, New Wave, Pop Rock",Rock,Alternative Rock
-323,324,1976,Station to Station,David Bowie,"Rock, Funk / Soul","Classic Rock, Soul, Funk, Art Rock",Rock,Classic Rock
-324,325,1977,Slowhand,Eric Clapton,Rock,None,Rock,None
-325,326,1989,Disintegration,The Cure,"Electronic, Rock","New Wave, Alternative Rock",Electronic,New Wave
-326,327,1993,Exile in Guyville,Liz Phair,Rock,"Lo-Fi, Indie Rock",Rock,Lo-Fi
-327,328,1988,Daydream Nation,Sonic Youth,Rock,"Alternative Rock, Indie Rock",Rock,Alternative Rock
-328,329,1986,In the Jungle Groove,James Brown,Funk / Soul,"Soul, Funk",Funk / Soul,Soul
-329,330,1975,Tonight's the Night,Neil Young,Rock,"Blues Rock, Folk Rock, Classic Rock",Rock,Blues Rock
-330,331,1965,Help!,The Beatles,"Rock, Stage & Screen","Beat, Soundtrack, Pop Rock",Rock,Beat
-331,332,1982,Shoot Out the Lights,Richard & Linda Thompson,"Rock, Folk, World, & Country",Folk Rock,Rock,Folk Rock
-332,333,1981,Wild Gift,X,Rock,"Rock & Roll, Punk",Rock,Rock & Roll
-333,334,1979,Squeezing Out Sparks,Graham Parker & The Rumour,"Rock, Blues",None,Rock,None
-334,335,1994,Superunknown,Soundgarden,Rock,Alternative Rock,Rock,Alternative Rock
-335,336,2007,In Rainbows,Radiohead,"Electronic, Rock","Alternative Rock, Art Rock",Electronic,Alternative Rock
-336,337,1971,Aqualung,Jethro Tull,Rock,"Classic Rock, Prog Rock",Rock,Classic Rock
-337,338,1968,Cheap Thrills,Big Brother & the Holding Company,Rock,"Folk Rock, Blues Rock, Psychedelic Rock",Rock,Folk Rock
-338,339,1974,The Heart of Saturday Night,Tom Waits,"Jazz, Pop, Folk, World, & Country","Contemporary Jazz, Spoken Word",Jazz,Contemporary Jazz
-339,340,1981,Damaged,Black Flag,Rock,"Hardcore, Punk",Rock,Hardcore
-340,341,1999,Play,Moby,Electronic,"Breakbeat, Leftfield, Downtempo",Electronic,Breakbeat
-341,342,1990,Violator,Depeche Mode,Electronic,Synth-pop,Electronic,Synth-pop
-342,343,1977,Bat Out of Hell,Meat Loaf,Rock,Pop Rock,Rock,Pop Rock
-343,344,1973,Berlin,Lou Reed,Rock,Hard Rock,Rock,Hard Rock
-344,345,1984,Stop Making Sense,Talking Heads,"Rock, Funk / Soul","Funk, Indie Rock, New Wave",Rock,Funk
-345,346,1989,3 Feet High and Rising,De La Soul,Hip Hop,None,Hip Hop,None
-346,347,1967,The Piper at the Gates of Dawn,Pink Floyd,Rock,Psychedelic Rock,Rock,Psychedelic Rock
-347,348,1960,Muddy Waters at Newport 1960,Muddy Waters,"Rock, Blues","Blues Rock, Chicago Blues",Rock,Blues Rock
-348,349,2003,The Black Album,Jay Z,Hip Hop,None,Hip Hop,None
-349,350,1966,Roger the Engineer,The Yardbirds,"Rock, Blues","Blues Rock, Pop Rock",Rock,Blues Rock
-350,351,1979,Rust Never Sleeps,Neil Young & Crazy Horse,Rock,"Hard Rock, Arena Rock",Rock,Hard Rock
-351,352,1985,Brothers in Arms,Dire Straits,Rock,"AOR, Classic Rock",Rock,AOR
-352,353,2010,My Beautiful Dark Twisted Fantasy,Kanye West,Hip Hop,None,Hip Hop,None
-353,354,1978,52nd Street,Billy Joel,"Jazz, Rock, Pop","Pop Rock, Ballad, Latin Jazz",Jazz,Pop Rock
-354,355,1965,Having a Rave Up,The Yardbirds,Rock,"Blues Rock, Psychedelic Rock",Rock,Blues Rock
-355,356,1970,12 Songs,Randy Newman,"Rock, Pop","Pop Rock, Vocal",Rock,Pop Rock
-356,357,1967,Between the Buttons,The Rolling Stones,Rock,"Blues Rock, Psychedelic Rock, Pop Rock",Rock,Blues Rock
-357,358,1960,Sketches of Spain,Miles Davis,Jazz,Modal,Jazz,Modal
-358,359,1972,Honky Chteau,Elton John,Rock,"Pop Rock,ÊClassic Rock",Rock,Pop Rock
-359,360,1979,Singles Going Steady,Buzzcocks,Rock,Punk,Rock,Punk
-360,361,2000,Stankonia,OutKast,"Hip Hop, Funk / Soul","Gangsta, P.Funk, Crunk, Conscious",Hip Hop,Gangsta
-361,362,1993,Siamese Dream,The Smashing Pumpkins,Rock,Alternative Rock,Rock,Alternative Rock
-362,363,1987,Substance 1987,New Order,Electronic,Synth-pop,Electronic,Synth-pop
-363,364,1971,L.A. Woman,The Doors,Rock,"Blues Rock, Classic Rock",Rock,Blues Rock
-364,365,1992,Rage Against the Machine,Rage Against the Machine,"Hip Hop, Rock",Funk Metal,Hip Hop,Funk Metal
-365,366,1994,American Recordings,Johnny Cash,"Folk, World, & Country","Country, Gospel, Folk",Folk,Country
-366,367,1998,Ray of Light,Madonna,"Electronic, Pop","House, Techno, Downtempo, Vocal, Ambient",Electronic,House
-367,368,1972,Eagles,Eagles,Rock,"Country Rock, Classic Rock",Rock,Country Rock
-368,369,1987,Louder Than Bombs,The Smiths,Rock,"Alternative Rock, Indie Rock",Rock,Alternative Rock
-369,370,1973,Mott,Mott the Hoople,Rock,Classic Rock,Rock,Classic Rock
-370,371,2006,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,Rock,Indie Rock,Rock,Indie Rock
-371,372,1979,Reggatta de Blanc,The Police,"Rock, Pop","New Wave, Pop Rock",Rock,New Wave
-372,373,1969,Volunteers,Jefferson Airplane,Rock,"Psychedelic Rock, Folk Rock, Country Rock, Honky Tonk",Rock,Psychedelic Rock
-373,374,1975,Siren,Roxy Music,Rock,"Art Rock, Pop Rock, Glam",Rock,Art Rock
-374,375,1974,Late for the Sky,Jackson Browne,Rock,Pop Rock,Rock,Pop Rock
-375,376,1995,Post,Bjork,Electronic,"Breakbeat, IDM, Electro",Electronic,Breakbeat
-376,377,1991,The Ultimate Collection: 1948-1990,John Lee Hooker,Blues,"Country Blues, Electric Blues, Chicago Blues, Jump Blues",Blues,Country Blues
-377,378,1995,(What's the Story) Morning Glory?,Oasis,"Rock, Pop",Brit Pop,Rock,Brit Pop
-378,379,1994,CrazySexyCool,TLC,"Electronic, Hip Hop, Funk / Soul",RnB/Swing,Electronic,RnB/Swing
-379,380,1973,Funky Kingston,Toots & The Maytals,Reggae,"Reggae Gospel, Reggae, Roots Reggae, Rocksteady",Reggae,Reggae Gospel
-380,381,2011,The Smile Sessions,The Beach Boys,Rock,"Pop Rock, Psychedelic Rock",Rock,Pop Rock
-381,382,1976,The Modern Lovers,The Modern Lovers,Rock,"Art Rock, Indie Rock",Rock,Art Rock
-382,383,1978,More Songs About Buildings and Food,Talking Heads,Rock,"New Wave, Indie Rock",Rock,New Wave
-383,384,1966,A Quick One,The Who,Rock,"Mod, Beat, Psychedelic Rock",Rock,Mod
-384,385,2001,"""Love and Theft""",Bob Dylan,Rock,"Folk Rock, Blues Rock",Rock,Folk Rock
-385,386,1974,Pretzel Logic,Steely Dan,"Jazz, Rock","Jazz-Rock, Pop Rock, Classic Rock",Jazz,Jazz-Rock
-386,387,1993,Enter the Wu_Tang: 36 Chambers,Wu Tang Clan,Hip Hop,Gangsta,Hip Hop,Gangsta
-387,388,1985,The Indestructible Beat of Soweto,Various Artists,"Funk / Soul,ÊFolk, World, & Country",African,Funk / Soul,African
-388,389,1989,The End of the Innocence,Don Henley,Rock,Pop Rock,Rock,Pop Rock
-389,390,2003,Elephant,The White Stripes,Rock,"Blues Rock, Garage Rock, Alternative Rock",Rock,Blues Rock
-390,391,1976,The Pretender,Jackson Browne,Rock,"Soft Rock, Pop Rock",Rock,Soft Rock
-391,392,1970,Let It Be,The Beatles,Rock,Pop Rock,Rock,Pop Rock
-392,393,2007,Kala,M.I.A.,"Electronic, Hip Hop, Reggae, Pop","Grime, Bollywood, Hip Hop, Dancehall",Electronic,Grime
-393,394,1974,Good Old Boys,Randy Newman,"Rock, Pop","Pop Rock, Vocal",Rock,Pop Rock
-394,395,2007,Sound of Silver,LCD Soundsystem,"Electronic, Rock","Leftfield, Alternative Rock, Electro, Disco",Electronic,Leftfield
-395,396,1973,For Your Pleasure,Roxy Music,Rock,"Art Rock, Avantgarde, Glam",Rock,Art Rock
-396,397,1991,Blue Lines,Massive Attack,"Electronic, Reggae","Dub, Downtempo",Electronic,Dub
-397,398,1983,Eliminator,ZZ Top,Rock,Pop Rock,Rock,Pop Rock
-398,399,1985,Rain Dogs,Tom Waits,"Rock, Blues",Blues Rock,Rock,Blues Rock
-399,400,1995,Anthology: The Best of The Temptations,The Temptations,"Electronic, Funk / Soul","Soul, Disco",Electronic,Soul
-400,401,1999,Californication,Red Hot Chili Peppers,Rock,"Alternative Rock, Funk Metal",Rock,Alternative Rock
-401,402,1994,Illmatic,Nas,Hip Hop,None,Hip Hop,None
-402,403,1973,(pronounced 'leh-'nerd 'skin-'nerd),Lynyrd Skynyrd,Rock,"Blues Rock, Hard Rock, Southern Rock",Rock,Blues Rock
-403,404,1972,Dr. John's Gumbo,Dr. John,Funk / Soul,"Bayou Funk, Funk, Rhythm & Blues",Funk / Soul,Bayou Funk
-404,405,1974,Radio City,Big Star,Rock,Power Pop,Rock,Power Pop
-405,406,1993,Rid of Me,PJ Harvey,Rock,Indie Rock,Rock,Indie Rock
-406,407,1980,Sandinista!,The Clash,"Rock, Reggae","Rock & Roll, Dub, Punk",Rock,Rock & Roll
-407,408,1989,I Do Not Want What I Haven't Got,Sinead O'Connor,"Rock, Funk / Soul, Blues","Blues Rock, Rhythm & Blues, Soul",Rock,Blues Rock
-408,409,1967,Strange Days,The Doors,Rock,Psychedelic Rock,Rock,Psychedelic Rock
-409,410,1997,Time Out of Mind,Bob Dylan,"Rock, Blues",Blues Rock,Rock,Blues Rock
-410,411,1974,461 Ocean Boulevard,Eric Clapton,Rock,Blues Rock,Rock,Blues Rock
-411,412,1977,Pink Flag,Wire,Rock,Punk,Rock,Punk
-412,413,1984,Double Nickels on the Dime,Minutemen,Rock,"Alternative Rock, Hardcore, Punk",Rock,Alternative Rock
-413,414,1981,Beauty and the Beat,The Go Go's,Rock,Pop Rock,Rock,Pop Rock
-414,415,1978,Van Halen,Van Halen,Rock,Hard Rock,Rock,Hard Rock
-415,416,1999,Mule Variations,Tom Waits,"Electronic, Rock","Abstract, Art Rock",Electronic,Abstract
-416,417,1980,Boy,U2,Rock,"New Wave, Pop Rock",Rock,New Wave
-417,418,1973,Band on the Run,Paul McCartney & Wings,Rock,Pop Rock,Rock,Pop Rock
-418,419,1994,Dummy,Portishead,Electronic,"Trip Hop, Downtempo",Electronic,Trip Hop
-419,420,1957,"The ""Chirping"" Crickets",The Crickets,"Rock, Pop","Rockabilly, Rock & Roll",Rock,Rockabilly
-420,421,1990,"The Best of the Girl Groups, Volume 1",Various Artists,"Rock,ÊPop","Pop Rock, Vocal",Rock,Pop Rock
-421,422,1963,Presenting the Fabulous Ronettes Featuring Veronica,The Ronettes,"Rock, Pop","Rock & Roll, Vocal",Rock,Rock & Roll
-422,423,2001,Anthology,Diana Ross & The Supremes,"Electronic, Funk / Soul","Pop Rock, Soul, Disco",Electronic,Pop Rock
-423,424,2002,The Rising,Bruce Springsteen,Rock,"Folk Rock, Classic Rock",Rock,Folk Rock
-424,425,1974,Grievous Angel,Gram Parsons,"Rock, Folk, World, & Country","Country Rock, Honky Tonk",Rock,Country Rock
-425,426,1978,Cheap Trick at Budokan,Cheap Trick,Rock,"Power Pop, Pop Rock, Arena Rock, Hard Rock",Rock,Power Pop
-426,427,2002,Sleepless,Peter Wolf,"Rock, Blues, Pop","Blues Rock, Pop Rock, Ballad",Rock,Blues Rock
-427,428,1978,Outlandos d'Amour,The Police,Rock,"Alternative Rock, New Wave, Punk",Rock,Alternative Rock
-428,429,1975,Another Green World,Brian Eno,Electronic,"Experimental, Ambient",Electronic,Experimental
-429,430,2007,Vampire Weekend,Vampire Weekend,Rock,Indie Rock,Rock,Indie Rock
-430,431,2000,"Stories From the City, Stories From the Sea",PJ Harvey,Rock,Indie Rock,Rock,Indie Rock
-431,432,1973,Here Come the Warm Jets,Brian Eno,Rock,"Art Rock, Glam",Rock,Art Rock
-432,433,1970,All Things Must Pass,George Harrison,Rock,Pop Rock,Rock,Pop Rock
-433,434,1972,#1 Record,Big Star,Rock,Power Pop,Rock,Power Pop
-434,435,1993,In Utero,Nirvana,Rock,"Grunge, Alternative Rock",Rock,Grunge
-435,436,2002,Sea Change,Beck,Rock,"Alternative Rock, Post Rock",Rock,Alternative Rock
-436,437,2008,Tha Carter III,Lil Wayne,"Hip Hop, Funk / Soul","RnB/Swing, Screw, Pop Rap, Thug Rap",Hip Hop,RnB/Swing
-437,438,1979,Boys Don't Cry,The Cure,Rock,"New Wave, Post-Punk",Rock,New Wave
-438,439,1985,"Live at the Harlem Square Club, 1963",Sam Cooke,Funk / Soul,Soul,Funk / Soul,Soul
-439,440,1985,Rum Sodomy & the Lash,The Pogues,"Rock, Folk, World, & Country","Folk Rock, Celtic, Punk",Rock,Folk Rock
-440,441,1977,Suicide,Suicide,"Electronic, Rock","New Wave, Experimental",Electronic,New Wave
-441,442,1978,Q: Are We Not Men? A: We Are Devo!,DEVO,Rock,New Wave,Rock,New Wave
-442,443,1977,In Color,Cheap Trick,Rock,"Power Pop, Pop Rock, Hard Rock",Rock,Power Pop
-443,444,1972,The World Is a Ghetto,War,Funk / Soul,Funk,Funk / Soul,Funk
-444,445,1976,Fly Like an Eagle,Steve Miller Band,Rock,Pop Rock,Rock,Pop Rock
-445,446,1970,Back in the USA,MC5,Rock,"Garage Rock, Rock & Roll",Rock,Garage Rock
-446,447,1964,Getz / Gilberto,Stan GetzÊ/ÊJoao GilbertoÊfeaturingÊAntonio Carlos Jobim,Jazz,"Bossa Nova,ÊLatin Jazz",Jazz,Bossa Nova
-447,448,1983,Synchronicity,The Police,"Rock, Pop","New Wave, Pop Rock",Rock,New Wave
-448,449,1978,Third/Sister Lovers,Big Star,Rock,"Lo-Fi,ÊIndie Rock",Rock,Lo-Fi
-449,450,1973,For Everyman,Jackson Browne,Rock,"Pop Rock, Classic Rock",Rock,Pop Rock
-450,451,2006,Back to Black,Amy Winehouse,"Funk / Soul, Pop",Soul,Funk / Soul,Soul
-451,452,1971,John Prine,John Prine,"Folk, World, & Country","Country, Folk",Folk,Country
-452,453,1987,Strictly Business,EPMD,Hip Hop,None,Hip Hop,None
-453,454,1971,Love It to Death,Alice Cooper,Rock,Classic Rock,Rock,Classic Rock
-454,455,1984,How Will the Wolf Survive?,Los Lobos,"Rock, Latin",Blues Rock,Rock,Blues Rock
-455,456,1978,"Here, My Dear",Marvin Gaye,Funk / Soul,Soul,Funk / Soul,Soul
-456,457,2005,Z,My Morning Jacket,Rock,Alternative Rock,Rock,Alternative Rock
-457,458,1970,Tumbleweed Connection,Elton John,"Rock, Folk, World, & Country","Soft Rock, Country Rock",Rock,Soft Rock
-458,459,1968,The Drifters' Golden Hits,The Drifters,"Rock, Funk / Soul","Rhythm & Blues, Soul",Rock,Rhythm & Blues
-459,460,1994,Live Through This,Hole,Rock,Grunge,Rock,Grunge
-460,461,1979,Metal Box,Public Image Ltd.,"Electronic, Rock","Post-Punk, Dub, Avantgarde, Experimental",Electronic,Post-Punk
-461,462,1987,Document,R.E.M.,Rock,None,Rock,None
-462,463,1981,Heaven Up Here,Echo and The Bunnymen,Rock,"New Wave, Indie Rock",Rock,New Wave
-463,464,1987,Hysteria,Def Leppard,Rock,"Hard Rock, Arena Rock",Rock,Hard Rock
-464,465,1999,69 Love Songs,The Magnetic Fields,"Electronic, Rock","Synth-pop, Indie Rock",Electronic,Synth-pop
-465,466,2002,A Rush of Blood to the Head,Coldplay,Rock,"Alternative Rock, Pop Rock",Rock,Alternative Rock
-466,467,1987,Tunnel of Love,Bruce Springsteen,Rock,None,Rock,None
-467,468,1965,The Paul Butterfield Blues Band,The Paul Butterfield Blues Band,"Rock, Blues","Blues Rock, Electric Blues, Chicago Blues, Modern Electric Blues, Harmonica Blues",Rock,Blues Rock
-468,469,1996,The Score,Fugees,Hip Hop,"Pop Rap, Conscious",Hip Hop,Pop Rap
-469,470,1985,Radio,L.L. Cool J,Hip Hop,None,Hip Hop,None
-470,471,1974,I Want to See the Bright Lights Tonight,Richard & Linda Thompson,Rock,"Classic Rock, Folk Rock",Rock,Classic Rock
-471,472,1987,Faith,George Michael,"Electronic, Rock, Funk / Soul, Blues, Pop","Downtempo, Soft Rock, Pop Rock, Synth-pop",Electronic,Downtempo
-472,473,1984,The Smiths,The Smiths,Rock,Indie Rock,Rock,Indie Rock
-473,474,2001,Proxima estacion: Esperanza,Manu Chao,"Rock, Reggae, Latin","Folk Rock, Reggae, Reggae-Pop",Rock,Folk Rock
-474,475,1979,Armed Forces,Elvis Costello & The Attractions,Rock,"New Wave, Pop Rock",Rock,New Wave
-475,476,1997,Life After Death,The Notorious B.I.G.,Hip Hop,None,Hip Hop,None
-476,477,1996,Down Every Road,Merle Haggard,"Folk, World, & Country",Country,Folk,Country
-477,478,2002,All Time Greatest Hits,Loretta Lynn,"Folk, World, & Country",Country,Folk,Country
-478,479,1971,Maggot Brain,Funkadelic,"Rock, Funk / Soul","P.Funk, Psychedelic Rock",Rock,P.Funk
-479,480,1995,Only Built 4 Cuban Linx,Raekwon,Hip Hop,None,Hip Hop,None
-480,481,2000,Voodoo,D'Angelo,"Hip Hop, Funk / Soul","Soul, Funk, Neo Soul",Hip Hop,Soul
-481,482,1986,Guitar Town,Steve Earle,"Rock, Folk, World, & Country","Country, Honky Tonk",Rock,Country
-482,483,1979,Entertainment!,Gang of Four,Rock,"Post-Punk, New Wave",Rock,Post-Punk
-483,484,1972,All the Young Dudes,Mott the Hoople,Rock,"Classic Rock, Glam",Rock,Classic Rock
-484,485,1994,Vitalogy,Pearl Jam,Rock,"Alternative Rock, Hard Rock",Rock,Alternative Rock
-485,486,1975,That's the Way of the World,"Earth, Wind & Fire",Funk / Soul,"Soul, Funk, Disco",Funk / Soul,Soul
-486,487,1983,She's So Unusual,Cyndi Lauper,"Electronic, Rock","Pop Rock, Synth-pop",Electronic,Pop Rock
-487,488,1985,New Day Rising,Husker Du,Rock,"Alternative Rock, Hardcore, Punk",Rock,Alternative Rock
-488,489,1976,Destroyer,KISS,Rock,Hard Rock,Rock,Hard Rock
-489,490,1973,Tres hombres,ZZ Top,Rock,"Blues Rock, Classic Rock",Rock,Blues Rock
-490,491,1967,Born Under a Bad Sign,Albert King,"Funk / Soul, Blues","Electric Blues, Rhythm & Blues, Soul",Funk / Soul,Electric Blues
-491,492,1983,Touch,Eurythmics,"Electronic, Pop","New Wave, Synth-pop",Electronic,New Wave
-492,493,2002,Yankee Hotel Foxtrot,Wilco,Rock,Alternative Rock,Rock,Alternative Rock
-493,494,2007,Oracular Spectacular,MGMT,"Electronic, Rock, Pop","Synth-pop, Indie Rock",Electronic,Synth-pop
-494,495,1972,Give It Up,Bonnie Raitt,Rock,Blues Rock,Rock,Blues Rock
-495,496,1969,Boz Scaggs,Boz Scaggs,Rock,Pop Rock,Rock,Pop Rock
-496,497,2001,White Blood Cells,The White Stripes,Rock,"Indie Rock, Alternative Rock, Blues Rock, Garage Rock",Rock,Indie Rock
-497,498,1989,The Stone Roses,The Stone Roses,Rock,Indie Rock,Rock,Indie Rock
-498,499,1971,Live in Cook County Jail,B.B. King,Blues,Electric Blues,Blues,Electric Blues
-499,500,1998,Aquemini,OutKast,Hip Hop,"Reggae, Gangsta, Soul, Conscious",Hip Hop,Reggae
+,Number,Year,Album,Artist,Genre,Subgenre,Alb_url,Gen,Subgen
+0,1,1967,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Rock,"Rock & Roll, Psychedelic Rock",Sgt. Pepper's Lonely Hearts Club Band,Rock,Rock & Roll
+1,2,1966,Pet Sounds,The Beach Boys,Rock,"Pop Rock, Psychedelic Rock",Pet Sounds,Rock,Pop Rock
+2,3,1966,Revolver,The Beatles,Rock,"Psychedelic Rock, Pop Rock",Revolver,Rock,Psychedelic Rock
+3,4,1965,Highway 61 Revisited,Bob Dylan,Rock,"Folk Rock, Blues Rock",Highway 61 Revisited,Rock,Folk Rock
+4,5,1965,Rubber Soul,The Beatles,"Rock, Pop",Pop Rock,Rubber Soul,Rock,Pop Rock
+5,6,1971,What's Going On,Marvin Gaye,Funk / Soul,Soul,What's Going On,Funk / Soul,Soul
+6,7,1972,Exile on Main St.,The Rolling Stones,Rock,"Blues Rock, Rock & Roll, Classic Rock",Exile on Main St.,Rock,Blues Rock
+7,8,1979,London Calling,The Clash,Rock,"Punk, New Wave",London Calling,Rock,Punk
+8,9,1966,Blonde on Blonde,Bob Dylan,"Rock, Blues","Folk Rock, Rhythm & Blues",Blonde on Blonde,Rock,Folk Rock
+9,10,1968,"The Beatles (""The White Album"")",The Beatles,Rock,"Rock & Roll, Pop Rock, Psychedelic Rock, Experimental","The Beatles (""The White Album"")",Rock,Rock & Roll
+10,11,1976,The Sun Sessions,Elvis Presley,Rock,Rock & Roll,The Sun Sessions,Rock,Rock & Roll
+11,12,1959,Kind of Blue,Miles Davis,Jazz,Modal,Kind of Blue,Jazz,Modal
+12,13,1967,The Velvet Underground & Nico,The Velvet Underground,Rock,"Garage Rock, Art Rock, Experimental",The Velvet Underground & Nico,Rock,Garage Rock
+13,14,1969,Abbey Road,The Beatles,Rock,"Psychedelic Rock, Classic Rock, Pop Rock",Abbey Road,Rock,Psychedelic Rock
+14,15,1967,Are You Experienced,The Jimi Hendrix Experience,"Rock, Blues","Blues Rock, Psychedelic Rock",Are You Experienced,Rock,Blues Rock
+15,16,1975,Blood on the Tracks,Bob Dylan,Rock,"Folk Rock, Acoustic, Ballad",Blood on the Tracks,Rock,Folk Rock
+16,17,1991,Nevermind,Nirvana,Rock,"Alternative Rock, Grunge",Nevermind,Rock,Alternative Rock
+17,18,1975,Born to Run,Bruce Springsteen,Rock,Pop Rock,Born to Run,Rock,Pop Rock
+18,19,1968,Astral Weeks,Van Morrison,"Jazz, Rock, Blues, Folk, World, & Country","Acoustic, Classic Rock, Free Improvisation",Astral Weeks,Jazz,Acoustic
+19,20,1982,Thriller,Michael Jackson,"Funk / Soul, Pop",Disco,Thriller,Funk / Soul,Disco
+20,21,1982,The Great Twenty-Eight,Chuck Berry,Rock,Rock & Roll,The Great Twenty-Eight,Rock,Rock & Roll
+21,22,1990,The Complete Recordings,Robert Johnson,Blues,Delta Blues,The Complete Recordings,Blues,Delta Blues
+22,23,1970,John Lennon/Plastic Ono Band,John Lennon / Plastic Ono Band,Rock,Pop Rock,John Lennon/Plastic Ono Band,Rock,Pop Rock
+23,24,1973,Innervisions,Stevie Wonder,Funk / Soul,Soul,Innervisions,Funk / Soul,Soul
+24,25,1963,"Live at the Apollo, 1962",James Brown,Funk / Soul,"Rhythm & Blues, Soul","Live at the Apollo, 1962",Funk / Soul,Rhythm & Blues
+25,26,1977,Rumours,Fleetwood Mac,Rock,Pop Rock,Rumours,Rock,Pop Rock
+26,27,1987,The Joshua Tree,U2,Rock,"Alternative Rock, Pop Rock",The Joshua Tree,Rock,Alternative Rock
+27,28,1971,Who's Next,The Who,Rock,"Hard Rock, Mod, Prog Rock, Psychedelic Rock",Who's Next,Rock,Hard Rock
+28,29,1969,Led Zeppelin,Led Zeppelin,Rock,"Blues Rock, Hard Rock",Led Zeppelin,Rock,Blues Rock
+29,30,1971,Blue,Joni Mitchell,Pop,"Acoustic, Ballad, Folk",Blue,Pop,Acoustic
+30,31,1965,Bringing It All Back Home,Bob Dylan,"Rock, Folk, World, & Country","Folk Rock, Folk",Bringing It All Back Home,Rock,Folk Rock
+31,32,1969,Let It Bleed,The Rolling Stones,Rock,"Blues Rock, Hard Rock",Let It Bleed,Rock,Blues Rock
+32,33,1976,Ramones,Ramones,Rock,"Rock & Roll, Punk",Ramones,Rock,Rock & Roll
+33,34,1968,Music From Big Pink,The Band,Rock,"Folk Rock, Acoustic, Blues Rock",Music From Big Pink,Rock,Folk Rock
+34,35,1972,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,Rock,"Classic Rock, Glam",The Rise and Fall of Ziggy Stardust and the Spiders From Mars,Rock,Classic Rock
+35,36,1971,Tapestry,Carole King,"Rock, Pop","Folk Rock, Soft Rock",Tapestry,Rock,Folk Rock
+36,37,1976,Hotel California,Eagles,Rock,Classic Rock,Hotel California,Rock,Classic Rock
+37,38,2001,The Anthology,Muddy Waters,"Folk, World, & Country",Folk,The Anthology,Folk,Folk
+38,39,1963,Please Please Me,The Beatles,Rock,"Beat, Rock & Roll",Please Please Me,Rock,Beat
+39,40,1967,Forever Changes,Love,Rock,"Folk Rock, Psychedelic Rock",Forever Changes,Rock,Folk Rock
+40,41,1977,Never Mind the Bollocks Here's the Sex Pistols,Sex Pistols,Rock,Punk,Never Mind the Bollocks Here's the Sex Pistols,Rock,Punk
+41,42,1967,The Doors,The Doors,Rock,Psychedelic Rock,The Doors,Rock,Psychedelic Rock
+42,43,1973,The Dark Side of the Moon,Pink Floyd,Rock,Prog Rock,The Dark Side of the Moon,Rock,Prog Rock
+43,44,1975,Horses,Patti Smith,Rock,Art Rock,Horses,Rock,Art Rock
+44,45,1969,The Band,The Band,"Classical, Stage & Screen","Soundtrack, Modern Classical, Contemporary, Score",The Band,Classical,Soundtrack
+45,46,1984,Legend: The Best of Bob Marley and The Wailers,Bob Marley & The Wailers,Reggae,"Reggae, Roots Reggae",Legend: The Best of Bob Marley and The Wailers,Reggae,Reggae
+46,47,1965,A Love Supreme,John Coltrane,Jazz,"Free Jazz, Hard Bop, Modal",A Love Supreme,Jazz,Free Jazz
+47,48,1988,It Takes a Nation of Millions to Hold Us Back,Public Enemy,Hip Hop,Conscious,It Takes a Nation of Millions to Hold Us Back,Hip Hop,Conscious
+48,49,1971,At Fillmore East,The Allman Brothers Band,"Rock, Blues",Blues Rock,At Fillmore East,Rock,Blues Rock
+49,50,1957,Here's Little Richard,Little Richard,"Rock, Blues","Rock & Roll, Rhythm & Blues",Here's Little Richard,Rock,Rock & Roll
+50,51,1970,Bridge Over Troubled Water,Simon & Garfunkel,Rock,"Folk Rock, Classic Rock",Bridge Over Troubled Water,Rock,Folk Rock
+51,52,1975,Greatest Hits,Al Green,Funk / Soul,Soul,Greatest Hits,Funk / Soul,Soul
+52,53,1964,Meet The Beatles!,The Beatles,Rock,"Beat, Rock & Roll",Meet The Beatles!,Rock,Beat
+53,54,1991,The Birth of Soul,Ray Charles,"Jazz, Funk / Soul","Rhythm & Blues, Big Band, Soul, Soul-Jazz",The Birth of Soul,Jazz,Rhythm & Blues
+54,55,1968,Electric Ladyland,The Jimi Hendrix Experience,"Rock, Blues","Electric Blues, Psychedelic Rock",Electric Ladyland,Rock,Electric Blues
+55,56,1956,Elvis Presley,Elvis Presley,Rock,"Rock & Roll, Rockabilly",Elvis Presley,Rock,Rock & Roll
+56,57,1976,Songs in the Key of Life,Stevie Wonder,Funk / Soul,"Soul, Disco",Songs in the Key of Life,Funk / Soul,Soul
+57,58,1968,Beggars Banquet,The Rolling Stones,"Rock, Funk / Soul, Pop","Blues Rock, Southern Rock, Classic Rock",Beggars Banquet,Rock,Blues Rock
+58,59,1976,Chronicle: The 20 Greatest Hits,Creedence Clearwater Revival,Rock,None,Chronicle: The 20 Greatest Hits,Rock,None
+59,60,1969,Trout Mask Replica,Captain Beefheart & His Magic Band,"Rock, Blues","Dialogue, Field Recording, Avantgarde, Electric Blues, Psychedelic Rock, Experimental",Trout Mask Replica,Rock,Dialogue
+60,61,1970,Greatest Hits,Sly & The Family Stone,Funk / Soul,"Rhythm & Blues, Funk",Greatest Hits,Funk / Soul,Rhythm & Blues
+61,62,1987,Appetite for Destruction,Guns N' Roses,Rock,"Hard Rock, Heavy Metal",Appetite for Destruction,Rock,Hard Rock
+62,63,1991,Achtung Baby,U2,"Electronic, Rock","Pop Rock, Synth-pop, Alternative Rock, Arena Rock",Achtung Baby,Electronic,Pop Rock
+63,64,1971,Sticky Fingers,The Rolling Stones,Rock,Classic Rock,Sticky Fingers,Rock,Classic Rock
+64,65,1991,Back to Mono (1958-1969),Phil Spector,"Rock, Funk / Soul, Pop","Doo Wop, Pop Rock, Ballad, Rhythm & Blues",Back to Mono (1958-1969),Rock,Doo Wop
+65,66,1970,Moondance,Van Morrison,"Jazz, Rock, Funk / Soul, Folk, World, & Country","Folk Rock, Rhythm & Blues, Classic Rock, Contemporary Jazz",Moondance,Jazz,Folk Rock
+66,67,2000,Kid A,Radiohead,"Electronic, Rock","Alternative Rock, IDM, Experimental",Kid A,Electronic,Alternative Rock
+67,68,1979,Off the Wall,Michael Jackson,"Funk / Soul, Pop","Disco, Soul, Ballad",Off the Wall,Funk / Soul,Disco
+68,69,1971,[Led Zeppelin IV],Led Zeppelin,Rock,"Hard Rock, Classic Rock, Blues Rock",[Led Zeppelin IV],Rock,Hard Rock
+69,70,1977,The Stranger,Billy Joel,Rock,Pop Rock,The Stranger,Rock,Pop Rock
+70,71,1986,Graceland,Paul Simon,"Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country","Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm & Blues",Graceland,Jazz,Folk Rock
+71,72,1972,Superfly,Curtis Mayfield,"Funk / Soul, Stage & Screen","Soundtrack, Soul",Superfly,Funk / Soul,Soundtrack
+72,73,1975,Physical Graffiti,Led Zeppelin,Rock,Classic Rock,Physical Graffiti,Rock,Classic Rock
+73,74,1970,After the Gold Rush,Neil Young,Rock,"Rock & Roll, Country Rock",After the Gold Rush,Rock,Rock & Roll
+74,75,1991,Star Time,James Brown,Funk / Soul,"Soul, Funk, Disco",Star Time,Funk / Soul,Soul
+75,76,1984,Purple Rain,Prince and the Revolution,"Electronic, Rock, Funk / Soul, Stage & Screen","Pop Rock, Funk, Soundtrack, Synth-pop",Purple Rain,Electronic,Pop Rock
+76,77,1980,Back in Black,AC/DC,Rock,Hard Rock,Back in Black,Rock,Hard Rock
+77,78,1965,Otis Blue: Otis Redding Sings Soul,Otis Redding,Funk / Soul,Soul,Otis Blue: Otis Redding Sings Soul,Funk / Soul,Soul
+78,79,1969,Led Zeppelin II,Led Zeppelin,Rock,"Blues Rock, Classic Rock, Hard Rock",Led Zeppelin II,Rock,Blues Rock
+79,80,1971,Imagine,John Lennon,Rock,Pop Rock,Imagine,Rock,Pop Rock
+80,81,1977,The Clash,The Clash,Rock,Punk,The Clash,Rock,Punk
+81,82,1972,Harvest,Neil Young,Rock,"Folk Rock, Country Rock, Classic Rock",Harvest,Rock,Folk Rock
+82,83,1967,Axis: Bold as Love,The Jimi Hendrix Experience,Rock,"Psychedelic Rock, Electric Blues",Axis: Bold as Love,Rock,Psychedelic Rock
+83,84,1967,I Never Loved a Man the Way I Love You,Aretha Franklin,Funk / Soul,Soul,I Never Loved a Man the Way I Love You,Funk / Soul,Soul
+84,85,1968,Lady Soul,Aretha Franklin,Funk / Soul,Soul,Lady Soul,Funk / Soul,Soul
+85,86,1984,Born in the U.S.A.,Bruce Springsteen,Rock,Pop Rock,Born in the U.S.A.,Rock,Pop Rock
+86,87,1979,The Wall,Pink Floyd,Rock,"Alternative Rock, Prog Rock",The Wall,Rock,Alternative Rock
+87,88,1968,At Folsom Prison,Johnny Cash,"Folk, World, & Country",Country,At Folsom Prison,Folk,Country
+88,89,1969,Dusty in Memphis,Dusty Springfield,"Rock, Funk / Soul","Pop Rock, Soul",Dusty in Memphis,Rock,Pop Rock
+89,90,1972,Talking Book,Stevie Wonder,Funk / Soul,"Soul, Funk",Talking Book,Funk / Soul,Soul
+90,91,1973,Goodbye Yellow Brick Road,Elton John,Rock,"Pop Rock, Classic Rock",Goodbye Yellow Brick Road,Rock,Pop Rock
+91,92,1978,20 Golden Greats,Buddy Holly,Rock,Rock & Roll,20 Golden Greats,Rock,Rock & Roll
+92,93,1987,"Sign ""Peace"" the Times",Prince,"Rock, Reggae","Ska, Reggae-Pop",Sign 'O' The Times,Rock,Ska
+93,94,1984,40 Greatest Hits,Hank Williams,"Folk, World, & Country",Country,40 Greatest Hits,Folk,Country
+94,95,1970,Bitches Brew,Miles Davis,Jazz,Fusion,Bitches Brew,Jazz,Fusion
+95,96,1969,Tommy,The Who,Rock,Psychedelic Rock,Tommy,Rock,Psychedelic Rock
+96,97,1963,The Freewheelin' Bob Dylan,Bob Dylan,"Folk, World, & Country",Folk,The Freewheelin' Bob Dylan,Folk,Folk
+97,98,1978,This Year's Model,Elvis Costello,Rock,New Wave,This Year's Model,Rock,New Wave
+98,99,1971,There's a Riot Goin' On,Sly & The Family Stone,Funk / Soul,"Rhythm & Blues, Funk",There's a Riot Goin' On,Funk / Soul,Rhythm & Blues
+99,100,1968,Odessey and Oracle,The Zombies,Rock,Psychedelic Rock,Odessey and Oracle,Rock,Psychedelic Rock
+100,101,1955,In the Wee Small Hours,Frank Sinatra,"Jazz, Pop","Big Band, Ballad",In the Wee Small Hours,Jazz,Big Band
+101,102,1966,Fresh Cream,Cream,"Rock, Blues","Blues Rock, Electric Blues",Fresh Cream,Rock,Blues Rock
+102,103,1959,Giant Steps,John Coltrane,Jazz,Hard Bop,Giant Steps,Jazz,Hard Bop
+103,104,1970,Sweet Baby James,James Taylor,Rock,"Folk Rock, Acoustic, Soft Rock",Sweet Baby James,Rock,Folk Rock
+104,105,1962,Modern Sounds in Country and Western Music,Ray Charles,"Funk / Soul, Folk, World, & Country","Country, Rhythm & Blues",Modern Sounds in Country and Western Music,Funk / Soul,Country
+105,106,1977,Rocket to Russia,Ramones,Rock,"Rock & Roll, Punk",Rocket to Russia,Rock,Rock & Roll
+106,107,2003,Portrait of a Legend 1951-1964,Sam Cooke,"Latin, Funk / Soul","Soul, Rhythm & Blues, Gospel, Cha-Cha",Portrait of a Legend 1951-1964,Latin,Soul
+107,108,1971,Hunky Dory,David Bowie,Rock,"Classic Rock, Glam",Hunky Dory,Rock,Classic Rock
+108,109,1966,Aftermath,The Rolling Stones,Rock,"Blues Rock, Pop Rock",Aftermath,Rock,Blues Rock
+109,110,1970,Loaded,The Velvet Underground,Rock,"Art Rock, Classic Rock",Loaded,Rock,Art Rock
+110,111,1995,The Bends,Radiohead,Rock,Alternative Rock,The Bends,Rock,Alternative Rock
+111,112,1966,If You Can Believe Your Eyes and Ears,The Mamas and the Papas,Rock,"Folk Rock, Pop Rock",If You Can Believe Your Eyes and Ears,Rock,Folk Rock
+112,113,1974,Court and Spark,Joni Mitchell,Rock,"Soft Rock, Pop Rock",Court and Spark,Rock,Soft Rock
+113,114,1967,Disraeli Gears,Cream,Rock,"Psychedelic Rock, Blues Rock",Disraeli Gears,Rock,Psychedelic Rock
+114,115,1967,The Who Sell Out,The Who,Rock,"Psychedelic Rock, Mod",The Who Sell Out,Rock,Psychedelic Rock
+115,116,1965,Out of Our Heads,The Rolling Stones,Rock,"Blues Rock, Rock & Roll",Out of Our Heads,Rock,Blues Rock
+116,117,1970,Layla and Other Assorted Love Songs,Derek and the Dominos,Rock,Blues Rock,Layla and Other Assorted Love Songs,Rock,Blues Rock
+117,118,2005,Late Registration,Kanye West,Hip Hop,None,Late Registration,Hip Hop,None
+118,119,1960,At Last!,Etta James,"Funk / Soul, Blues","Rhythm & Blues, Soul",At Last!,Funk / Soul,Rhythm & Blues
+119,120,1968,Sweetheart of the Rodeo,The Byrds,Rock,"Folk Rock, Country Rock",Sweetheart of the Rodeo,Rock,Folk Rock
+120,121,1969,Stand!,Sly & The Family Stone,Funk / Soul,"Funk, Psychedelic, Disco",Stand!,Funk / Soul,Funk
+121,122,1972,The Harder They Come,Various Artists,"Reggae, Pop, Folk, World, & Country, Stage & Screen","Reggae, Roots Reggae, Rocksteady, Contemporary, Soundtrack",The Harder They Come,Reggae,Reggae
+122,123,1986,Raising Hell,Run D.M.C.,Hip Hop,None,Raising Hell,Hip Hop,None
+123,124,1967,Moby Grape,Moby Grape,Rock,"Folk Rock, Psychedelic Rock",Moby Grape,Rock,Folk Rock
+124,125,1971,Pearl,Janis Joplin,"Rock, Blues",Blues Rock,Pearl,Rock,Blues Rock
+125,126,1973,Catch a Fire,The Wailers,Reggae,Roots Reggae,Catch a Fire,Reggae,Roots Reggae
+126,127,1967,Younger Than Yesterday,The Byrds,Rock,"Folk Rock, Psychedelic Rock",Younger Than Yesterday,Rock,Folk Rock
+127,128,1973,Raw Power,Iggy and The Stooges,Rock,"Garage Rock, Hard Rock, Punk",Raw Power,Rock,Garage Rock
+128,129,1980,Remain in Light,Talking Heads,"Electronic, Rock","New Wave, Art Rock, Funk",Remain in Light,Electronic,New Wave
+129,130,1977,Marquee Moon,Television,Rock,"New Wave, Punk",Marquee Moon,Rock,New Wave
+130,131,1970,Paranoid,Black Sabbath,Rock,"Hard Rock, Heavy Metal",Paranoid,Rock,Hard Rock
+131,132,1977,Saturday Night Fever: The Original Movie Sound Track,Various Artists,"Electronic, Stage & Screen","Soundtrack, Disco",Saturday Night Fever: The Original Movie Sound Track,Electronic,Soundtrack
+132,133,1973,"The Wild, the Innocent & the E Street Shuffle",Bruce Springsteen,Rock,None,"The Wild, the Innocent & the E Street Shuffle",Rock,None
+133,134,1994,Ready to Die,The Notorious B.I.G.,Hip Hop,Thug Rap,Ready to Die,Hip Hop,Thug Rap
+134,135,1992,Slanted and Enchanted,Pavement,Rock,Alternative Rock,Slanted and Enchanted,Rock,Alternative Rock
+135,136,1974,Greatest Hits,Elton John,Rock,Classic Rock,Greatest Hits,Rock,Classic Rock
+136,137,1985,Tim,The Replacements,Rock,Indie Rock,Tim,Rock,Indie Rock
+137,138,1992,The Chronic,Dr. Dre,Hip Hop,Gangsta,The Chronic,Hip Hop,Gangsta
+138,139,1974,Rejuvenation,The Meters,Funk / Soul,"Bayou Funk, Soul",Rejuvenation,Funk / Soul,Bayou Funk
+139,140,1978,Parallel Lines,Blondie,"Electronic, Rock","New Wave, Pop Rock, Punk, Disco",Parallel Lines,Electronic,New Wave
+140,141,1965,Live at the Regal,B.B. King,Blues,Chicago Blues,Live at the Regal,Blues,Chicago Blues
+141,142,1963,A Christmas Gift for You From Phil Spector,Phil Spector,"Rock, Funk / Soul, Pop",Pop Rock,A Christmas Gift for You From Phil Spector,Rock,Pop Rock
+142,143,1968,Gris-Gris,"Dr. John, the Night Tripper","Jazz, Rock, Funk / Soul, Blues","Soul-Jazz, Louisiana Blues, Fusion, Bayou Funk",Gris-Gris,Jazz,Soul-Jazz
+143,144,1988,Straight Outta Compton,N.W.A,Hip Hop,Gangsta,Straight Outta Compton,Hip Hop,Gangsta
+144,145,1977,Aja,Steely Dan,"Jazz, Rock","Jazz-Rock, Classic Rock",Aja,Jazz,Jazz-Rock
+145,146,1967,Surrealistic Pillow,Jefferson Airplane,Rock,"Folk Rock, Psychedelic Rock",Surrealistic Pillow,Rock,Folk Rock
+146,147,1970,Deja vu,"Crosby, Stills, Nash & Young",Rock,Classic Rock,Deja vu,Rock,Classic Rock
+147,148,1973,Houses of the Holy,Led Zeppelin,Rock,Classic Rock,Houses of the Holy,Rock,Classic Rock
+148,149,1969,Santana,Santana,"Rock, Latin, Funk / Soul","Afro-Cuban, Psychedelic Rock",Santana,Rock,Afro-Cuban
+149,150,1978,Darkness on the Edge of Town,Bruce Springsteen,Rock,Pop Rock,Darkness on the Edge of Town,Rock,Pop Rock
+150,151,2004,Funeral,Arcade Fire,Rock,Indie Rock,Funeral,Rock,Indie Rock
+151,152,1979,The B-52's,The B 52's,"Electronic, Rock, Pop","New Wave, Punk, Mod",The B-52's,Electronic,New Wave
+152,153,1991,The Low End Theory,A Tribe Called Quest,Hip Hop,Conscious,The Low End Theory,Hip Hop,Conscious
+153,154,1958,Moanin' in the Moonlight,Howlin' Wolf,Blues,Chicago Blues,Moanin' in the Moonlight,Blues,Chicago Blues
+154,155,1980,Pretenders,Pretenders,Rock,"Alternative Rock, New Wave",Pretenders,Rock,Alternative Rock
+155,156,1989,Paul's Boutique,Beastie Boys,"Hip Hop, Rock, Funk / Soul","Alternative Rock, Pop Rap, Psychedelic",Paul's Boutique,Hip Hop,Alternative Rock
+156,157,1980,Closer,Joy Division,Rock,"Post-Punk, New Wave",Closer,Rock,Post-Punk
+157,158,1975,Captain Fantastic and the Brown Dirt Cowboy,Elton John,Rock,"Pop Rock, Classic Rock",Captain Fantastic and the Brown Dirt Cowboy,Rock,Pop Rock
+158,159,1975,Alive!,KISS,Rock,"Hard Rock, Glam",Alive!,Rock,Hard Rock
+159,160,1971,Electric Warrior,T. Rex,Rock,"Glam, Classic Rock",Electric Warrior,Rock,Glam
+160,161,1968,The Dock of the Bay,Otis Redding,Funk / Soul,"Rhythm & Blues, Soul",The Dock of the Bay,Funk / Soul,Rhythm & Blues
+161,162,1997,OK Computer,Radiohead,"Electronic, Rock",Alternative Rock,OK Computer,Electronic,Alternative Rock
+162,163,1982,1999,Prince,"Funk / Soul, Pop",None,1999,Funk / Soul,None
+163,164,2002,The Very Best of Linda Ronstadt,Linda Ronstadt,"Rock, Pop","Soft Rock, Pop Rock",The Very Best of Linda Ronstadt,Rock,Soft Rock
+164,165,1973,Let's Get It On,Marvin Gaye,Funk / Soul,Soul,Let's Get It On,Funk / Soul,Soul
+165,166,1982,Imperial Bedroom,Elvis Costello & The Attractions,Rock,"Alternative Rock, New Wave",Imperial Bedroom,Rock,Alternative Rock
+166,167,1986,Master of Puppets,Metallica,Rock,"Thrash, Speed Metal",Master of Puppets,Rock,Thrash
+167,168,1977,My Aim Is True,Elvis Costello,Rock,"New Wave, Pop Rock",My Aim Is True,Rock,New Wave
+168,169,1977,Exodus,Bob Marley & The Wailers,Reggae,"Reggae, Roots Reggae",Exodus,Reggae,Reggae
+169,170,1970,Live at Leeds,The Who,Rock,"Classic Rock, Blues Rock, Hard Rock",Live at Leeds,Rock,Classic Rock
+170,171,1968,The Notorious Byrd Brothers,The Byrds,Rock,"Psychedelic Rock, Folk Rock, Country Rock, Pop Rock",The Notorious Byrd Brothers,Rock,Psychedelic Rock
+171,172,1971,Every Picture Tells a Story,Rod Stewart,Rock,Pop Rock,Every Picture Tells a Story,Rock,Pop Rock
+172,173,1972,Something/Anything?,Todd Rundgren,Rock,"Power Pop, Pop Rock, Prog Rock",Something/Anything?,Rock,Power Pop
+173,174,1976,Desire,Bob Dylan,Rock,Folk Rock,Desire,Rock,Folk Rock
+174,175,1970,Close to You,Carpenters,"Rock, Pop","Pop Rock, Vocal",Close to You,Rock,Pop Rock
+175,176,1976,Rocks,Aerosmith,Rock,"Hard Rock, Classic Rock",Rocks,Rock,Hard Rock
+176,177,1978,One Nation Under a Groove,Funkadelic,Funk / Soul,P.Funk,One Nation Under a Groove,Funk / Soul,P.Funk
+177,178,1992,The Anthology: 1961-1977,Curtis Mayfield and The Impressions,Funk / Soul,"Rhythm & Blues, Soul, Funk",The Anthology: 1961-1977,Funk / Soul,Rhythm & Blues
+178,179,2001,The Definitive Collection,ABBA,"Electronic, Pop","Europop, Synth-pop, Disco",The Definitive Collection,Electronic,Europop
+179,180,1965,"The Rolling Stones, Now!",The Rolling Stones,"Rock, Blues, Pop","Pop Rock, Rhythm & Blues, Rock & Roll","The Rolling Stones, Now!",Rock,Pop Rock
+180,181,1974,Natty Dread,Bob Marley & The Wailers,Reggae,"Reggae, Roots Reggae",Natty Dread,Reggae,Reggae
+181,182,1975,Fleetwood Mac,Fleetwood Mac,"Rock, Pop","Folk Rock, Pop Rock",Fleetwood Mac,Rock,Folk Rock
+182,183,1975,Red Headed Stranger,Willie Nelson,"Folk, World, & Country",Country,Red Headed Stranger,Folk,Country
+183,184,1990,The Immaculate Collection,Madonna,"Electronic, Pop",Synth-pop,The Immaculate Collection,Electronic,Synth-pop
+184,185,1969,The Stooges,The Stooges,Rock,"Garage Rock, Punk",The Stooges,Rock,Garage Rock
+185,186,1973,Fresh,Sly & The Family Stone,Funk / Soul,"Rhythm & Blues, Funk",Fresh,Funk / Soul,Rhythm & Blues
+186,187,1986,So,Peter Gabriel,"Electronic, Rock, Funk / Soul, Pop","Art Rock, Pop Rock, Synth-pop, Funk",So,Electronic,Art Rock
+187,188,1967,Buffalo Springfield Again,Buffalo Springfield,"Rock, Pop",Country Rock,Buffalo Springfield Again,Rock,Country Rock
+188,189,1969,Happy Trails,Quicksilver Messenger Service,Rock,"Acid Rock, Psychedelic Rock",Happy Trails,Rock,Acid Rock
+189,190,1969,From Elvis in Memphis,Elvis Presley,"Rock, Funk / Soul, Folk, World, & Country","Country, Soul",From Elvis in Memphis,Rock,Country
+190,191,1970,Fun House,The Stooges,Rock,"Garage Rock, Punk",Fun House,Rock,Garage Rock
+191,192,1969,The Gilded Palace of Sin,The Flying Burrito Brothers,"Rock, Folk, World, & Country",Country Rock,The Gilded Palace of Sin,Rock,Country Rock
+192,193,1994,Dookie,Green Day,Rock,"Alternative Rock, Pop Punk, Punk",Dookie,Rock,Alternative Rock
+193,194,1972,Transformer,Lou Reed,Rock,Glam,Transformer,Rock,Glam
+194,195,1966,Blues Breakers,John Mayall & The Bluesbreakers,"Rock, Blues","Blues Rock, Electric Blues, Harmonica Blues",Blues Breakers,Rock,Blues Rock
+195,196,1998,"Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",Various Artists,Rock,"Garage Rock, Psychedelic Rock","Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",Rock,Garage Rock
+196,197,1983,Murmur,R.E.M.,Rock,Alternative Rock,Murmur,Rock,Alternative Rock
+197,198,1967,The Best of Little Walter,Little Walter,Blues,Chicago Blues,The Best of Little Walter,Blues,Chicago Blues
+198,199,2001,Is This It,The Strokes,Rock,Indie Rock,Is This It,Rock,Indie Rock
+199,200,1979,Highway to Hell,AC/DC,Rock,Hard Rock,Highway to Hell,Rock,Hard Rock
+200,201,1994,The Downward Spiral,Nine Inch Nails,"Electronic, Rock",Industrial,The Downward Spiral,Electronic,Industrial
+201,202,1966,"Parsley, Sage, Rosemary and Thyme",Simon & Garfunkel,"Rock, Pop, Folk, World, & Country","Folk Rock, Pop Rock","Parsley, Sage, Rosemary and Thyme",Rock,Folk Rock
+202,203,1987,Bad,Michael Jackson,"Funk / Soul, Pop","Pop Rock, Ballad, Funk, Soul",Bad,Funk / Soul,Pop Rock
+203,204,2006,Modern Times,Bob Dylan,Rock,"Blues Rock, Folk Rock",Modern Times,Rock,Blues Rock
+204,205,1968,Wheels of Fire,Cream,"Rock, Blues","Blues Rock, Psychedelic Rock, Classic Rock",Wheels of Fire,Rock,Blues Rock
+205,206,1980,Dirty Mind,Prince,Funk / Soul,None,Dirty Mind,Funk / Soul,None
+206,207,1970,Abraxas,Santana,"Rock, Latin","Fusion, Hard Rock, Psychedelic Rock",Abraxas,Rock,Fusion
+207,208,1970,Tea for the Tillerman,Cat Stevens,"Rock, Stage & Screen","Folk Rock, Pop Rock",Tea for the Tillerman,Rock,Folk Rock
+208,209,1991,Ten,Pearl Jam,Rock,Grunge,Ten,Rock,Grunge
+209,210,1969,Everybody Knows This Is Nowhere,Neil Young & Crazy Horse,Rock,"Folk Rock, Country Rock, Classic Rock",Everybody Knows This Is Nowhere,Rock,Folk Rock
+210,211,1975,Wish You Were Here,Pink Floyd,Rock,"Classic Rock, Prog Rock",Wish You Were Here,Rock,Classic Rock
+211,212,1994,Crooked Rain Crooked Rain,Pavement,Rock,"Alternative Rock, Indie Rock",Crooked Rain Crooked Rain,Rock,Alternative Rock
+212,213,1981,Tattoo You,The Rolling Stones,Rock,Classic Rock,Tattoo You,Rock,Classic Rock
+213,214,1991,Best Of / Proud Mary,Ike & Tina Turner,Funk / Soul,"Rhythm & Blues, Bayou Funk, Soul",Best Of / Proud Mary,Funk / Soul,Rhythm & Blues
+214,215,1973,New York Dolls,New York Dolls,Rock,Glam,New York Dolls,Rock,Glam
+215,216,1986,Bo Diddley / Go Bo Diddley,Bo Diddley,"Rock, Blues","Rhythm & Blues, Rock & Roll",Bo Diddley / Go Bo Diddley,Rock,Rhythm & Blues
+216,217,1961,Two Steps From the Blues,"Bobby ""Blue"" Bland","Funk / Soul, Blues","Rhythm & Blues, Soul",Two Steps From the Blues,Funk / Soul,Rhythm & Blues
+217,218,1986,The Queen Is Dead,The Smiths,"Rock, Pop",Indie Rock,The Queen Is Dead,Rock,Indie Rock
+218,219,1986,Licensed to Ill,Beastie Boys,Hip Hop,None,Licensed to Ill,Hip Hop,None
+219,220,1970,Look-Ka Py Py,The Meters,Funk / Soul,"Bayou Funk, Soul, Funk",Look-Ka Py Py,Funk / Soul,Bayou Funk
+220,221,1991,Loveless,My Bloody Valentine,Rock,"Alternative Rock, Shoegaze",Loveless,Rock,Alternative Rock
+221,222,1972,New Orleans Piano,Professor Longhair,"Funk / Soul, Blues",Piano Blues,New Orleans Piano,Funk / Soul,Piano Blues
+222,223,1983,War,U2,Rock,Pop Rock,War,Rock,Pop Rock
+223,224,1999,The Neil Diamond Collection,Neil Diamond,"Rock, Pop","Soft Rock, Ballad",The Neil Diamond Collection,Rock,Soft Rock
+224,225,2004,American Idiot,Green Day,Rock,"Pop Rock, Punk",American Idiot,Rock,Pop Rock
+225,226,1982,Nebraska,Bruce Springsteen,Rock,Acoustic,Nebraska,Rock,Acoustic
+226,227,1989,Doolittle,Pixies,Rock,Indie Rock,Doolittle,Rock,Indie Rock
+227,228,1987,Paid in Full,Eric B. & Rakim,Hip Hop,None,Paid in Full,Hip Hop,None
+228,229,1975,Toys in the Attic,Aerosmith,Rock,"Hard Rock, Blues Rock",Toys in the Attic,Rock,Hard Rock
+229,230,1989,Nick of Time,Bonnie Raitt,"Rock, Pop","Blues Rock, Pop Rock",Nick of Time,Rock,Blues Rock
+230,231,1975,A Night at the Opera,Queen,Rock,"Hard Rock, Pop Rock, Prog Rock",A Night at the Opera,Rock,Hard Rock
+231,232,1972,The Kink Kronikles,The Kinks,Rock,"Rock & Roll, Pop Rock",The Kink Kronikles,Rock,Rock & Roll
+232,233,1965,Mr. Tambourine Man,The Byrds,Rock,"Folk Rock, Garage Rock, Pop Rock",Mr. Tambourine Man,Rock,Folk Rock
+233,234,1968,Bookends,Simon & Garfunkel,Rock,"Folk Rock, Classic Rock",Bookends,Rock,Folk Rock
+234,235,2000,The Ultimate Collection,Patsy Cline,"Folk, World, & Country",None,The Ultimate Collection,Folk,None
+235,236,1992,Mr. Excitement!,Jackie Wilson,Funk / Soul,None,Mr. Excitement!,Funk / Soul,None
+236,237,1965,My Generation,The Who,Rock,Mod,My Generation,Rock,Mod
+237,238,1962,Howlin' Wolf,Howlin' Wolf,Blues,None,Howlin' Wolf,Blues,None
+238,239,1989,Like a Prayer,Madonna,"Electronic, Pop",Synth-pop,Like a Prayer,Electronic,Synth-pop
+239,240,1972,Can't Buy a Thrill,Steely Dan,Rock,Classic Rock,Can't Buy a Thrill,Rock,Classic Rock
+240,241,1984,Let It Be,The Replacements,Rock,"Alternative Rock, Power Pop, Punk, Indie Rock",Let It Be,Rock,Alternative Rock
+241,242,1984,Run D.M.C.,Run D.M.C.,Hip Hop,None,Run D.M.C.,Hip Hop,None
+242,243,1970,Black Sabbath,Black Sabbath,Rock,"Blues Rock, Heavy Metal",Black Sabbath,Rock,Blues Rock
+243,244,2000,The Marshall Mathers LP,Eminem,Hip Hop,"Pop Rap, Hardcore Hip-Hop, Horrorcore",The Marshall Mathers LP,Hip Hop,Pop Rap
+244,245,1993,All Killer No Filler! The Jerry Lee Lewis Anthology,Jerry Lee Lewis,"Rock, Blues, Folk, World, & Country","Country Blues, Rock & Roll, Rhythm & Blues",All Killer No Filler! The Jerry Lee Lewis Anthology,Rock,Country Blues
+245,246,1966,Freak Out!,The Mothers of Invention,"Electronic, Rock","Musique Concr?te, Avantgarde, Symphonic Rock, Rhythm & Blues, Psychedelic Rock, Experimental, Parody",Freak Out!,Electronic,Musique Concr?te
+246,247,1969,Live/Dead,The Grateful Dead,Rock,"Folk Rock, Country Rock, Psychedelic Rock, Experimental",Live/Dead,Rock,Folk Rock
+247,248,1959,The Shape of Jazz to Come,Ornette Coleman,Jazz,Free Jazz,The Shape of Jazz to Come,Jazz,Free Jazz
+248,249,1992,Automatic for the People,R.E.M.,Rock,Alternative Rock,Automatic for the People,Rock,Alternative Rock
+249,250,1996,Reasonable Doubt,Jay Z,Hip Hop,None,Reasonable Doubt,Hip Hop,None
+250,251,1977,Low,David Bowie,"Electronic, Rock","Art Rock, Ambient, Experimental",Low,Electronic,Art Rock
+251,252,2001,The Blueprint,Jay Z,Hip Hop,None,The Blueprint,Hip Hop,None
+252,253,1980,The River,Bruce Springsteen,Rock,"Folk Rock, Pop Rock, Classic Rock",The River,Rock,Folk Rock
+253,254,1966,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Otis Redding,Funk / Soul,Soul,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Funk / Soul,Soul
+254,255,1991,"Metallica (""The Black Album"")",Metallica,Rock,Heavy Metal,"Metallica (""The Black Album"")",Rock,Heavy Metal
+255,256,1977,Trans Europa Express,Kraftwerk,Electronic,Electro,Trans Europa Express,Electronic,Electro
+256,257,1985,Whitney Houston,Whitney Houston,"Funk / Soul, Pop","Synth-pop, Rhythm & Blues",Whitney Houston,Funk / Soul,Synth-pop
+257,258,1968,The Kinks Are The Village Green Preservation Society,The Kinks,Rock,"Psychedelic Rock, Pop Rock",The Kinks Are The Village Green Preservation Society,Rock,Psychedelic Rock
+258,259,1997,The Velvet Rope,Janet,"Electronic, Funk / Soul, Pop","RnB/Swing, Downtempo",The Velvet Rope,Electronic,RnB/Swing
+259,260,1978,Stardust,Willie Nelson,"Pop, Folk, World, & Country",Vocal,Stardust,Pop,Vocal
+260,261,1970,American Beauty,Grateful Dead,Rock,Folk Rock,American Beauty,Rock,Folk Rock
+261,262,1969,"Crosby, Stills & Nash","Crosby, Stills & Nash","Rock, Folk, World, & Country","Folk Rock, Classic Rock","Crosby, Stills & Nash",Rock,Folk Rock
+262,263,1988,Tracy Chapman,Tracy Chapman,Rock,None,Tracy Chapman,Rock,None
+263,264,1970,Workingman's Dead,Grateful Dead,Rock,"Folk Rock, Country Rock, Classic Rock",Workingman's Dead,Rock,Folk Rock
+264,265,1959,The Genius of Ray Charles,Ray Charles,"Jazz, Pop","Soul-Jazz, Big Band",The Genius of Ray Charles,Jazz,Soul-Jazz
+265,266,1968,Child Is Father to the Man,"Blood, Sweat & Tears",Rock,"Blues Rock, Jazz-Rock, Classic Rock",Child Is Father to the Man,Rock,Blues Rock
+266,267,1973,Quadrophenia,The Who,Rock,"Hard Rock, Classic Rock, Mod",Quadrophenia,Rock,Hard Rock
+267,268,1972,Paul Simon,Paul Simon,Rock,"Folk Rock, Pop Rock",Paul Simon,Rock,Folk Rock
+268,269,1985,Psychocandy,The Jesus and Mary Chain,Rock,Noise,Psychocandy,Rock,Noise
+269,270,1978,Some Girls,The Rolling Stones,Rock,"Blues Rock, Rock & Roll, Classic Rock, Disco",Some Girls,Rock,Blues Rock
+270,271,1965,The Beach Boys Today!,The Beach Boys,Rock,"Pop Rock, Psychedelic Rock",The Beach Boys Today!,Rock,Pop Rock
+271,272,1997,Dig Me Out,Sleater Kinney,Rock,Indie Rock,Dig Me Out,Rock,Indie Rock
+272,273,1966,Going to a Go-Go,Smokey Robinson & The Miracles,Funk / Soul,Soul,Going to a Go-Go,Funk / Soul,Soul
+273,274,1974,Nightbirds,LaBelle,Funk / Soul,"Funk, Disco",Nightbirds,Funk / Soul,Funk
+274,275,1999,The Slim Shady LP,Eminem,Hip Hop,None,The Slim Shady LP,Hip Hop,None
+275,276,1975,Mothership Connection,Parliament,Funk / Soul,"P.Funk, Funk",Mothership Connection,Funk / Soul,P.Funk
+276,277,1989,Rhythm Nation 1814,Janet Jackson,"Electronic, Hip Hop, Pop","RnB/Swing, Downtempo, Synth-pop",Rhythm Nation 1814,Electronic,RnB/Swing
+277,278,1997,Anthology of American Folk Music,Various,"Blues, Folk, World, & Country","Cajun, Country, Field Recording, Gospel, Delta Blues, Folk",Anthology of American Folk Music,Blues,Cajun
+278,279,1973,Aladdin Sane,David Bowie,Rock,Glam,Aladdin Sane,Rock,Glam
+279,280,2000,All That You Can't Leave Behind,U2,Rock,Pop Rock,All That You Can't Leave Behind,Rock,Pop Rock
+280,281,1994,My Life,Mary J. Blige,Hip Hop,RnB/Swing,My Life,Hip Hop,RnB/Swing
+281,282,1964,Folk Singer,Muddy Waters,Blues,Delta Blues,Folk Singer,Blues,Delta Blues
+282,283,1974,Can't Get Enough,Barry White,Funk / Soul,"Soul, Disco",Can't Get Enough,Funk / Soul,Soul
+283,284,1978,The Cars,The Cars,"Electronic, Rock","New Wave, Pop Rock, Synth-pop",The Cars,Electronic,New Wave
+284,285,1972,Music of My Mind,Stevie Wonder,Funk / Soul,"Soul-Jazz, Soul",Music of My Mind,Funk / Soul,Soul-Jazz
+285,286,1972,I'm Still in Love With You,Al Green,Funk / Soul,"Rhythm & Blues, Soul",I'm Still in Love With You,Funk / Soul,Rhythm & Blues
+286,287,1980,Los Angeles,X,Rock,"Punk, Rock & Roll",Los Angeles,Rock,Punk
+287,288,1968,Anthem of the Sun,Grateful Dead,Rock,Psychedelic Rock,Anthem of the Sun,Rock,Psychedelic Rock
+288,289,1967,Something Else by The Kinks,The Kinks,Rock,"Pop Rock, Psychedelic Rock, Mod",Something Else by The Kinks,Rock,Pop Rock
+289,290,1973,Call Me,Al Green,Funk / Soul,"Rhythm & Blues, Soul",Call Me,Funk / Soul,Rhythm & Blues
+290,291,1977,Talking Heads: 77,Talking Heads,Rock,New Wave,Talking Heads: 77,Rock,New Wave
+291,292,1975,The Basement Tapes,Bob Dylan and the Band,Rock,"Folk Rock, Country Rock, Classic Rock",The Basement Tapes,Rock,Folk Rock
+292,293,1968,White Light/White Heat,The Velvet Underground,Rock,"Avantgarde, Experimental",White Light/White Heat,Rock,Avantgarde
+293,294,1969,Kick Out the Jams,MC5,Rock,"Garage Rock, Hard Rock, Punk, Blues Rock",Kick Out the Jams,Rock,Garage Rock
+294,295,1970,Songs of Love and Hate,Leonard Cohen,"Folk, World, & Country","Folk Rock, Folk, Ballad",Songs of Love and Hate,Folk,Folk Rock
+295,296,1985,Meat Is Murder,The Smiths,Rock,"Alternative Rock, Indie Rock",Meat Is Murder,Rock,Alternative Rock
+296,297,1968,We're Only in It for the Money,The Mothers of Invention,"Electronic, Rock","Modern Classical, Avantgarde, Psychedelic Rock, Experimental, Parody",We're Only in It for the Money,Electronic,Modern Classical
+297,298,2003,The College Dropout,Kanye West,Hip Hop,"Pop Rap, Conscious, Contemporary R&B",The College Dropout,Hip Hop,Pop Rap
+298,299,1994,Weezer (Blue Album),Weezer,Rock,"Alternative Rock, Emo",Weezer (Blue Album),Rock,Alternative Rock
+299,300,1971,Master of Reality,Black Sabbath,Rock,"Hard Rock, Heavy Metal",Master of Reality,Rock,Hard Rock
+300,301,1971,Coat of Many Colors,Dolly Parton,"Folk, World, & Country",Country,Coat of Many Colors,Folk,Country
+301,302,1990,Fear of a Black Planet,Public Enemy,Hip Hop,Conscious,Fear of a Black Planet,Hip Hop,Conscious
+302,303,1967,John Wesley Harding,Bob Dylan,Rock,"Folk Rock, Country Rock",John Wesley Harding,Rock,Folk Rock
+303,304,1994,Grace,Jeff Buckley,Rock,"Alternative Rock, Folk Rock",Grace,Rock,Alternative Rock
+304,305,1998,Car Wheels on a Gravel Road,Lucinda Williams,"Folk, World, & Country","Country, Folk",Car Wheels on a Gravel Road,Folk,Country
+305,306,1996,Odelay,Beck,"Electronic, Hip Hop, Funk / Soul, Pop","Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract",Odelay,Electronic,Electro
+306,307,1964,A Hard Day's Night,The Beatles,"Rock, Stage & Screen","Soundtrack, Beat, Pop Rock",A Hard Day's Night,Rock,Soundtrack
+307,308,1956,Songs for Swingin' Lovers!,Frank Sinatra,"Jazz, Pop","Vocal, Easy Listening",Songs for Swingin' Lovers!,Jazz,Vocal
+308,309,1969,Willy and the Poor Boys,Creedence Clearwater Revival,Rock,"Blues Rock, Rock & Roll, Classic Rock",Willy and the Poor Boys,Rock,Blues Rock
+309,310,1991,Blood Sugar Sex Magik,Red Hot Chili Peppers,Rock,"Alternative Rock, Funk Metal",Blood Sugar Sex Magik,Rock,Alternative Rock
+310,311,1994,The Sun Records Collection,Various,"Rock, Funk / Soul, Blues, Pop, Folk, World, & Country","Country Blues, Rock & Roll, Rockabilly",The Sun Records Collection,Rock,Country Blues
+311,312,1988,Nothing's Shocking,Jane's Addiction,Rock,Alternative Rock,Nothing's Shocking,Rock,Alternative Rock
+312,313,1994,MTV Unplugged in New York,Nirvana,Rock,"Folk Rock, Acoustic, Grunge",MTV Unplugged in New York,Rock,Folk Rock
+313,314,1998,The Miseducation of Lauryn Hill,Lauryn Hill,Hip Hop,"RnB/Swing, Conscious",The Miseducation of Lauryn Hill,Hip Hop,RnB/Swing
+314,315,1979,Damn the Torpedoes,Tom Petty and the Heartbreakers,Rock,"Soft Rock, Hard Rock, Pop Rock",Damn the Torpedoes,Rock,Soft Rock
+315,316,1969,The Velvet Underground,The Velvet Underground,Rock,"Garage Rock, Art Rock, Experimental",The Velvet Underground,Rock,Garage Rock
+316,317,1988,Surfer Rosa,Pixies,Rock,Alternative Rock,Surfer Rosa,Rock,Alternative Rock
+317,318,1972,Back Stabbers,The O'Jays,Funk / Soul,Soul,Back Stabbers,Funk / Soul,Soul
+318,319,1973,Burnin',The Wailers,Reggae,Reggae,Burnin',Reggae,Reggae
+319,320,2001,Amnesiac,Radiohead,"Electronic, Rock","Alternative Rock, Experimental",Amnesiac,Electronic,Alternative Rock
+320,321,1972,Pink Moon,Nick Drake,"Rock, Folk, World, & Country","Folk, Folk Rock, Acoustic",Pink Moon,Rock,Folk
+321,322,1972,Sail Away,Randy Newman,"Rock, Pop",None,Sail Away,Rock,None
+322,323,1981,Ghost in the Machine,The Police,"Rock, Pop","Alternative Rock, New Wave, Pop Rock",Ghost in the Machine,Rock,Alternative Rock
+323,324,1976,Station to Station,David Bowie,"Rock, Funk / Soul","Classic Rock, Soul, Funk, Art Rock",Station to Station,Rock,Classic Rock
+324,325,1977,Slowhand,Eric Clapton,Rock,None,Slowhand,Rock,None
+325,326,1989,Disintegration,The Cure,"Electronic, Rock","New Wave, Alternative Rock",Disintegration,Electronic,New Wave
+326,327,1993,Exile in Guyville,Liz Phair,Rock,"Lo-Fi, Indie Rock",Exile in Guyville,Rock,Lo-Fi
+327,328,1988,Daydream Nation,Sonic Youth,Rock,"Alternative Rock, Indie Rock",Daydream Nation,Rock,Alternative Rock
+328,329,1986,In the Jungle Groove,James Brown,Funk / Soul,"Soul, Funk",In the Jungle Groove,Funk / Soul,Soul
+329,330,1975,Tonight's the Night,Neil Young,Rock,"Blues Rock, Folk Rock, Classic Rock",Tonight's the Night,Rock,Blues Rock
+330,331,1965,Help!,The Beatles,"Rock, Stage & Screen","Beat, Soundtrack, Pop Rock",Help!,Rock,Beat
+331,332,1982,Shoot Out the Lights,Richard & Linda Thompson,"Rock, Folk, World, & Country",Folk Rock,Shoot Out the Lights,Rock,Folk Rock
+332,333,1981,Wild Gift,X,Rock,"Rock & Roll, Punk",Wild Gift,Rock,Rock & Roll
+333,334,1979,Squeezing Out Sparks,Graham Parker & The Rumour,"Rock, Blues",None,Squeezing Out Sparks,Rock,None
+334,335,1994,Superunknown,Soundgarden,Rock,Alternative Rock,Superunknown,Rock,Alternative Rock
+335,336,2007,In Rainbows,Radiohead,"Electronic, Rock","Alternative Rock, Art Rock",In Rainbows,Electronic,Alternative Rock
+336,337,1971,Aqualung,Jethro Tull,Rock,"Classic Rock, Prog Rock",Aqualung,Rock,Classic Rock
+337,338,1968,Cheap Thrills,Big Brother & the Holding Company,Rock,"Folk Rock, Blues Rock, Psychedelic Rock",Cheap Thrills,Rock,Folk Rock
+338,339,1974,The Heart of Saturday Night,Tom Waits,"Jazz, Pop, Folk, World, & Country","Contemporary Jazz, Spoken Word",The Heart of Saturday Night,Jazz,Contemporary Jazz
+339,340,1981,Damaged,Black Flag,Rock,"Hardcore, Punk",Damaged,Rock,Hardcore
+340,341,1999,Play,Moby,Electronic,"Breakbeat, Leftfield, Downtempo",Play,Electronic,Breakbeat
+341,342,1990,Violator,Depeche Mode,Electronic,Synth-pop,Violator,Electronic,Synth-pop
+342,343,1977,Bat Out of Hell,Meat Loaf,Rock,Pop Rock,Bat Out of Hell,Rock,Pop Rock
+343,344,1973,Berlin,Lou Reed,Rock,Hard Rock,Berlin,Rock,Hard Rock
+344,345,1984,Stop Making Sense,Talking Heads,"Rock, Funk / Soul","Funk, Indie Rock, New Wave",Stop Making Sense,Rock,Funk
+345,346,1989,3 Feet High and Rising,De La Soul,Hip Hop,None,3 Feet High and Rising,Hip Hop,None
+346,347,1967,The Piper at the Gates of Dawn,Pink Floyd,Rock,Psychedelic Rock,The Piper at the Gates of Dawn,Rock,Psychedelic Rock
+347,348,1960,Muddy Waters at Newport 1960,Muddy Waters,"Rock, Blues","Blues Rock, Chicago Blues",Muddy Waters at Newport 1960,Rock,Blues Rock
+348,349,2003,The Black Album,Jay Z,Hip Hop,None,The Black Album,Hip Hop,None
+349,350,1966,Roger the Engineer,The Yardbirds,"Rock, Blues","Blues Rock, Pop Rock",Roger the Engineer,Rock,Blues Rock
+350,351,1979,Rust Never Sleeps,Neil Young & Crazy Horse,Rock,"Hard Rock, Arena Rock",Rust Never Sleeps,Rock,Hard Rock
+351,352,1985,Brothers in Arms,Dire Straits,Rock,"AOR, Classic Rock",Brothers in Arms,Rock,AOR
+352,353,2010,My Beautiful Dark Twisted Fantasy,Kanye West,Hip Hop,None,My Beautiful Dark Twisted Fantasy,Hip Hop,None
+353,354,1978,52nd Street,Billy Joel,"Jazz, Rock, Pop","Pop Rock, Ballad, Latin Jazz",52nd Street,Jazz,Pop Rock
+354,355,1965,Having a Rave Up,The Yardbirds,Rock,"Blues Rock, Psychedelic Rock",Having a Rave Up,Rock,Blues Rock
+355,356,1970,12 Songs,Randy Newman,"Rock, Pop","Pop Rock, Vocal",12 Songs,Rock,Pop Rock
+356,357,1967,Between the Buttons,The Rolling Stones,Rock,"Blues Rock, Psychedelic Rock, Pop Rock",Between the Buttons,Rock,Blues Rock
+357,358,1960,Sketches of Spain,Miles Davis,Jazz,Modal,Sketches of Spain,Jazz,Modal
+358,359,1972,Honky Chateau,Elton John,Rock,"Pop Rock, Classic Rock",Honky Chateau,Rock,Pop Rock
+359,360,1979,Singles Going Steady,Buzzcocks,Rock,Punk,Singles Going Steady,Rock,Punk
+360,361,2000,Stankonia,OutKast,"Hip Hop, Funk / Soul","Gangsta, P.Funk, Crunk, Conscious",Stankonia,Hip Hop,Gangsta
+361,362,1993,Siamese Dream,The Smashing Pumpkins,Rock,Alternative Rock,Siamese Dream,Rock,Alternative Rock
+362,363,1987,Substance 1987,New Order,Electronic,Synth-pop,Substance 1987,Electronic,Synth-pop
+363,364,1971,L.A. Woman,The Doors,Rock,"Blues Rock, Classic Rock",L.A. Woman,Rock,Blues Rock
+364,365,1992,Rage Against the Machine,Rage Against the Machine,"Hip Hop, Rock",Funk Metal,Rage Against the Machine,Hip Hop,Funk Metal
+365,366,1994,American Recordings,Johnny Cash,"Folk, World, & Country","Country, Gospel, Folk",American Recordings,Folk,Country
+366,367,1998,Ray of Light,Madonna,"Electronic, Pop","House, Techno, Downtempo, Vocal, Ambient",Ray of Light,Electronic,House
+367,368,1972,Eagles,Eagles,Rock,"Country Rock, Classic Rock",Eagles,Rock,Country Rock
+368,369,1987,Louder Than Bombs,The Smiths,Rock,"Alternative Rock, Indie Rock",Louder Than Bombs,Rock,Alternative Rock
+369,370,1973,Mott,Mott the Hoople,Rock,Classic Rock,Mott,Rock,Classic Rock
+370,371,2006,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,Rock,Indie Rock,"Whatever People Say I Am, That's What I'm Not",Rock,Indie Rock
+371,372,1979,Reggatta de Blanc,The Police,"Rock, Pop","New Wave, Pop Rock",Reggatta de Blanc,Rock,New Wave
+372,373,1969,Volunteers,Jefferson Airplane,Rock,"Psychedelic Rock, Folk Rock, Country Rock, Honky Tonk",Volunteers,Rock,Psychedelic Rock
+373,374,1975,Siren,Roxy Music,Rock,"Art Rock, Pop Rock, Glam",Siren,Rock,Art Rock
+374,375,1974,Late for the Sky,Jackson Browne,Rock,Pop Rock,Late for the Sky,Rock,Pop Rock
+375,376,1995,Post,Bjork,Electronic,"Breakbeat, IDM, Electro",Post,Electronic,Breakbeat
+376,377,1991,The Ultimate Collection: 1948-1990,John Lee Hooker,Blues,"Country Blues, Electric Blues, Chicago Blues, Jump Blues",The Ultimate Collection: 1948-1990,Blues,Country Blues
+377,378,1995,(What's the Story) Morning Glory?,Oasis,"Rock, Pop",Brit Pop,(What's the Story) Morning Glory?,Rock,Brit Pop
+378,379,1994,CrazySexyCool,TLC,"Electronic, Hip Hop, Funk / Soul",RnB/Swing,CrazySexyCool,Electronic,RnB/Swing
+379,380,1973,Funky Kingston,Toots & The Maytals,Reggae,"Reggae Gospel, Reggae, Roots Reggae, Rocksteady",Funky Kingston,Reggae,Reggae Gospel
+380,381,2011,The Smile Sessions,The Beach Boys,Rock,"Pop Rock, Psychedelic Rock",The Smile Sessions,Rock,Pop Rock
+381,382,1976,The Modern Lovers,The Modern Lovers,Rock,"Art Rock, Indie Rock",The Modern Lovers,Rock,Art Rock
+382,383,1978,More Songs About Buildings and Food,Talking Heads,Rock,"New Wave, Indie Rock",More Songs About Buildings and Food,Rock,New Wave
+383,384,1966,A Quick One,The Who,Rock,"Mod, Beat, Psychedelic Rock",A Quick One,Rock,Mod
+384,385,2001,"""Love and Theft""",Bob Dylan,Rock,"Folk Rock, Blues Rock","""Love and Theft""",Rock,Folk Rock
+385,386,1974,Pretzel Logic,Steely Dan,"Jazz, Rock","Jazz-Rock, Pop Rock, Classic Rock",Pretzel Logic,Jazz,Jazz-Rock
+386,387,1993,Enter the Wu-Tang: 36 Chambers,Wu-Tang Clan,Hip Hop,Gangsta,Enter the Wu-Tang: 36 Chambers,Hip Hop,Gangsta
+387,388,1985,The Indestructible Beat of Soweto,Various Artists,"Funk / Soul, Folk, World, & Country",African,The Indestructible Beat of Soweto,Funk / Soul,African
+388,389,1989,The End of the Innocence,Don Henley,Rock,Pop Rock,The End of the Innocence,Rock,Pop Rock
+389,390,2003,Elephant,The White Stripes,Rock,"Blues Rock, Garage Rock, Alternative Rock",Elephant,Rock,Blues Rock
+390,391,1976,The Pretender,Jackson Browne,Rock,"Soft Rock, Pop Rock",The Pretender,Rock,Soft Rock
+391,392,1970,Let It Be,The Beatles,Rock,Pop Rock,Let It Be,Rock,Pop Rock
+392,393,2007,Kala,M.I.A.,"Electronic, Hip Hop, Reggae, Pop","Grime, Bollywood, Hip Hop, Dancehall",Kala,Electronic,Grime
+393,394,1974,Good Old Boys,Randy Newman,"Rock, Pop","Pop Rock, Vocal",Good Old Boys,Rock,Pop Rock
+394,395,2007,Sound of Silver,LCD Soundsystem,"Electronic, Rock","Leftfield, Alternative Rock, Electro, Disco",Sound of Silver,Electronic,Leftfield
+395,396,1973,For Your Pleasure,Roxy Music,Rock,"Art Rock, Avantgarde, Glam",For Your Pleasure,Rock,Art Rock
+396,397,1991,Blue Lines,Massive Attack,"Electronic, Reggae","Dub, Downtempo",Blue Lines,Electronic,Dub
+397,398,1983,Eliminator,ZZ Top,Rock,Pop Rock,Eliminator,Rock,Pop Rock
+398,399,1985,Rain Dogs,Tom Waits,"Rock, Blues",Blues Rock,Rain Dogs,Rock,Blues Rock
+399,400,1995,Anthology: The Best of The Temptations,The Temptations,"Electronic, Funk / Soul","Soul, Disco",Anthology: The Best of The Temptations,Electronic,Soul
+400,401,1999,Californication,Red Hot Chili Peppers,Rock,"Alternative Rock, Funk Metal",Californication,Rock,Alternative Rock
+401,402,1994,Illmatic,Nas,Hip Hop,None,Illmatic,Hip Hop,None
+402,403,1973,(pronounced 'leh-'nerd 'skin-'nerd),Lynyrd Skynyrd,Rock,"Blues Rock, Hard Rock, Southern Rock",(pronounced 'leh-'nerd 'skin-'nerd),Rock,Blues Rock
+403,404,1972,Dr. John's Gumbo,Dr. John,Funk / Soul,"Bayou Funk, Funk, Rhythm & Blues",Dr. John's Gumbo,Funk / Soul,Bayou Funk
+404,405,1974,Radio City,Big Star,Rock,Power Pop,Radio City,Rock,Power Pop
+405,406,1993,Rid of Me,PJ Harvey,Rock,Indie Rock,Rid of Me,Rock,Indie Rock
+406,407,1980,Sandinista!,The Clash,"Rock, Reggae","Rock & Roll, Dub, Punk",Sandinista!,Rock,Rock & Roll
+407,408,1989,I Do Not Want What I Haven't Got,Sinead O'Connor,"Rock, Funk / Soul, Blues","Blues Rock, Rhythm & Blues, Soul",I Do Not Want What I Haven't Got,Rock,Blues Rock
+408,409,1967,Strange Days,The Doors,Rock,Psychedelic Rock,Strange Days,Rock,Psychedelic Rock
+409,410,1997,Time Out of Mind,Bob Dylan,"Rock, Blues",Blues Rock,Time Out of Mind,Rock,Blues Rock
+410,411,1974,461 Ocean Boulevard,Eric Clapton,Rock,Blues Rock,461 Ocean Boulevard,Rock,Blues Rock
+411,412,1977,Pink Flag,Wire,Rock,Punk,Pink Flag,Rock,Punk
+412,413,1984,Double Nickels on the Dime,Minutemen,Rock,"Alternative Rock, Hardcore, Punk",Double Nickels on the Dime,Rock,Alternative Rock
+413,414,1981,Beauty and the Beat,The Go Go's,Rock,Pop Rock,Beauty and the Beat,Rock,Pop Rock
+414,415,1978,Van Halen,Van Halen,Rock,Hard Rock,Van Halen,Rock,Hard Rock
+415,416,1999,Mule Variations,Tom Waits,"Electronic, Rock","Abstract, Art Rock",Mule Variations,Electronic,Abstract
+416,417,1980,Boy,U2,Rock,"New Wave, Pop Rock",Boy,Rock,New Wave
+417,418,1973,Band on the Run,Paul McCartney & Wings,Rock,Pop Rock,Band on the Run,Rock,Pop Rock
+418,419,1994,Dummy,Portishead,Electronic,"Trip Hop, Downtempo",Dummy,Electronic,Trip Hop
+419,420,1957,"The ""Chirping"" Crickets",The Crickets,"Rock, Pop","Rockabilly, Rock & Roll","The ""Chirping"" Crickets",Rock,Rockabilly
+420,421,1990,"The Best of the Girl Groups, Volume 1",Various Artists,"Rock, Pop","Pop Rock, Vocal","The Best of the Girl Groups, Volume 1",Rock,Pop Rock
+421,422,1963,Presenting the Fabulous Ronettes Featuring Veronica,The Ronettes,"Rock, Pop","Rock & Roll, Vocal",Presenting the Fabulous Ronettes Featuring Veronica,Rock,Rock & Roll
+422,423,2001,Anthology,Diana Ross & The Supremes,"Electronic, Funk / Soul","Pop Rock, Soul, Disco",Anthology,Electronic,Pop Rock
+423,424,2002,The Rising,Bruce Springsteen,Rock,"Folk Rock, Classic Rock",The Rising,Rock,Folk Rock
+424,425,1974,Grievous Angel,Gram Parsons,"Rock, Folk, World, & Country","Country Rock, Honky Tonk",Grievous Angel,Rock,Country Rock
+425,426,1978,Cheap Trick at Budokan,Cheap Trick,Rock,"Power Pop, Pop Rock, Arena Rock, Hard Rock",Cheap Trick at Budokan,Rock,Power Pop
+426,427,2002,Sleepless,Peter Wolf,"Rock, Blues, Pop","Blues Rock, Pop Rock, Ballad",Sleepless,Rock,Blues Rock
+427,428,1978,Outlandos d'Amour,The Police,Rock,"Alternative Rock, New Wave, Punk",Outlandos d'Amour,Rock,Alternative Rock
+428,429,1975,Another Green World,Brian Eno,Electronic,"Experimental, Ambient",Another Green World,Electronic,Experimental
+429,430,2007,Vampire Weekend,Vampire Weekend,Rock,Indie Rock,Vampire Weekend,Rock,Indie Rock
+430,431,2000,"Stories From the City, Stories From the Sea",PJ Harvey,Rock,Indie Rock,"Stories From the City, Stories From the Sea",Rock,Indie Rock
+431,432,1973,Here Come the Warm Jets,Brian Eno,Rock,"Art Rock, Glam",Here Come the Warm Jets,Rock,Art Rock
+432,433,1970,All Things Must Pass,George Harrison,Rock,Pop Rock,All Things Must Pass,Rock,Pop Rock
+433,434,1972,#1 Record,Big Star,Rock,Power Pop,%231 Record,Rock,Power Pop
+434,435,1993,In Utero,Nirvana,Rock,"Grunge, Alternative Rock",In Utero,Rock,Grunge
+435,436,2002,Sea Change,Beck,Rock,"Alternative Rock, Post Rock",Sea Change,Rock,Alternative Rock
+436,437,2008,Tha Carter III,Lil Wayne,"Hip Hop, Funk / Soul","RnB/Swing, Screw, Pop Rap, Thug Rap",Tha Carter III,Hip Hop,RnB/Swing
+437,438,1979,Boys Don't Cry,The Cure,Rock,"New Wave, Post-Punk",Boys Don't Cry,Rock,New Wave
+438,439,1985,"Live at the Harlem Square Club, 1963",Sam Cooke,Funk / Soul,Soul,"Live at the Harlem Square Club, 1963",Funk / Soul,Soul
+439,440,1985,Rum Sodomy & the Lash,The Pogues,"Rock, Folk, World, & Country","Folk Rock, Celtic, Punk",Rum Sodomy & the Lash,Rock,Folk Rock
+440,441,1977,Suicide,Suicide,"Electronic, Rock","New Wave, Experimental",Suicide,Electronic,New Wave
+441,442,1978,Q: Are We Not Men? A: We Are Devo!,DEVO,Rock,New Wave,Q: Are We Not Men? A: We Are Devo!,Rock,New Wave
+442,443,1977,In Color,Cheap Trick,Rock,"Power Pop, Pop Rock, Hard Rock",In Color,Rock,Power Pop
+443,444,1972,The World Is a Ghetto,War,Funk / Soul,Funk,The World Is a Ghetto,Funk / Soul,Funk
+444,445,1976,Fly Like an Eagle,Steve Miller Band,Rock,Pop Rock,Fly Like an Eagle,Rock,Pop Rock
+445,446,1970,Back in the USA,MC5,Rock,"Garage Rock, Rock & Roll",Back in the USA,Rock,Garage Rock
+446,447,1964,Getz / Gilberto,Stan Getz / Joao Gilberto featuring Antonio Carlos Jobim,Jazz,"Bossa Nova, Latin Jazz",Getz / Gilberto,Jazz,Bossa Nova
+447,448,1983,Synchronicity,The Police,"Rock, Pop","New Wave, Pop Rock",Synchronicity,Rock,New Wave
+448,449,1978,Third/Sister Lovers,Big Star,Rock,"Lo-Fi, Indie Rock",Third/Sister Lovers,Rock,Lo-Fi
+449,450,1973,For Everyman,Jackson Browne,Rock,"Pop Rock, Classic Rock",For Everyman,Rock,Pop Rock
+450,451,2006,Back to Black,Amy Winehouse,"Funk / Soul, Pop",Soul,Back to Black,Funk / Soul,Soul
+451,452,1971,John Prine,John Prine,"Folk, World, & Country","Country, Folk",John Prine,Folk,Country
+452,453,1987,Strictly Business,EPMD,Hip Hop,None,Strictly Business,Hip Hop,None
+453,454,1971,Love It to Death,Alice Cooper,Rock,Classic Rock,Love It to Death,Rock,Classic Rock
+454,455,1984,How Will the Wolf Survive?,Los Lobos,"Rock, Latin",Blues Rock,How Will the Wolf Survive?,Rock,Blues Rock
+455,456,1978,"Here, My Dear",Marvin Gaye,Funk / Soul,Soul,"Here, My Dear",Funk / Soul,Soul
+456,457,2005,Z,My Morning Jacket,Rock,Alternative Rock,Z,Rock,Alternative Rock
+457,458,1970,Tumbleweed Connection,Elton John,"Rock, Folk, World, & Country","Soft Rock, Country Rock",Tumbleweed Connection,Rock,Soft Rock
+458,459,1968,The Drifters' Golden Hits,The Drifters,"Rock, Funk / Soul","Rhythm & Blues, Soul",The Drifters' Golden Hits,Rock,Rhythm & Blues
+459,460,1994,Live Through This,Hole,Rock,Grunge,Live Through This,Rock,Grunge
+460,461,1979,Metal Box,Public Image Ltd.,"Electronic, Rock","Post-Punk, Dub, Avantgarde, Experimental",Metal Box,Electronic,Post-Punk
+461,462,1987,Document,R.E.M.,Rock,None,Document,Rock,None
+462,463,1981,Heaven Up Here,Echo and The Bunnymen,Rock,"New Wave, Indie Rock",Heaven Up Here,Rock,New Wave
+463,464,1987,Hysteria,Def Leppard,Rock,"Hard Rock, Arena Rock",Hysteria,Rock,Hard Rock
+464,465,1999,69 Love Songs,The Magnetic Fields,"Electronic, Rock","Synth-pop, Indie Rock",69 Love Songs,Electronic,Synth-pop
+465,466,2002,A Rush of Blood to the Head,Coldplay,Rock,"Alternative Rock, Pop Rock",A Rush of Blood to the Head,Rock,Alternative Rock
+466,467,1987,Tunnel of Love,Bruce Springsteen,Rock,None,Tunnel of Love,Rock,None
+467,468,1965,The Paul Butterfield Blues Band,The Paul Butterfield Blues Band,"Rock, Blues","Blues Rock, Electric Blues, Chicago Blues, Modern Electric Blues, Harmonica Blues",The Paul Butterfield Blues Band,Rock,Blues Rock
+468,469,1996,The Score,Fugees,Hip Hop,"Pop Rap, Conscious",The Score,Hip Hop,Pop Rap
+469,470,1985,Radio,L.L. Cool J,Hip Hop,None,Radio,Hip Hop,None
+470,471,1974,I Want to See the Bright Lights Tonight,Richard & Linda Thompson,Rock,"Classic Rock, Folk Rock",I Want to See the Bright Lights Tonight,Rock,Classic Rock
+471,472,1987,Faith,George Michael,"Electronic, Rock, Funk / Soul, Blues, Pop","Downtempo, Soft Rock, Pop Rock, Synth-pop",Faith,Electronic,Downtempo
+472,473,1984,The Smiths,The Smiths,Rock,Indie Rock,The Smiths,Rock,Indie Rock
+473,474,2001,Proxima estacion: Esperanza,Manu Chao,"Rock, Reggae, Latin","Folk Rock, Reggae, Reggae-Pop",Proxima estacion: Esperanza,Rock,Folk Rock
+474,475,1979,Armed Forces,Elvis Costello & The Attractions,Rock,"New Wave, Pop Rock",Armed Forces,Rock,New Wave
+475,476,1997,Life After Death,The Notorious B.I.G.,Hip Hop,None,Life After Death,Hip Hop,None
+476,477,1996,Down Every Road,Merle Haggard,"Folk, World, & Country",Country,Down Every Road,Folk,Country
+477,478,2002,All Time Greatest Hits,Loretta Lynn,"Folk, World, & Country",Country,All Time Greatest Hits,Folk,Country
+478,479,1971,Maggot Brain,Funkadelic,"Rock, Funk / Soul","P.Funk, Psychedelic Rock",Maggot Brain,Rock,P.Funk
+479,480,1995,Only Built 4 Cuban Linx,Raekwon,Hip Hop,None,Only Built 4 Cuban Linx,Hip Hop,None
+480,481,2000,Voodoo,D'Angelo,"Hip Hop, Funk / Soul","Soul, Funk, Neo Soul",Voodoo,Hip Hop,Soul
+481,482,1986,Guitar Town,Steve Earle,"Rock, Folk, World, & Country","Country, Honky Tonk",Guitar Town,Rock,Country
+482,483,1979,Entertainment!,Gang of Four,Rock,"Post-Punk, New Wave",Entertainment!,Rock,Post-Punk
+483,484,1972,All the Young Dudes,Mott the Hoople,Rock,"Classic Rock, Glam",All the Young Dudes,Rock,Classic Rock
+484,485,1994,Vitalogy,Pearl Jam,Rock,"Alternative Rock, Hard Rock",Vitalogy,Rock,Alternative Rock
+485,486,1975,That's the Way of the World,"Earth, Wind & Fire",Funk / Soul,"Soul, Funk, Disco",That's the Way of the World,Funk / Soul,Soul
+486,487,1983,She's So Unusual,Cyndi Lauper,"Electronic, Rock","Pop Rock, Synth-pop",She's So Unusual,Electronic,Pop Rock
+487,488,1985,New Day Rising,Husker Du,Rock,"Alternative Rock, Hardcore, Punk",New Day Rising,Rock,Alternative Rock
+488,489,1976,Destroyer,KISS,Rock,Hard Rock,Destroyer,Rock,Hard Rock
+489,490,1973,Tres hombres,ZZ Top,Rock,"Blues Rock, Classic Rock",Tres hombres,Rock,Blues Rock
+490,491,1967,Born Under a Bad Sign,Albert King,"Funk / Soul, Blues","Electric Blues, Rhythm & Blues, Soul",Born Under a Bad Sign,Funk / Soul,Electric Blues
+491,492,1983,Touch,Eurythmics,"Electronic, Pop","New Wave, Synth-pop",Touch,Electronic,New Wave
+492,493,2002,Yankee Hotel Foxtrot,Wilco,Rock,Alternative Rock,Yankee Hotel Foxtrot,Rock,Alternative Rock
+493,494,2007,Oracular Spectacular,MGMT,"Electronic, Rock, Pop","Synth-pop, Indie Rock",Oracular Spectacular,Electronic,Synth-pop
+494,495,1972,Give It Up,Bonnie Raitt,Rock,Blues Rock,Give It Up,Rock,Blues Rock
+495,496,1969,Boz Scaggs,Boz Scaggs,Rock,Pop Rock,Boz Scaggs,Rock,Pop Rock
+496,497,2001,White Blood Cells,The White Stripes,Rock,"Indie Rock, Alternative Rock, Blues Rock, Garage Rock",White Blood Cells,Rock,Indie Rock
+497,498,1989,The Stone Roses,The Stone Roses,Rock,Indie Rock,The Stone Roses,Rock,Indie Rock
+498,499,1971,Live in Cook County Jail,B.B. King,Blues,Electric Blues,Live in Cook County Jail,Blues,Electric Blues
+499,500,1998,Aquemini,OutKast,Hip Hop,"Reggae, Gangsta, Soul, Conscious",Aquemini,Hip Hop,Reggae
