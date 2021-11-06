@@ -4,6 +4,8 @@
 
 ![lago]("images/RSlogo.png")
 
+![lego]("images/mira.jpg")
+
 
 
 
