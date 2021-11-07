@@ -44,7 +44,7 @@ stone["Subgen"] = stone["Subgenre"].str.extract(r"(^([^,])+)")[0]
 
 
 #exportamos tabla resultante
-stone.to_csv("../data/stone.csv")
+stone.to_csv("data/stone.csv")
 
 
 #TRATAMIENTO DE DATOS // wrangling
@@ -64,7 +64,7 @@ Top_alb_spotify = scf.data_spotify(element)
 #cramos el dataset
 Spotify_500 = pd.DataFrame(Top_alb_spotify)
 #exportamos datos a csv
-Spotify_500.to_csv("../data/Spotify_500.csv")
+Spotify_500.to_csv("data/Spotify_500.csv")
 
 
 #LastFM 50 Top Artists
@@ -80,7 +80,7 @@ last_top50 = pd.DataFrame.from_dict(last_50)
 top50_lastfm = last_top50[['name', 'playcount', 'listeners']]
 
 #exportamos el dataframe
-top50_lastfm.to_csv("../data/top50_lastfm.csv")
+top50_lastfm.to_csv("data/top50_lastfm.csv")
 
 
 #TOP SELLS
@@ -112,7 +112,7 @@ insider[["Millions","Rank"]] = insider[["Millions","Rank"]].astype("int64")
 
 #resumimos los datos en un dataframe más conciso y exportamos a csv
 top_sells = insider[["Rank","Artist","Title","Millions"]]
-top_sells.to_csv("../data/top_sells.csv")
+top_sells.to_csv("data/top_sells.csv")
 
 #enriquecimiento de top sells
 #defimos las variables que vamos a pasar como argumentos a la función que llama a la api de albums de lastfm
@@ -129,7 +129,7 @@ top_50_sales_rich = top_sells.merge(top_50_sales,left_index=True, right_index=Tr
 top_sales_rich = top_50_sales_rich[["Rank","Artist","Title","playcount","listeners"]]
 
 #exportamos el dataframe enriquecido a csv
-top_sales_rich.to_csv("../data/top_sells_rich.csv")
+top_sales_rich.to_csv("data/top_sells_rich.csv")
 
 
 # Top 500 albums Rolling Stones enrinquecimiento con LastFM
@@ -158,7 +158,7 @@ stone_500_richment = stone_500.merge(Lastfm_500,left_index=True, right_index=Tru
 stone_500_rich =stone_500_richment [["Number","Year","Album","Artist","Gen","Subgen","playcount","listeners"]]
 
 #exportamos el csv
-stone_500_rich.to_csv("../data/stone_500_rich.csv")
+stone_500_rich.to_csv("data/stone_500_rich.csv")
 
 
 
