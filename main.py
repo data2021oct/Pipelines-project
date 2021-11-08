@@ -14,37 +14,60 @@ import src.apifunc as apif
 #LIMPIEZA
 
 #cargar dataset The 500 Greatest Albums of All Time
-stone = pd.read_csv("../data/albumlist.csv", encoding='latin-1')
+stone = pd.read_excel("data/musicbrainz.xlsx")
+
+#cambiamos nombre columna title a album
+stone.rename(columns={"Title": "Album"}, inplace = True)
+
+#reemplazamos datos de album que tienen número a string
+stone.Album = stone.Album.replace(1999,"1999",regex=True)
+stone.Album = stone.Album.replace(21,"21",regex=True)
+stone.Album = stone.Album.replace(1989,"1989",regex=True)
+
+#quitamos espacios delate y detrás de strings
+stone.Artist = stone.Artist.str.strip()
+stone.Album = stone.Album.str.strip()
+stone.Type = stone.Type.str.strip()
+stone.Genre = stone.Genre.str.strip()
+
+#creamos neuvas columnas a partir de Genre cogiendo solo un género y un subgénero
+stone["Gen"] = stone["Genre"].str.extract(r"(^([^,])+)")[0]
+stone["Subgenre"] = stone["Genre"].str.extract(r",\s*(.*$)")[0]
+
 
 #limpieza de datos
-stone.Album = stone.Album.str.replace("_","-")
-stone.Album = stone.Album.str.replace("Ê"," ")
-stone.Artist = stone.Artist.str.replace("Ê"," ")
-stone.Genre = stone.Genre.str.replace("Ê"," ")
-stone.Subgenre = stone.Subgenre.str.replace("Ê"," ")
-stone.Artist = stone.Artist.str.replace("Wu Tang Clan","Wu-Tang Clan")
-stone.Album = stone.Album.str.replace("Chteau","Chateau")
-stone.Album = stone.Album.str.replace(r'(^Blues Breakers With Eric \w+.+)',"Blues Breakers",regex=True)
-stone.Album = stone.Album.str.replace(r'(^The Band...The Brown.*)',"The Band",regex=True)
-stone.Album = stone.Album.str.replace("The B 52's / Play Loud","The B-52's")
-stone.Album = stone.Album.str.replace("Proud Mary: The Best of Ike and Tina Turner","Best Of / Proud Mary")
+stone.Album = stone.Album.str.replace(r'(Metallica...The Black Album..)',"Metallica",regex=True)
+stone.Album = stone.Album.str.replace(r'(Eagles...st album.)',"Eagles",regex=True)
+stone.Artist = stone.Artist.str.replace("Neil Young with Crazy Horse","Neil Young & Crazy Horse",regex=True)
+stone.Artist = stone.Artist.str.replace(r"(Bob Dylan...The Band)","Bob Dylan And The Band",regex=True)
+stone.Artist = stone.Artist.str.replace("Prince and The Revolution","Prince & The Revolution",regex=True)
+stone.Artist = stone.Artist.str.replace(r"(Rufus...Chaka Khan)","Rufus",regex=True)
+stone.Album = stone.Album.str.replace(r'(Proud Mary.*)',"Proud Mary",regex=True)
 
-#creamos una columna igual que album porque algunos títulos tienen caracteres incompatibles con las url
-#cambiamos sus datos
+#creamos nuevas columnas de artista y album para crear urls
 stone["Alb_url"] = stone["Album"]
+stone["Art_url"] = stone["Artist"]
 
-stone.Alb_url = stone.Alb_url.str.replace(r'(^Sign .Peace..the Times)',"Sign 'O' The Times",regex=True)
-stone.Alb_url = stone.Alb_url.str.replace("#1 Record","%231 Record",regex=True)
+stone.Alb_url = stone.Alb_url.str.replace(r'(^The Beatles\s..The White Album..)',"The Beatles (Remastered)",regex=True)
+stone.Alb_url = stone.Alb_url.str.replace(r'(^The Band...The Brown Album..)',"The Band",regex=True)
 
+stone["Alb_url"] = stone["Alb_url"].str.replace("'","%27",regex=True)
+stone["Alb_url"] = stone["Alb_url"].str.replace("&","%26",regex=True)
+stone["Alb_url"] = stone["Alb_url"].str.replace(".","%2e",regex=True)
+stone["Alb_url"] = stone["Alb_url"].str.replace("/","%2f",regex=True)
+stone["Alb_url"] = stone["Alb_url"].str.replace("#","%23",regex=True)
+stone["Alb_url"] = stone["Alb_url"].str.replace(r"(\s+)","%20",regex=True)
 
-#creamos nuevas columnas de gen y subgen y nos quedamos solo con el primer elemento de cada que hay en columnas genre y subgenre
-
-stone["Gen"] = stone["Genre"].str.extract(r"(^([^,])+)")[0]
-stone["Subgen"] = stone["Subgenre"].str.extract(r"(^([^,])+)")[0]
+stone["Art_url"] = stone["Art_url"].str.replace("'","%27",regex=True)
+stone["Art_url"] = stone["Art_url"].str.replace("&","%26",regex=True)
+stone["Art_url"] = stone["Art_url"].str.replace(".","%2e",regex=True)
+stone["Art_url"] = stone["Art_url"].str.replace("/","%2f",regex=True)
+stone["Art_url"] = stone["Art_url"].str.replace("#","%23",regex=True)
+stone["Art_url"] = stone["Art_url"].str.replace(r"(\s+)","%20",regex=True)
 
 
 #exportamos tabla resultante
-stone.to_csv("data/stone.csv")
+stone.to_csv("output/stone.csv")
 
 
 #TRATAMIENTO DE DATOS // wrangling
@@ -61,10 +84,10 @@ spotify = tablas_spotify[1]
 #llamamos a la función que crea la función necesaria para crear un diccionario base de un dataset con los datos de spotify
 element = spotify
 Top_alb_spotify = scf.data_spotify(element)
-#cramos el dataset
+#creamos el dataset
 Spotify_500 = pd.DataFrame(Top_alb_spotify)
 #exportamos datos a csv
-Spotify_500.to_csv("data/Spotify_500.csv")
+Spotify_500.to_csv("output/Spotify_500.csv")
 
 
 #LastFM 50 Top Artists
@@ -80,7 +103,7 @@ last_top50 = pd.DataFrame.from_dict(last_50)
 top50_lastfm = last_top50[['name', 'playcount', 'listeners']]
 
 #exportamos el dataframe
-top50_lastfm.to_csv("data/top50_lastfm.csv")
+top50_lastfm.to_csv("output/top50_lastfm.csv")
 
 
 #TOP SELLS
@@ -96,6 +119,7 @@ tags_insider = soup_insider.find_all("div", {"class": "slide-layout"})
 #utilizamos una función que hemos creado para extraer y normalizar los datos de esta web
 
 insider_data = scf.data_sells(tags_insider)
+
 #creamos el dataframe necesario par normalizar los datos
 insider = pd.DataFrame(insider_data)
 
@@ -112,35 +136,18 @@ insider[["Millions","Rank"]] = insider[["Millions","Rank"]].astype("int64")
 
 #resumimos los datos en un dataframe más conciso y exportamos a csv
 top_sells = insider[["Rank","Artist","Title","Millions"]]
-top_sells.to_csv("data/top_sells.csv")
-
-#enriquecimiento de top sells
-#defimos las variables que vamos a pasar como argumentos a la función que llama a la api de albums de lastfm
-df = top_sells
-colartista = "Artist"
-colalbum = "Title"
-req_top_sales = apif.urls_llamadas(df, colartista, colalbum)
-#creamos un dataframe con el resultado de la función
-top_sales_df = pd.DataFrame(req_top_sales)
-#hacemos un dataframe más conciso de sales y enriquecemos con los datos de lastfm
-
-top_50_sales = top_sales_df[["artist","name","playcount","listeners"]]
-top_50_sales_rich = top_sells.merge(top_50_sales,left_index=True, right_index=True)
-top_sales_rich = top_50_sales_rich[["Rank","Artist","Title","playcount","listeners"]]
-
-#exportamos el dataframe enriquecido a csv
-top_sales_rich.to_csv("data/top_sells_rich.csv")
+top_sells.to_csv("output/top_sells.csv")
 
 
 # Top 500 albums Rolling Stones enrinquecimiento con LastFM
     ### carga de archivo limpio
 
-stone = pd.read_csv("../data/stone.csv", encoding='latin-1')
+stone = pd.read_csv("output/stone.csv")
 stone = stone.drop("Unnamed: 0",axis=1)
 
 #función llamada a api de lastfm que información de todos los albums en un dataframe
 df = stone
-colartista = "Artist"
+colartista = "Art_url"
 colalbum = "Alb_url"
 Top500_last = apif.urls_llamadas(df, colartista, colalbum)
 
@@ -151,17 +158,12 @@ Top500_last_df = pd.DataFrame(Top500_last)
 Lastfm_500 = Top500_last_df[["artist","playcount","name","listeners"]]
 
 #concretamos el dataframe original de rolling stone
-stone_500 = stone[["Number","Year","Album","Artist","Gen","Subgen"]]
+stone_500 = stone[["Number","Year","Album","Artist","Gen"]]
 
 #enriquecemos los datos de rolling stone con los de lastfm
 stone_500_richment = stone_500.merge(Lastfm_500,left_index=True, right_index=True)
-stone_500_rich =stone_500_richment [["Number","Year","Album","Artist","Gen","Subgen","playcount","listeners"]]
+stone_500_rich =stone_500_richment [["Number","Year","Album","Artist","Gen","playcount","listeners"]]
+
 
 #exportamos el csv
-stone_500_rich.to_csv("data/stone_500_rich.csv")
-
-
-
-
-
-
+stone_500_rich.to_csv("output/stone_500_rich.csv")

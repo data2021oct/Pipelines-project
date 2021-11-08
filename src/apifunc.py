@@ -30,6 +30,7 @@ def urls_llamadas(df, colartista, colalbum): #pasar nombre tabla por parametros
         api_urls.append(f"http://ws.audioscrobbler.com/2.0/?method=album.getinfo&api_key={apikey}&artist={artist}&album={album}&format=json")
     request_dic = [] 
     i = 0
+    print("take a seat, 500 requests ahead")
     for a in api_urls:
         res = requests.get(a).json()
         request_dic.append(res["album"])
