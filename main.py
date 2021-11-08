@@ -40,9 +40,10 @@ stone.Album = stone.Album.str.replace(r'(Metallica...The Black Album..)',"Metall
 stone.Album = stone.Album.str.replace(r'(Eagles...st album.)',"Eagles",regex=True)
 stone.Artist = stone.Artist.str.replace("Neil Young with Crazy Horse","Neil Young & Crazy Horse",regex=True)
 stone.Artist = stone.Artist.str.replace(r"(Bob Dylan...The Band)","Bob Dylan And The Band",regex=True)
-stone.Artist = stone.Artist.str.replace("Prince and The Revolution","Prince & The Revolution",regex=True)
+stone.Artist = stone.Artist.str.replace(r"(Prince\s*.*)","Prince & The Revolution",regex=True)
 stone.Artist = stone.Artist.str.replace(r"(Rufus...Chaka Khan)","Rufus",regex=True)
 stone.Album = stone.Album.str.replace(r'(Proud Mary.*)',"Proud Mary",regex=True)
+stone.Artist = stone.Artist.str.replace(r'(.*The Velvet Underground.*)',"The Velvet Underground",regex= True)
 
 #creamos nuevas columnas de artista y album para crear urls
 stone["Alb_url"] = stone["Album"]
@@ -154,15 +155,17 @@ Top500_last = apif.urls_llamadas(df, colartista, colalbum)
 #creamos un dataframe con el resultado de la función
 Top500_last_df = pd.DataFrame(Top500_last)
 
-#concretamos el dataframe
+#concretamos el dataframe y canbiamos los datos núemricos a int64
 Lastfm_500 = Top500_last_df[["artist","playcount","name","listeners"]]
 
+Lastfm_500[["playcount","listeners"]] = Lastfm_500[["playcount","listeners"]].astype("int64")
+
 #concretamos el dataframe original de rolling stone
-stone_500 = stone[["Number","Year","Album","Artist","Gen"]]
+stone_500 = stone[["Number","Year","Album","Artist","Type","Rating","Gen"]]
 
 #enriquecemos los datos de rolling stone con los de lastfm
 stone_500_richment = stone_500.merge(Lastfm_500,left_index=True, right_index=True)
-stone_500_rich =stone_500_richment [["Number","Year","Album","Artist","Gen","playcount","listeners"]]
+stone_500_rich =stone_500_richment [["Number","Year","Album","Artist","Type","Rating","Gen","playcount","listeners"]]
 
 
 #exportamos el csv

@@ -6,7 +6,7 @@
 4,5,1969,Abbey Road,The Beatles,Album,4.7,54,rock,rock,,Abbey%20Road,The%20Beatles
 5,6,1991,Nevermind,Nirvana,Album,4.45,68,grunge,grunge,,Nevermind,Nirvana
 6,7,1977,Rumours,Fleetwood Mac,Album,4.6,59,pop,pop,,Rumours,Fleetwood%20Mac
-7,8,1984,Purple Rain,Prince and The Revolution,Album + Soundtrack,4.25,36,rock,rock,,Purple%20Rain,Prince%20and%20The%20Revolution
+7,8,1984,Purple Rain,Prince & The Revolution,Album + Soundtrack,4.25,36,rock,rock,,Purple%20Rain,Prince%20%26%20The%20Revolution
 8,9,1975,Blood on the Tracks,Bob Dylan,Album,4.35,25,folk,folk,,Blood%20on%20the%20Tracks,Bob%20Dylan
 9,10,1998,The Miseducation of Lauryn Hill,Lauryn Hill,Album,4.15,13,r&b,r&b,,The%20Miseducation%20of%20Lauryn%20Hill,Lauryn%20Hill
 10,11,1966,Revolver,The Beatles,Album,4.65,39,rock,rock,,Revolver,The%20Beatles
@@ -21,7 +21,7 @@
 19,20,2000,Kid A,Radiohead,Album,4.6,29,"rock , alternative",rock ,alternative,Kid%20A,Radiohead
 20,21,1975,Born to Run,Bruce Springsteen,Album,4.4,53,rock,rock,,Born%20to%20Run,Bruce%20Springsteen
 21,22,1994,Ready to Die,The Notorious B.I.G.,Album,4.25,11,hip-hop,hip-hop,,Ready%20to%20Die,The%20Notorious%20B%2eI%2eG%2e
-22,23,1967,The Velvet Underground & Nico,The Velvet Underground & Nico,Album,4.6,33,"rock , experimental",rock ,experimental,The%20Velvet%20Underground%20%26%20Nico,The%20Velvet%20Underground%20%26%20Nico
+22,23,1967,The Velvet Underground & Nico,The Velvet Underground,Album,4.6,33,"rock , experimental",rock ,experimental,The%20Velvet%20Underground%20%26%20Nico,The%20Velvet%20Underground
 23,24,1967,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Album,4.55,60,rock,rock,,Sgt%2e%20Pepper%27s%20Lonely%20Hearts%20Club%20Band,The%20Beatles
 24,25,1971,Tapestry,Carole King,Album,4.15,35,pop,pop,,Tapestry,Carole%20King
 25,26,1975,Horses,Patti Smith,Album,4.3,20,"punk rock , alternative",punk rock ,alternative,Horses,Patti%20Smith
@@ -43,7 +43,7 @@
 41,42,1997,OK Computer,Radiohead,Album,4.65,35,"rock , alternative",rock ,alternative,OK%20Computer,Radiohead
 42,43,1991,The Low End Theory,A Tribe Called Quest,Album,3.8,15,hip-hop,hip-hop,,The%20Low%20End%20Theory,A%20Tribe%20Called%20Quest
 43,44,1994,Illmatic,Nas,Album,4.15,20,hip-hop,hip-hop,,Illmatic,Nas
-44,45,1987,Sign “☮︎” the Times,Prince,Album,4.15,14,rock,rock,,Sign%20“☮︎”%20the%20Times,Prince
+44,45,1987,Sign “☮︎” the Times,Prince & The Revolution,Album,4.15,14,rock,rock,,Sign%20“☮︎”%20the%20Times,Prince%20%26%20The%20Revolution
 45,46,1986,Graceland,Paul Simon,Album,4.6,41,folk,folk,,Graceland,Paul%20Simon
 46,47,1976,Ramones,Ramones,Album,4.05,15,punk,punk,,Ramones,Ramones
 47,48,1984,Legend: The Best of Bob Marley and The Wailers,Bob Marley & The Wailers,Album + Compilation,4.3,55,reggae,reggae,,Legend:%20The%20Best%20of%20Bob%20Marley%20and%20The%20Wailers,Bob%20Marley%20%26%20The%20Wailers
@@ -128,7 +128,7 @@
 126,127,1962,Modern Sounds in Country and Western Music,Ray Charles,Album,4.5,5,"country , soul",country ,soul,Modern%20Sounds%20in%20Country%20and%20Western%20Music,Ray%20Charles
 127,128,1975,A Night at the Opera,Queen,Album,4.35,60,rock,rock,,A%20Night%20at%20the%20Opera,Queen
 128,129,1979,The Wall,Pink Floyd,Album,4.4,66,rock,rock,,The%20Wall,Pink%20Floyd
-129,130,1982,1999,Prince,Album,4.25,24,rock,rock,,1999,Prince
+129,130,1982,1999,Prince & The Revolution,Album,4.25,24,rock,rock,,1999,Prince%20%26%20The%20Revolution
 130,131,1994,Dummy,Portishead,Album,4.3,14,rock,rock,,Dummy,Portishead
 131,132,1978,40 Greatest Hits,Hank Williams,Album + Compilation,,4,"country , soul",country ,soul,40%20Greatest%20Hits,Hank%20Williams
 132,133,1976,Hejira,Joni Mitchell,Album,4.0,9,folk,folk,,Hejira,Joni%20Mitchell
@@ -324,7 +324,7 @@
 322,323,1980,Sandinista!,The Clash,Album,3.6,13,"punk , rock",punk ,rock,Sandinista!,The%20Clash
 323,324,2002,A Rush of Blood to the Head,Coldplay,Album,4.1,24,pop,pop,,A%20Rush%20of%20Blood%20to%20the%20Head,Coldplay
 324,325,1993,All Killer No Filler! The Jerry Lee Lewis Anthology,Jerry Lee Lewis,Album + Compilation,,1,"rock , country",rock ,country,All%20Killer%20No%20Filler!%20The%20Jerry%20Lee%20Lewis%20Anthology,Jerry%20Lee%20Lewis
-325,326,1980,Dirty Mind,Prince,Album,3.85,10,"funk , rock , pop",funk ,"rock , pop",Dirty%20Mind,Prince
+325,326,1980,Dirty Mind,Prince & The Revolution,Album,3.85,10,"funk , rock , pop",funk ,"rock , pop",Dirty%20Mind,Prince%20%26%20The%20Revolution
 326,327,1970,Live at Leeds,The Who,Album + Live,5.0,27,rock,rock,,Live%20at%20Leeds,The%20Who
 327,328,2013,Modern Vampires of the City,Vampire Weekend,Album,4.35,7,"rock , indie , pop",rock ,"indie , pop",Modern%20Vampires%20of%20the%20City,Vampire%20Weekend
 328,329,1996,Endtroducing.....,DJ Shadow,Album,4.55,14,hip-hop,hip-hop,,Endtroducing%2e%2e%2e%2e%2e,DJ%20Shadow
