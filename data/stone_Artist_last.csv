@@ -1,0 +1,338 @@
+Artist,Number,Album,Rating,playcount,listeners
+Marvin Gaye,1,3,4.32,0,0
+The Beach Boys,2,3,4.15,0,0
+Joni Mitchell,3,4,4.36,0,0
+Stevie Wonder,4,4,4.78,0,0
+The Beatles,5,9,4.4,604642148,4259832
+Nirvana,6,3,4.28,266339278,4837764
+Fleetwood Mac,7,1,4.6,0,0
+Prince & The Revolution,8,1,4.25,0,0
+Bob Dylan,9,7,4.31,0,0
+Lauryn Hill,10,1,4.15,0,0
+Michael Jackson,12,3,4.28,155869216,4108252
+Aretha Franklin,13,4,3.2,0,0
+The Rolling Stones,14,6,4.3,0,0
+Public Enemy,15,2,3.68,0,0
+The Clash,16,3,4.03,0,0
+Kanye West,17,6,4.08,467861027,5194039
+Kendrick Lamar,19,3,4.43,182648119,2161216
+Radiohead,20,4,4.51,586828415,5267125
+Bruce Springsteen,21,5,4.49,0,0
+The Notorious B.I.G.,22,2,4.03,0,0
+The Velvet Underground,23,4,3.22,0,0
+Carole King,25,1,4.15,0,0
+Patti Smith,26,1,4.3,0,0
+Wu-Tang Clan,27,1,4.65,0,0
+D'Angelo,28,2,4.0,0,0
+The Jimi Hendrix Experience,30,3,3.92,0,0
+Miles Davis,31,2,4.72,0,0
+Beyoncé,32,2,4.05,212074222,4163285
+Amy Winehouse,33,1,4.1,0,0
+Dr. Dre,37,1,4.1,0,0
+Talking Heads,39,2,4.38,0,0
+David Bowie,40,5,4.2,0,0
+A Tribe Called Quest,43,2,4.07,0,0
+Nas,44,1,4.15,0,0
+Prince,45,3,4.08,0,0
+Paul Simon,46,2,2.3,0,0
+Ramones,47,2,4.18,0,0
+Bob Marley & The Wailers,48,2,4.53,0,0
+OutKast,49,3,3.82,0,0
+JAY-Z,50,3,3.67,0,0
+Chuck Berry,51,1,0.0,0,0
+James Brown,54,3,4.62,0,0
+Pink Floyd,55,4,4.45,0,0
+Liz Phair,56,1,4.25,0,0
+The Band,57,2,4.18,0,0
+Led Zeppelin,58,5,4.52,0,0
+Van Morrison,60,2,4.5,0,0
+Eric B. & Rakim,61,1,3.5,0,0
+Guns N' Roses,62,1,4.45,0,0
+Steely Dan,63,2,4.35,0,0
+John Coltrane,66,2,4.58,0,0
+Kate Bush,68,1,3.85,0,0
+Alanis Morissette,69,1,4.15,0,0
+N.W.A,70,1,4.0,0,0
+Neil Young,72,4,4.38,0,0
+My Bloody Valentine,73,1,4.55,0,0
+Curtis Mayfield,76,2,4.62,0,0
+The Who,77,4,4.4,0,0
+Elvis Presley,78,3,4.23,0,0
+Frank Ocean,79,2,4.4,190363956,1883700
+Sex Pistols,80,1,4.7,0,0
+Sly & the Family Stone,82,3,4.05,0,0
+Dusty Springfield,83,1,4.0,0,0
+AC/DC,84,1,4.45,0,0
+John Lennon,85,2,4.0,0,0
+The Doors,86,1,4.55,0,0
+Erykah Badu,89,2,4.0,0,0
+Missy Elliott,93,1,3.65,0,0
+The Stooges,94,2,4.28,0,0
+Drake,95,2,3.08,254002673,4139698
+R.E.M.,96,2,4.1,0,0
+Metallica,97,2,4.43,0,0
+Lucinda Williams,98,2,4.58,0,0
+Taylor Swift,99,2,4.35,542908088,3015159
+De La Soul,103,2,3.95,0,0
+The Allman Brothers Band,105,1,4.5,0,0
+Hole,106,1,4.55,0,0
+Television,107,1,4.35,0,0
+Fiona Apple,108,3,4.15,0,0
+Lou Reed,109,1,4.2,0,0
+Janet Jackson,111,3,4.38,0,0
+Elton John,112,2,3.9,70754886,3054047
+The Smiths,113,1,4.4,0,0
+The Strokes,114,1,4.35,0,0
+The Cure,116,1,4.45,0,0
+Eagles,118,2,4.43,0,0
+Elvis Costello & The Attractions,121,1,4.65,0,0
+Nine Inch Nails,122,2,2.72,0,0
+U2,124,2,4.35,0,0
+Beastie Boys,125,3,4.33,0,0
+Mary J. Blige,126,2,3.25,0,0
+Ray Charles,127,2,2.25,0,0
+Queen,128,1,4.35,236226041,4667487
+Portishead,131,1,4.3,0,0
+Hank Williams,132,1,0.0,0,0
+Fugees,134,1,4.0,0,0
+Funkadelic,136,2,1.88,0,0
+Adele,137,1,4.1,153827502,3433200
+Madonna,138,3,4.3,0,0
+Black Sabbath,139,3,4.62,0,0
+The Wailers,140,1,4.6,0,0
+Pixies,141,2,4.2,0,0
+Eminem,145,2,4.0,257982599,5182274
+Blondie,146,2,4.43,0,0
+Jeff Buckley,147,1,4.3,0,0
+John Prine,149,1,4.0,0,0
+George Michael,151,1,3.15,0,0
+Pretenders,152,1,4.5,0,0
+PJ Harvey,153,2,4.32,0,0
+The Replacements,156,1,4.5,0,0
+Oasis,157,2,4.2,0,0
+The Police,159,1,4.2,0,0
+Pearl Jam,160,1,4.15,0,0
+"Crosby, Stills & Nash",161,1,4.65,0,0
+Pulp,162,1,3.85,0,0
+Various Artists,163,4,2.25,0,0
+Johnny Cash,164,1,4.3,0,0
+Buddy Holly,166,1,0.0,0,0
+Depeche Mode,167,1,4.3,0,0
+Billy Joel,169,1,4.5,0,0
+Cream,170,1,4.9,0,0
+Sonic Youth,171,2,3.88,0,0
+Simon & Garfunkel,172,1,4.25,0,0
+Rod Stewart,177,1,4.5,0,0
+Otis Redding,178,2,2.5,0,0
+Love,180,1,4.45,0,0
+James Taylor,182,1,3.5,0,0
+Cyndi Lauper,184,1,4.5,0,0
+Red Hot Chili Peppers,186,2,4.12,0,0
+Ice Cube,187,1,4.0,0,0
+T. Rex,188,1,3.4,0,0
+Sleater-Kinney,189,1,4.55,0,0
+Etta James,191,1,4.5,0,0
+Creedence Clearwater Revival,193,2,4.65,0,0
+Leonard Cohen,195,1,4.75,0,0
+Robyn,196,1,0.0,0,0
+The B-52's,198,1,5.0,0,0
+Pavement,199,3,4.38,0,0
+Sade,200,2,4.1,0,0
+Björk,202,2,4.4,0,0
+Nick Drake,203,1,4.5,0,0
+Cat Stevens,205,1,4.6,0,0
+Lil Wayne,208,2,4.12,0,0
+Run-D.M.C.,209,2,3.8,0,0
+Joy Division,211,2,4.47,0,0
+Nina Simone,212,1,5.0,0,0
+Tom Petty,214,2,4.0,0,0
+Grateful Dead,215,2,4.28,0,0
+Elliott Smith,216,1,4.65,0,0
+TLC,218,1,4.5,0,0
+Raekwon,219,1,4.25,0,0
+"Crosby, Stills, Nash & Young",220,1,4.8,0,0
+Rage Against the Machine,221,1,4.4,0,0
+Dixie Chicks,224,1,4.5,0,0
+Wilco,225,1,4.35,0,0
+Derek and the Dominos,226,1,4.0,0,0
+Little Richard,227,1,4.25,0,0
+Patsy Cline,229,1,0.0,0,0
+Rihanna,230,1,4.4,249911749,5288568
+Tom Petty and the Heartbreakers,231,1,4.0,0,0
+Tori Amos,233,1,4.7,0,0
+Daft Punk,236,2,4.15,0,0
+Willie Nelson,237,1,5.0,0,0
+Kraftwerk,238,1,4.15,0,0
+Boogie Down Productions,239,1,0.0,0,0
+Sam Cooke,240,2,2.5,0,0
+Massive Attack,241,2,4.18,0,0
+The Zombies,243,1,4.0,0,0
+Cocteau Twins,245,1,3.7,0,0
+LL Cool J,246,1,4.5,0,0
+Green Day,248,2,4.0,0,0
+Whitney Houston,249,1,4.65,0,0
+Buzzcocks,250,1,3.35,0,0
+DEVO,252,1,4.4,0,0
+Herbie Hancock,254,1,4.0,0,0
+Tracy Chapman,256,1,4.25,0,0
+Dolly Parton,257,1,4.0,0,0
+Janis Joplin,259,1,4.4,0,0
+The Slits,260,1,0.0,0,0
+New Order,262,1,4.45,0,0
+Minutemen,267,1,4.5,0,0
+Randy Newman,268,1,4.0,0,0
+Kacey Musgraves,270,1,3.65,0,0
+Gang of Four,273,1,4.75,0,0
+The Byrds,274,2,4.0,0,0
+Alicia Keys,277,1,5.0,0,0
+50 Cent,280,1,3.75,0,0
+Harry Nilsson,281,1,3.0,0,0
+Frank Sinatra,282,1,5.0,0,0
+Donna Summer,283,1,4.75,0,0
+Merle Haggard,284,1,0.0,0,0
+Big Star,285,3,2.17,0,0
+The Modern Lovers,288,1,4.5,0,0
+Destiny's Child,291,1,4.25,0,0
+Van Halen,292,1,4.05,0,0
+The Breeders,293,1,4.0,0,0
+Weezer,294,1,4.65,0,0
+Neil Young & Crazy Horse,296,2,4.68,0,0
+Peter Gabriel,297,1,4.35,0,0
+B.B. King,299,1,4.75,0,0
+Shania Twain,300,1,4.0,0,0
+New York Dolls,301,1,4.4,0,0
+ABBA,303,1,4.0,0,0
+Bill Withers,304,2,4.0,0,0
+KISS,305,1,3.4,0,0
+Al Green,306,3,4.62,0,0
+Brian Eno,308,2,4.15,0,0
+Wire,310,1,4.25,0,0
+Solange,312,1,5.0,0,0
+Aaliyah,314,1,4.35,0,0
+ROSALÍA,315,1,4.25,0,0
+Billie Holiday,317,1,5.0,0,0
+The Stone Roses,319,1,4.3,0,0
+X,320,1,5.0,0,0
+Lana Del Rey,321,1,4.5,370065975,2548889
+Coldplay,324,1,4.1,427451042,6085010
+Jerry Lee Lewis,325,1,0.0,0,0
+Vampire Weekend,328,1,4.35,0,0
+DJ Shadow,329,1,4.55,0,0
+Santana,334,1,5.0,0,0
+Bob Dylan And The Band,335,1,4.15,0,0
+Roxy Music,336,2,4.07,0,0
+Snoop Dogg,340,1,3.9,0,0
+Smashing Pumpkins,341,1,4.15,0,0
+Toots & The Maytals,344,1,0.0,0,0
+Arctic Monkeys,346,1,4.35,407930031,4152591
+Genius/GZA,347,1,4.0,0,0
+Gillian Welch,348,1,0.0,0,0
+MC5,349,1,3.0,0,0
+The Cars,353,1,4.4,0,0
+X-Ray Spex,354,1,4.0,0,0
+"Dr. John, the Night Tripper",356,1,3.0,0,0
+Tom Waits,357,1,4.0,0,0
+My Chemical Romance,361,1,4.15,0,0
+Luther Vandross,362,1,5.0,0,0
+Parliament,363,1,4.25,0,0
+Madvillain,365,1,4.5,0,0
+Aerosmith,366,1,4.0,0,0
+George Harrison,368,1,4.75,0,0
+Mobb Deep,369,1,4.5,0,0
+The Temptations,371,1,0.0,0,0
+Big Brother & the Holding Company,372,1,4.5,0,0
+Isaac Hayes,373,1,5.0,0,0
+Robert Johnson,374,1,0.0,0,0
+Neutral Milk Hotel,376,1,4.55,0,0
+Yeah Yeah Yeahs,377,1,4.65,0,0
+Rush,379,1,4.35,0,0
+Charles Mingus,380,1,4.4,0,0
+Lynyrd Skynyrd,381,1,4.55,0,0
+Tame Impala,382,1,3.9,130648996,1768492
+The Kinks,384,2,4.03,0,0
+J Dilla,386,1,4.75,0,0
+Mariah Carey,389,1,4.2,0,0
+Kelis,391,1,3.35,0,0
+Ike & Tina Turner,392,1,0.0,0,0
+Diana Ross,394,1,5.0,0,0
+D'Angelo and The Vanguard,395,1,4.0,0,0
+Todd Rundgren,396,1,4.5,0,0
+Billie Eilish,397,1,4.25,143974696,1439877
+The Raincoats,398,1,0.0,0,0
+Brian Wilson,399,1,4.4,0,0
+The Go-Go's,400,1,3.0,0,0
+Fela Ransome Kuti & Africa 70,402,1,4.0,0,0
+Ghostface Killah,403,1,5.0,0,0
+Anita Baker,404,1,4.0,0,0
+The Magnetic Fields,406,1,4.5,0,0
+Motörhead,408,1,4.15,0,0
+Smokey Robinson and The Miracles,412,1,0.0,0,0
+Chic,414,1,5.0,0,0
+The Meters,415,1,4.0,0,0
+The Roots,416,1,3.7,0,0
+Ornette Coleman,417,1,4.2,0,0
+Dire Straits,418,1,4.65,0,0
+Eric Church,419,1,0.0,0,0
+"Earth, Wind & Fire",420,1,3.0,0,0
+M.I.A.,421,1,4.2,0,0
+Yo La Tengo,423,1,4.5,0,0
+Beck,424,1,4.1,0,0
+Hüsker Dü,428,1,4.35,0,0
+Four Tops,429,1,0.0,0,0
+Elvis Costello,430,1,3.4,0,0
+Los Lobos,431,1,3.0,0,0
+Usher,432,1,1.0,0,0
+LCD Soundsystem,433,1,3.9,0,0
+Pet Shop Boys,435,1,4.25,0,0
+2Pac,436,1,4.65,0,0
+Primal Scream,437,1,3.0,0,0
+Blur,438,1,3.9,0,0
+Loretta Lynn,440,1,0.0,0,0
+Britney Spears,441,1,3.9,244030064,3847065
+The Weeknd,442,1,4.0,212032918,2239888
+Yes,445,1,4.7,0,0
+Alice Coltrane,446,1,4.15,0,0
+Bad Bunny,447,1,3.0,0,0
+The White Stripes,449,1,4.1,0,0
+Paul & Linda McCartney,450,1,4.5,0,0
+Roberta Flack,451,1,0.0,0,0
+Diana Ross and The Supremes,452,1,0.0,0,0
+Can,454,1,4.35,0,0
+Bo Diddley,455,1,5.0,0,0
+Sinéad O'Connor,457,1,4.7,0,0
+Jason Isbell,458,1,4.5,0,0
+Kid Cudi,459,1,4.4,121038801,3031178
+Lorde,460,1,4.4,144620844,1891614
+Bon Iver,461,1,0.0,0,0
+The Flying Burrito Brothers,462,1,4.0,0,0
+Laura Nyro,463,1,0.0,0,0
+The Isley Brothers,464,1,4.0,0,0
+King Sunny Adé,465,1,0.0,0,0
+Maxwell,467,1,4.0,0,0
+Manu Chao,469,1,4.4,0,0
+Juvenile,470,1,3.0,0,0
+Jefferson Airplane,471,1,4.3,0,0
+SZA,472,1,0.0,0,0
+Daddy Yankee,473,1,3.5,0,0
+Sheryl Crow,475,1,4.0,0,0
+Sparks,476,1,4.35,0,0
+Howlin' Wolf,477,1,5.0,0,0
+Selena,479,1,4.65,0,0
+Miranda Lambert,480,1,2.0,0,0
+Belle and Sebastian,481,1,4.05,0,0
+The Pharcyde,482,1,5.0,0,0
+Muddy Waters,483,1,2.0,0,0
+Lady Gaga,484,1,4.05,407231482,4534095
+Richard & Linda Thompson,485,1,5.0,0,0
+John Mayer,486,1,3.6,0,0
+Black Flag,487,1,4.15,0,0
+Phil Spector,489,1,0.0,0,0
+Linda Ronstadt,490,1,5.0,0,0
+Harry Styles,491,1,0.0,75305314,1065921
+Bonnie Raitt,492,1,4.0,0,0
+The Ronettes,494,1,3.35,0,0
+Boyz II Men,495,1,2.5,0,0
+Shakira,496,1,4.5,0,0
+Suicide,498,1,4.0,0,0
+Rufus,499,1,0.0,0,0
+Arcade Fire,500,1,4.65,0,0
