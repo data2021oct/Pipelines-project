@@ -30,13 +30,15 @@ Enriqueceremos estos datos con las siguentes webs:
 
 ## Contenido:
 
-- Carpeta Data: donde guardamos todas las 
-- Carpeta Images
+- Carpeta Data: varios csv de carga y exportación de datos. 
+- Carpeta Images: logos para el readme + exportación de los gráficos creados con jupyter Notebooks
 - Carpeta Notebook con los archivos de prueba de manipulación de datos:
+    - limpieza: carga de datos, limpieza y primer enriquecimiento
+    - scra_api: con la extración de datos a través de apis y scrapping
+    - visualización: estudio de los datos a través de gráficos. (ver con nbviewer: [visualización](https://nbviewer.org/github/data2021oct/Pipelines-project/blob/main/notebooks/visualization.ipynb))
     
 - Carpeta Output: archivos creados al ejectuar el archivo main.py
 - Carpeta src:
     - archivo apifunc: funciones que se ejecutan para llamar a las apis
     - archivo scrappingfunc.py: funciones que se ejecutan para scrapear por las webs
 - Archivo main.py (ejecutables del pipeline)
-- ReadMe.md

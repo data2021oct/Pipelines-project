@@ -36,6 +36,10 @@ def url_prep(df, colum):
 
 #comprobamos respuestas de las urls
 def urls_llamadas (df,art,alb):
+    """
+    recives a dataframe, a column of artists and a column of albums
+    it creates the url to make the calls to lastfm albums api
+    """
     api_urls = []
     apikey = os.getenv("apikey")
     for s in range(len(df)):
@@ -47,7 +51,6 @@ def urls_llamadas (df,art,alb):
     for a in api_urls:
         res = requests.get(a).json()
         request_dic.append(res["album"])
-        #if i%50 == 0:
         n = len(api_urls)/10
         if i%n == 0: 
             print(f"{i} done")
