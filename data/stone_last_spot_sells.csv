@@ -1,501 +1,501 @@
 Number,Year,Album,Artist,Type,Rating,Gen,playcount,listeners,Spotify,Total,EAS,Sells,Millions,In_Spot,In_Sells
-1,1971,What's Going On,Marvin Gaye,Album,4.65,r&b,5228524,544564,0,0,0,0,0,No,No
-2,1966,Pet Sounds,The Beach Boys,Album,4.45,rock,13406086,543499,0,0,0,0,0,No,No
-3,1971,Blue,Joni Mitchell,Album,4.45,folk,9357665,535579,0,0,0,0,0,No,No
-4,1976,Songs in the Key of Life,Stevie Wonder,Album,4.55,soul,7658448,756802,0,0,0,0,0,No,No
-5,1969,Abbey Road,The Beatles,Album,4.7,rock,42690179,1071431,0,0,0,0,0,No,No
-6,1991,Nevermind,Nirvana,Album,4.45,grunge,45552476,2464310,0,0,0,0,0,No,No
-7,1977,Rumours,Fleetwood Mac,Album,4.6,pop,23190380,1118797,0,0,0,11,20,No,Yes
-8,1984,Purple Rain,Prince & The Revolution,Album + Soundtrack,4.25,rock,1916523,253275,0,0,0,40,13,No,Yes
-9,1975,Blood on the Tracks,Bob Dylan,Album,4.35,folk,9232391,491039,0,0,0,0,0,No,No
-10,1998,The Miseducation of Lauryn Hill,Lauryn Hill,Album,4.15,r&b,9419494,781038,0,0,0,0,0,No,No
-11,1966,Revolver,The Beatles,Album,4.65,rock,25996304,797208,0,0,0,0,0,No,No
-12,1982,Thriller,Michael Jackson,Album,4.4,pop,13968793,1303329,0,0,0,2,34,No,Yes
-13,1967,I Never Loved a Man the Way I Love You,Aretha Franklin,Album,3.8,soul,2985476,582747,0,0,0,0,0,No,No
-14,1972,Exile on Main St.,The Rolling Stones,Album,4.6,rock,9328838,613143,0,0,0,0,0,No,No
-15,1988,It Takes a Nation of Millions to Hold Us Back,Public Enemy,Album,3.35,hip-hop,3893945,373591,0,0,0,0,0,No,No
-16,1979,London Calling,The Clash,Album,4.25,punk,26107213,1142308,0,0,0,0,0,No,No
-17,2010,My Beautiful Dark Twisted Fantasy,Kanye West,Album,4.5,hip-hop,61680876,1557641,203,2194148914,2190616,0,0,Yes,No
-18,1965,Highway 61 Revisited,Bob Dylan,Album,4.3,folk,11056929,746441,0,0,0,0,0,No,No
-19,2015,To Pimp a Butterfly,Kendrick Lamar,Album,4.75,hip-hop,38447264,805067,0,0,0,0,0,No,No
-20,2000,Kid A,Radiohead,Album,4.6,rock,52661103,1649006,0,0,0,0,0,No,No
-21,1975,Born to Run,Bruce Springsteen,Album,4.4,rock,6226046,477035,0,0,0,0,0,No,No
-22,1994,Ready to Die,The Notorious B.I.G.,Album,4.25,hip-hop,10018014,985623,0,0,0,0,0,No,No
-23,1967,The Velvet Underground & Nico,The Velvet Underground,Album,4.6,rock,13692289,569631,0,0,0,0,0,No,No
-24,1967,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Album,4.55,rock,25185458,847652,0,0,0,0,0,No,No
-25,1971,Tapestry,Carole King,Album,4.15,pop,5474216,515962,0,0,0,38,13,No,Yes
-26,1975,Horses,Patti Smith,Album,4.3,punk,3935856,347839,0,0,0,0,0,No,No
-27,1993,Enter the Wu-Tang (36 Chambers),Wu-Tang Clan,Album,4.65,hip-hop,11388834,702714,0,0,0,0,0,No,No
-28,2000,Voodoo,D'Angelo,Album,4.5,r&b,5208941,402250,0,0,0,0,0,No,No
-29,1968,The Beatles (“The White Album”),The Beatles,Album,4.4,rock,13008682,563772,0,0,0,0,0,No,No
-30,1967,Are You Experienced,The Jimi Hendrix Experience,Album,4.0,rock,3970464,563509,0,0,0,0,0,No,No
-31,1959,Kind of Blue,Miles Davis,Album,4.5,jazz,8323707,619514,0,0,0,0,0,No,No
-32,2016,Lemonade,Beyoncé,Album,4.1,pop,21859607,460712,0,0,0,0,0,No,No
-33,2006,Back to Black,Amy Winehouse,Album,4.1,soul,44893043,1699320,0,0,0,0,0,No,No
-34,1973,Innervisions,Stevie Wonder,Album,5.0,soul,3502221,418877,0,0,0,0,0,No,No
-35,1965,Rubber Soul,The Beatles,Album,4.45,rock,21970314,707876,0,0,0,0,0,No,No
-36,1979,Off the Wall,Michael Jackson,Album,4.25,pop,7992615,727861,0,0,0,0,0,No,No
-37,1992,The Chronic,Dr. Dre,Album,4.1,hip-hop,7373708,510491,0,0,0,0,0,No,No
-38,1966,Blonde on Blonde,Bob Dylan,Album,4.25,folk,11837717,497472,0,0,0,0,0,No,No
-39,1980,Remain in Light,Talking Heads,Album,4.4,rock,5601155,343206,0,0,0,0,0,No,No
-40,1972,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,Album,4.6,rock,10831985,396477,0,0,0,0,0,No,No
-41,1969,Let It Bleed,The Rolling Stones,Album,4.5,rock,10619375,1054440,0,0,0,0,0,No,No
-42,1997,OK Computer,Radiohead,Album,4.65,rock,81309840,2459845,0,0,0,0,0,No,No
-43,1991,The Low End Theory,A Tribe Called Quest,Album,3.8,hip-hop,13579724,696996,0,0,0,0,0,No,No
-44,1994,Illmatic,Nas,Album,4.15,hip-hop,16395536,898744,0,0,0,0,0,No,No
-45,1987,Sign “☮︎” the Times,Prince,Album,4.15,rock,1940591,149468,0,0,0,0,0,No,No
-46,1986,Graceland,Paul Simon,Album,4.6,folk,5455401,433348,0,0,0,0,0,No,No
-47,1976,Ramones,Ramones,Album,4.05,punk,6835002,519520,0,0,0,0,0,No,No
-48,1984,Legend: The Best of Bob Marley and The Wailers,Bob Marley & The Wailers,Album + Compilation,4.3,reggae,220840,15975,0,0,0,0,0,No,No
-49,1998,Aquemini,OutKast,Album,4.15,hip-hop,8476810,534321,0,0,0,0,0,No,No
-50,2001,The Blueprint,JAY-Z,Album,3.7,hip-hop,6466507,671685,0,0,0,0,0,No,No
-51,1982,The Great Twenty-Eight,Chuck Berry,Album + Compilation,0.0,blues,1687201,253274,0,0,0,0,0,No,No
-52,1976,Station to Station,David Bowie,Album,4.1,rock,2660460,188897,0,0,0,0,0,No,No
-53,1968,Electric Ladyland,The Jimi Hendrix Experience,Album,3.85,rock,6575169,496940,0,0,0,0,0,No,No
-54,1991,Star Time,James Brown,Album + Compilation,5.0,funk,737501,115627,0,0,0,0,0,No,No
-55,1973,The Dark Side of the Moon,Pink Floyd,Album,4.8,rock,45488526,1393885,0,0,0,0,0,No,No
-56,1993,Exile in Guyville,Liz Phair,Album,4.25,rock,3072045,250259,0,0,0,0,0,No,No
-57,1969,The Band (“The Brown Album”),The Band,Album,4.35,rock,3017954,331018,0,0,0,0,0,No,No
-58,1971,[Led Zeppelin IV],Led Zeppelin,Album,4.75,rock,231329,21017,0,0,0,0,0,No,No
-59,1972,Talking Book,Stevie Wonder,Album,5.0,soul,2819520,441675,0,0,0,0,0,No,No
-60,1968,Astral Weeks,Van Morrison,Album,4.35,folk,4291308,409273,0,0,0,0,0,No,No
-61,1987,Paid in Full,Eric B. & Rakim,Album,3.5,hip-hop,1790565,296881,0,0,0,0,0,No,No
-62,1987,Appetite for Destruction,Guns N' Roses,Album,4.45,rock,31758142,1988473,0,0,0,14,18,No,Yes
-63,1977,Aja,Steely Dan,Album,4.2,fusion,3966973,312745,0,0,0,0,0,No,No
-64,2000,Stankonia,OutKast,Album,3.95,hip-hop,14294896,1363417,0,0,0,0,0,No,No
-65,1963,"Live at the Apollo, 1962",James Brown,Album + Live,4.5,funk,30444,3206,0,0,0,0,0,No,No
-66,1965,A Love Supreme,John Coltrane,Album,4.7,jazz,2008938,193087,0,0,0,0,0,No,No
-67,1996,Reasonable Doubt,JAY-Z,Album,4.15,hip-hop,5939457,374743,0,0,0,0,0,No,No
-68,1985,Hounds of Love,Kate Bush,Album,3.85,pop,12843068,648241,0,0,0,0,0,No,No
-69,1995,Jagged Little Pill,Alanis Morissette,Album,4.15,alternative,12070997,946304,0,0,0,0,0,No,No
-70,1988,Straight Outta Compton,N.W.A,Album,4.0,hip-hop,3903309,489567,0,0,0,0,0,No,No
-71,1977,Exodus,Bob Marley & The Wailers,Album,4.75,reggae,3628649,340194,0,0,0,0,0,No,No
-72,1972,Harvest,Neil Young,Album,4.6,folk,8979887,631657,0,0,0,0,0,No,No
-73,1991,Loveless,My Bloody Valentine,Album,4.55,alternative,31954481,886591,0,0,0,0,0,No,No
-74,2003,The College Dropout,Kanye West,Album,4.4,hip-hop,28243723,1010870,0,0,0,0,0,No,No
-75,1968,Lady Soul,Aretha Franklin,Album,5.0,soul,842549,88155,0,0,0,0,0,No,No
-76,1972,Superfly,Curtis Mayfield,Album + Soundtrack,4.6,soul,1206856,87115,0,0,0,0,0,No,No
-77,1971,Who's Next,The Who,Album,4.3,rock,9440624,882475,0,0,0,0,0,No,No
-78,1979,The Sun Sessions,Elvis Presley,Album + Compilation,4.5,rock,209456,10542,0,0,0,0,0,No,No
-79,2016,Blonde,Frank Ocean,Album,4.65,r&b,78866338,860710,133,2647693774,2643430,0,0,Yes,No
-80,1977,Never Mind the Bollocks Here's the Sex Pistols,Sex Pistols,Album,4.7,punk,3888272,230539,0,0,0,0,0,No,No
-81,2013,BEYONCÉ,Beyoncé,Album,4.0,pop,18457465,388557,0,0,0,0,0,No,No
-82,1971,There's a Riot Goin' On,Sly & the Family Stone,Album,3.65,funk,2070025,261186,0,0,0,0,0,No,No
-83,1969,Dusty in Memphis,Dusty Springfield,Album,4.0,pop,2398759,371176,0,0,0,0,0,No,No
-84,1980,Back in Black,AC/DC,Album,4.45,rock,25208586,1508888,0,0,0,0,0,No,No
-85,1970,Plastic Ono Band,John Lennon,Album,4.0,rock,3098370,295901,0,0,0,0,0,No,No
-86,1967,The Doors,The Doors,Album,4.55,rock,22228710,1148975,0,0,0,0,0,No,No
-87,1970,Bitches Brew,Miles Davis,Album,4.95,jazz,1785353,227273,0,0,0,0,0,No,No
-88,1971,Hunky Dory,David Bowie,Album,4.35,rock,10380263,516009,0,0,0,0,0,No,No
-89,1997,Baduizm,Erykah Badu,Album,4.0,r&b,7337556,534007,0,0,0,0,0,No,No
-90,1970,After the Gold Rush,Neil Young,Album,4.9,folk,4899197,349551,0,0,0,0,0,No,No
-91,1978,Darkness on the Edge of Town,Bruce Springsteen,Album,5.0,rock,3146431,185960,0,0,0,0,0,No,No
-92,1967,Axis: Bold as Love,The Jimi Hendrix Experience,Album,3.9,rock,5592163,427997,0,0,0,0,0,No,No
-93,1997,Supa Dupa Fly,Missy Elliott,Album,3.65,hip-hop,1310100,192240,0,0,0,0,0,No,No
-94,1970,Fun House,The Stooges,Album,4.2,rock,2521470,213571,0,0,0,0,0,No,No
-95,2011,Take Care,Drake,Album,3.65,r&b,13674288,503256,0,0,0,0,0,No,No
-96,1992,Automatic for the People,R.E.M.,Album,4.0,alternative,11902815,866650,0,0,0,0,0,No,No
-97,1986,Master of Puppets,Metallica,Album,4.65,metal,22764280,964299,0,0,0,0,0,No,No
-98,1998,Car Wheels on a Gravel Road,Lucinda Williams,Album,4.5,country,1731401,194252,0,0,0,0,0,No,No
-99,2012,Red,Taylor Swift,Album,4.45,pop,23375149,583625,0,0,0,0,0,No,No
-100,1968,Music From Big Pink,The Band,Album,4.0,rock,2429858,206469,0,0,0,0,0,No,No
-101,1969,Led Zeppelin,Led Zeppelin,Album,4.55,rock,16108783,949361,0,0,0,0,0,No,No
-102,1977,The Clash,The Clash,Album,4.25,punk,5145193,426596,0,0,0,0,0,No,No
-103,1989,3 Feet High and Rising,De La Soul,Album,3.9,hip-hop,4629440,352284,0,0,0,0,0,No,No
-104,1971,Sticky Fingers,The Rolling Stones,Album,4.45,rock,6053763,553763,0,0,0,0,0,No,No
-105,1971,At Fillmore East,The Allman Brothers Band,Album + Live,4.5,rock,794766,90815,0,0,0,0,0,No,No
-106,1994,Live Through This,Hole,Album,4.55,alternative,9386574,549898,0,0,0,0,0,No,No
-107,1977,Marquee Moon,Television,Album,4.35,rock,6121582,477765,0,0,0,0,0,No,No
-108,1999,When the Pawn,Fiona Apple,Album,4.35,pop,1867175,328367,0,0,0,0,0,No,No
-109,1972,Transformer,Lou Reed,Album,4.2,rock,14270121,1115364,0,0,0,0,0,No,No
-110,1974,Court and Spark,Joni Mitchell,Album,5.0,folk,2295369,161277,0,0,0,0,0,No,No
-111,1986,Control,Janet Jackson,Album,4.5,pop,1667966,147861,0,0,0,0,0,No,No
-112,1973,Goodbye Yellow Brick Road,Elton John,Album,4.0,pop,2925631,290597,0,0,0,0,0,No,No
-113,1986,The Queen Is Dead,The Smiths,Album,4.4,rock,31419781,1153987,0,0,0,0,0,No,No
-114,2001,Is This It,The Strokes,Album,4.35,rock,51668451,2113332,0,0,0,0,0,No,No
-115,2012,"good kid, m.A.A.d city",Kendrick Lamar,Album,4.4,hip-hop,19093314,746713,0,0,0,0,0,No,No
-116,1989,Disintegration,The Cure,Album,4.45,alternative,15985574,687596,0,0,0,0,0,No,No
-117,2005,Late Registration,Kanye West,Album,4.3,hip-hop,38706398,1359743,472,1339210657,1337054,0,0,Yes,No
-118,1976,Hotel California,Eagles,Album,4.45,rock,3430062,315984,0,0,0,3,26,No,Yes
-119,1969,Stand!,Sly & the Family Stone,Album,4.0,funk,887498,171535,0,0,0,0,0,No,No
-120,1970,Moondance,Van Morrison,Album,4.65,folk,5531749,555317,0,0,0,0,0,No,No
-121,1978,This Year's Model,Elvis Costello & The Attractions,Album,4.65,alternative,1751545,211095,0,0,0,0,0,No,No
-122,1994,The Downward Spiral,Nine Inch Nails,Album,3.05,rock,23022253,1085830,0,0,0,0,0,No,No
-123,1969,Led Zeppelin II,Led Zeppelin,Album,4.55,rock,17795603,993048,0,0,0,50,12,No,Yes
-124,1991,Achtung Baby,U2,Album,4.4,rock,10415263,874311,0,0,0,0,0,No,No
-125,1989,Paul's Boutique,Beastie Boys,Album,4.5,hip-hop,4831353,336899,0,0,0,0,0,No,No
-126,1994,My Life,Mary J. Blige,Album,3.0,r&b,1401991,212226,0,0,0,0,0,No,No
-127,1962,Modern Sounds in Country and Western Music,Ray Charles,Album,4.5,country,172891,17749,0,0,0,0,0,No,No
-128,1975,A Night at the Opera,Queen,Album,4.35,rock,9646045,666294,0,0,0,0,0,No,No
-129,1979,The Wall,Pink Floyd,Album,4.4,rock,34141642,888973,0,0,0,8,23,No,Yes
-130,1982,1999,Prince,Album,4.25,rock,2657610,324119,0,0,0,0,0,No,No
-131,1994,Dummy,Portishead,Album,4.3,rock,32306173,1434205,0,0,0,0,0,No,No
-132,1978,40 Greatest Hits,Hank Williams,Album + Compilation,0.0,country,906854,66373,0,0,0,0,0,No,No
-133,1976,Hejira,Joni Mitchell,Album,4.0,folk,1365295,115570,0,0,0,0,0,No,No
-134,1996,The Score,Fugees,Album,4.0,hip-hop,8232928,844240,0,0,0,0,0,No,No
-135,1987,The Joshua Tree,U2,Album,4.3,rock,9930180,820473,0,0,0,0,0,No,No
-136,1971,Maggot Brain,Funkadelic,Album,3.75,funk,4656027,466591,0,0,0,0,0,No,No
-137,2011,21,Adele,Album,4.1,pop,64132817,1920803,56,3883444928,3877191,29,14,Yes,Yes
-138,1990,The Immaculate Collection,Madonna,Album + Compilation,4.4,pop,6860193,456152,0,0,0,0,0,No,No
-139,1970,Paranoid,Black Sabbath,Album,4.75,metal,15562764,1277544,0,0,0,0,0,No,No
-140,1973,Catch a Fire,The Wailers,Album,4.6,reggae,161965,24827,0,0,0,0,0,No,No
-141,1989,Doolittle,Pixies,Album,4.4,rock,36221807,1466885,0,0,0,0,0,No,No
-142,1984,Born in the U.S.A.,Bruce Springsteen,Album,4.65,rock,12458644,798275,0,0,0,0,0,No,No
-143,1969,The Velvet Underground,The Velvet Underground,Album,4.15,rock,8339299,691998,0,0,0,0,0,No,No
-144,1975,Physical Graffiti,Led Zeppelin,Album,4.25,rock,10339600,550740,0,0,0,21,16,No,Yes
-145,2000,The Marshall Mathers LP,Eminem,Album,4.2,hip-hop,19359031,1295628,211,2160317727,2156839,0,0,Yes,No
-146,1978,Parallel Lines,Blondie,Album,4.2,rock,3636556,276827,0,0,0,0,0,No,No
-147,1994,Grace,Jeff Buckley,Album,4.3,alternative,20302288,1103534,0,0,0,0,0,No,No
-148,2012,channel ORANGE,Frank Ocean,Album,4.15,r&b,37498814,948007,0,0,0,0,0,No,No
-149,1971,John Prine,John Prine,Album,4.0,country,1319099,135127,0,0,0,0,0,No,No
-150,1982,Nebraska,Bruce Springsteen,Album,4.4,rock,3675755,248649,0,0,0,0,0,No,No
-151,1987,Faith,George Michael,Album,3.15,pop,3608365,553377,0,0,0,0,0,No,No
-152,1980,Pretenders,Pretenders,Album,4.5,new wave,72856,16893,0,0,0,0,0,No,No
-153,1993,Rid of Me,PJ Harvey,Album,4.65,alternative,5135333,337660,0,0,0,0,0,No,No
-154,1972,Amazing Grace,Aretha Franklin,Album + Live,0.0,gospel,144669,21471,0,0,0,0,0,No,No
-155,2003,The Black Album,JAY-Z,Album,3.15,hip-hop,11296703,1067291,0,0,0,0,0,No,No
-156,1984,Let It Be,The Replacements,Album,4.5,rock,3350120,186780,0,0,0,0,0,No,No
-157,1995,(What's the Story) Morning Glory?,Oasis,Album,3.95,rock,30149690,2080197,0,0,0,0,0,No,No
-158,2000,Mama's Gun,Erykah Badu,Album,4.0,r&b,5668054,432792,0,0,0,0,0,No,No
-159,1983,Synchronicity,The Police,Album,4.2,new wave,3523865,382937,0,0,0,0,0,No,No
-160,1991,Ten,Pearl Jam,Album,4.15,grunge,34025401,1804999,488,1307164909,1305060,39,13,Yes,Yes
-161,1969,"Crosby, Stills & Nash","Crosby, Stills & Nash",Album,4.65,rock,2025427,219787,0,0,0,0,0,No,No
-162,1995,Different Class,Pulp,Album,3.85,rock,11653551,763105,0,0,0,0,0,No,No
-163,1977,Saturday Night Fever: The Original Movie Sound Track,Various Artists,Album + Soundtrack,5.0,disco,6999,434,0,0,0,0,0,No,No
-164,1968,At Folsom Prison,Johnny Cash,Album + Live,4.3,country,5212575,325604,0,0,0,0,0,No,No
-165,1983,Murmur,R.E.M.,Album,4.2,rock,3562251,275742,0,0,0,0,0,No,No
-166,1978,20 Golden Greats,Buddy Holly,Album + Compilation,0.0,rock,95869,5616,0,0,0,0,0,No,No
-167,1990,Violator,Depeche Mode,Album,4.3,alternative,12591807,672512,0,0,0,0,0,No,No
-168,1972,Can't Buy a Thrill,Steely Dan,Album,4.5,fusion,5499749,483726,0,0,0,0,0,No,No
-169,1977,The Stranger,Billy Joel,Album,4.5,pop,2950671,387181,0,0,0,0,0,No,No
-170,1967,Disraeli Gears,Cream,Album,4.9,rock,6313689,736910,0,0,0,0,0,No,No
-171,1988,Daydream Nation,Sonic Youth,Album,4.1,alternative,9208202,543042,0,0,0,0,0,No,No
-172,1970,Bridge Over Troubled Water,Simon & Garfunkel,Album,4.25,folk,9517828,886242,0,0,0,0,0,No,No
-173,1993,In Utero,Nirvana,Album,4.2,grunge,24717818,1364181,0,0,0,0,0,No,No
-174,1972,The Harder They Come,Various Artists,Album + Soundtrack,4.0,reggae,163359,31652,0,0,0,0,0,No,No
-175,2017,DAMN.,Kendrick Lamar,Album,4.15,hip-hop,43157876,959308,27,5101152550,5092938,0,0,Yes,No
-176,1990,Fear of a Black Planet,Public Enemy,Album,4.0,hip-hop,2943273,320771,0,0,0,0,0,No,No
-177,1971,Every Picture Tells a Story,Rod Stewart,Album,4.5,rock,1835376,423303,0,0,0,0,0,No,No
-178,1965,Otis Blue: Otis Redding Sings Soul,Otis Redding,Album,5.0,soul,507329,24541,0,0,0,0,0,No,No
-179,1997,Life After Death,The Notorious B.I.G.,Album,3.8,hip-hop,4893002,579153,0,0,0,0,0,No,No
-180,1967,Forever Changes,Love,Album,4.45,rock,3746934,201458,0,0,0,0,0,No,No
-181,1965,Bringing It All Back Home,Bob Dylan,Album,4.45,folk,7883141,500494,0,0,0,0,0,No,No
-182,1970,Sweet Baby James,James Taylor,Album,3.5,folk,1530011,200617,0,0,0,0,0,No,No
-183,1995,Brown Sugar,D'Angelo,Album,3.5,r&b,3091126,325485,0,0,0,0,0,No,No
-184,1983,She's So Unusual,Cyndi Lauper,Album,4.5,pop,4847201,794330,0,0,0,0,0,No,No
-185,1968,Beggars Banquet,The Rolling Stones,Album,4.5,rock,6021587,598676,0,0,0,0,0,No,No
-186,1991,Blood Sugar Sex Magik,Red Hot Chili Peppers,Album,4.05,rock,20487875,1263637,0,0,0,0,0,No,No
-187,1990,AmeriKKKa's Most Wanted,Ice Cube,Album,4.0,hip-hop,1777426,160119,0,0,0,0,0,No,No
-188,1971,Electric Warrior,T. Rex,Album,3.4,rock,4472659,446762,0,0,0,0,0,No,No
-189,1997,Dig Me Out,Sleater-Kinney,Album,4.55,rock,1783776,73951,0,0,0,0,0,No,No
-190,1969,Tommy,The Who,Album,4.3,rock,5505008,339337,0,0,0,0,0,No,No
-191,1960,At Last!,Etta James,Album,4.5,jazz,3113996,408579,0,0,0,0,0,No,No
-192,1986,Licensed to Ill,Beastie Boys,Album,4.15,hip-hop,9473125,775742,0,0,0,0,0,No,No
-193,1969,Willy and the Poor Boys,Creedence Clearwater Revival,Album,4.7,rock,3575038,382964,0,0,0,0,0,No,No
-194,1987,Bad,Michael Jackson,Album,4.2,pop,9113985,705684,0,0,0,0,0,No,No
-195,1967,Songs of Leonard Cohen,Leonard Cohen,Album,4.75,folk,5533277,490851,0,0,0,0,0,No,No
-196,2010,Body Talk,Robyn,Album,0.0,pop,10744111,422874,0,0,0,0,0,No,No
-197,1964,Meet The Beatles!,The Beatles,Album,4.6,rock,480572,16577,0,0,0,0,0,No,No
-198,1979,The B-52's,The B-52's,Album,5.0,new wave,1954620,250345,0,0,0,0,0,No,No
-199,1992,Slanted and Enchanted,Pavement,Album,4.65,rock,1597241,73492,0,0,0,0,0,No,No
-200,1984,Diamond Life,Sade,Album,4.0,pop,2655480,238118,0,0,0,0,0,No,No
-201,1993,Midnight Marauders,A Tribe Called Quest,Album,4.35,hip-hop,10496404,637081,0,0,0,0,0,No,No
-202,1997,Homogenic,Björk,Album,4.5,electronic,16339403,659596,0,0,0,0,0,No,No
-203,1972,Pink Moon,Nick Drake,Album,4.5,folk,20851933,961610,0,0,0,0,0,No,No
-204,2007,Graduation,Kanye West,Album,3.85,hip-hop,47495305,1844647,0,0,0,0,0,No,No
-205,1970,Tea for the Tillerman,Cat Stevens,Album,4.6,folk,3853424,439248,0,0,0,0,0,No,No
-206,1977,Low,David Bowie,Album,4.35,rock,7511518,324726,0,0,0,0,0,No,No
-207,1972,Eagles,Eagles,Album,4.4,rock,1317827,117630,0,0,0,0,0,No,No
-208,2008,Tha Carter III,Lil Wayne,Album,3.25,hip-hop,1583551,180833,0,0,0,0,0,No,No
-209,1986,Raising Hell,Run-D.M.C.,Album,4.25,hip-hop,1255516,196083,0,0,0,0,0,No,No
-210,1991,The Birth of Soul,Ray Charles,Album + Compilation,0.0,soul,232269,19383,0,0,0,0,0,No,No
-211,1979,Unknown Pleasures,Joy Division,Album,4.45,alternative,27406291,1015444,0,0,0,0,0,No,No
-212,1966,Wild Is the Wind,Nina Simone,Album,5.0,jazz,967472,103127,0,0,0,0,0,No,No
-213,2012,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do,Fiona Apple,Album,3.85,pop,4184941,206157,0,0,0,0,0,No,No
-214,1994,Wildflowers,Tom Petty,Album,3.8,rock,3229755,291655,0,0,0,0,0,No,No
-215,1970,American Beauty,Grateful Dead,Album,4.05,rock,4227037,273741,0,0,0,0,0,No,No
-216,1997,Either/Or,Elliott Smith,Album,4.65,folk,25711965,893961,0,0,0,0,0,No,No
-217,1994,Definitely Maybe,Oasis,Album,4.45,rock,14483287,960210,0,0,0,0,0,No,No
-218,1994,CrazySexyCool,TLC,Album,4.5,r&b,4717447,731811,0,0,0,0,0,No,No
-219,1995,Only Built 4 Cuban Linx,Raekwon,Album,4.25,hip-hop,3889969,382609,0,0,0,0,0,No,No
-220,1970,Déjà vu,"Crosby, Stills, Nash & Young",Album,4.8,rock,4120294,369579,0,0,0,0,0,No,No
-221,1992,Rage Against the Machine,Rage Against the Machine,Album,4.4,rock,25681086,1707233,0,0,0,0,0,No,No
-222,1998,Ray of Light,Madonna,Album,4.35,pop,10498238,601697,0,0,0,0,0,No,No
-223,1971,Imagine,John Lennon,Album,4.0,rock,7493503,633390,0,0,0,0,0,No,No
-224,1999,Fly,Dixie Chicks,Album,4.5,country,1738623,242510,0,0,0,0,0,No,No
-225,2002,Yankee Hotel Foxtrot,Wilco,Album,4.35,folk,16546082,755080,0,0,0,0,0,No,No
-226,1970,Layla and Other Assorted Love Songs,Derek and the Dominos,Album,4.0,rock,1786161,242179,0,0,0,0,0,No,No
-227,1957,Here's Little Richard,Little Richard,Album,4.25,blues,273660,20459,0,0,0,0,0,No,No
-228,1991,De La Soul Is Dead,De La Soul,Album,4.0,hip-hop,1975456,186295,0,0,0,0,0,No,No
-229,2000,The Ultimate Collection,Patsy Cline,Album + Compilation,0.0,country,49438,2660,0,0,0,0,0,No,No
-230,2016,ANTI,Rihanna,Album,4.4,pop,13057105,508704,0,0,0,0,0,No,No
-231,1979,Damn the Torpedoes,Tom Petty and the Heartbreakers,Album,4.0,rock,623240,65138,0,0,0,0,0,No,No
-232,1960,Giant Steps,John Coltrane,Album,4.45,jazz,2876614,214056,0,0,0,0,0,No,No
-233,1992,Little Earthquakes,Tori Amos,Album,4.7,alternative,5600204,373477,0,0,0,0,0,No,No
-234,1971,Master of Reality,Black Sabbath,Album,4.55,metal,6727356,494659,0,0,0,0,0,No,No
-235,1991,Metallica,Metallica,Album,4.2,metal,32929579,1442311,0,0,0,22,16,No,Yes
-236,2001,Discovery,Daft Punk,Album,4.35,dance,59353955,2316763,0,0,0,0,0,No,No
-237,1975,Red Headed Stranger,Willie Nelson,Album,5.0,country,1029404,107920,0,0,0,0,0,No,No
-238,1977,Trans Europa Express,Kraftwerk,Album,4.15,electronic,420032,25683,0,0,0,0,0,No,No
-239,1987,Criminal Minded,Boogie Down Productions,Album,0.0,hip-hop,568642,108024,0,0,0,0,0,No,No
-240,1985,"Live at the Harlem Square Club, 1963",Sam Cooke,Album + Live,5.0,soul,235971,12100,0,0,0,0,0,No,No
-241,1991,Blue Lines,Massive Attack,Album,4.0,acid house,9671783,669078,0,0,0,0,0,No,No
-242,1970,Loaded,The Velvet Underground,Album,4.15,rock,4604021,288047,0,0,0,0,0,No,No
-243,1968,Odessey and Oracle,The Zombies,Album,4.0,rock,4779940,382144,0,0,0,0,0,No,No
-244,2008,808s & Heartbreak,Kanye West,Album,3.45,hip-hop,31970508,1562988,0,0,0,0,0,No,No
-245,1990,Heaven or Las Vegas,Cocteau Twins,Album,3.7,alternative,7324490,319113,0,0,0,0,0,No,No
-246,1990,Mama Said Knock You Out,LL Cool J,Album,4.5,hip-hop,823661,167084,0,0,0,0,0,No,No
-247,1992,Love Deluxe,Sade,Album,4.2,ambient,3088701,214173,0,0,0,0,0,No,No
-248,2004,American Idiot,Green Day,Album,4.05,punk,41655198,1955724,0,0,0,0,0,No,No
-249,1985,Whitney Houston,Whitney Houston,Album,4.65,r&b,2514939,388523,0,0,0,42,13,No,Yes
-250,1979,Singles Going Steady,Buzzcocks,Album + Compilation,3.35,punk,4779615,408438,0,0,0,0,0,No,No
-251,1972,Honky Château,Elton John,Album,3.8,pop,304053,56777,0,0,0,0,0,No,No
-252,1978,Q: Are We Not Men? A: We Are Devo!,DEVO,Album,4.4,new wave,3178344,276283,0,0,0,0,0,No,No
-253,1967,The Piper at the Gates of Dawn,Pink Floyd,Album,3.9,rock,9491112,433099,0,0,0,0,0,No,No
-254,1973,Head Hunters,Herbie Hancock,Album,4.0,jazz,2109137,380618,0,0,0,0,0,No,No
-255,1963,The Freewheelin' Bob Dylan,Bob Dylan,Album,4.35,folk,8930788,532720,0,0,0,0,0,No,No
-256,1988,Tracy Chapman,Tracy Chapman,Album,4.25,folk,8358910,723307,0,0,0,0,0,No,No
-257,1971,Coat of Many Colors,Dolly Parton,Album,4.0,country,266533,40144,0,0,0,0,0,No,No
-258,1975,The Hissing of Summer Lawns,Joni Mitchell,Album,4.0,folk,966050,76547,0,0,0,0,0,No,No
-259,1971,Pearl,Janis Joplin,Album,4.4,blues,3462101,496291,0,0,0,0,0,No,No
-260,1979,Cut,The Slits,Album,0.0,post punk,1403563,141135,0,0,0,0,0,No,No
-261,1992,Check Your Head,Beastie Boys,Album,4.35,hip-hop,6144155,404036,0,0,0,0,0,No,No
-262,1983,"Power, Corruption & Lies",New Order,Album,4.45,new wave,5013317,395252,0,0,0,0,0,No,No
-263,1964,A Hard Day's Night,The Beatles,Album + Soundtrack,4.2,rock,13006488,479117,0,0,0,0,0,No,No
-264,1975,Wish You Were Here,Pink Floyd,Album,4.7,rock,20759977,971637,0,0,0,0,0,No,No
-265,1995,Wowee Zowee,Pavement,Album,4.15,rock,4510128,214054,0,0,0,0,0,No,No
-266,1965,Help!,The Beatles,Album + Soundtrack,4.05,rock,17340012,596294,0,0,0,0,0,No,No
-267,1984,Double Nickels on the Dime,Minutemen,Album,4.5,punk,8327506,304190,0,0,0,0,0,No,No
-268,1972,Sail Away,Randy Newman,Album,4.0,pop,519670,43709,0,0,0,0,0,No,No
-269,2013,Yeezus,Kanye West,Album,4.0,hip-hop,36776868,939073,0,0,0,0,0,No,No
-270,2018,Golden Hour,Kacey Musgraves,Album,3.65,country,14291137,314484,0,0,0,0,0,No,No
-271,1992,What's the 411?,Mary J. Blige,Album,3.5,r&b,1095902,225242,0,0,0,0,0,No,No
-272,1967,White Light/White Heat,The Velvet Underground,Single,0.0,rock,2829007,301289,0,0,0,0,0,No,No
-273,1979,Entertainment!,Gang of Four,Album,4.75,punk,5944482,431158,0,0,0,0,0,No,No
-274,1968,Sweetheart of the Rodeo,The Byrds,Album,4.0,rock,1472815,172615,0,0,0,0,0,No,No
-275,1970,Curtis,Curtis Mayfield,Album,4.65,soul,1261595,130936,0,0,0,0,0,No,No
-276,1995,The Bends,Radiohead,Album,4.3,rock,54461199,1847622,0,0,0,0,0,No,No
-277,2003,The Diary of Alicia Keys,Alicia Keys,Album,5.0,r&b,7208763,847597,0,0,0,0,0,No,No
-278,1973,Houses of the Holy,Led Zeppelin,Album,4.5,rock,9837636,586796,0,0,0,0,0,No,No
-279,1994,MTV Unplugged in New York,Nirvana,Album + Live,4.2,grunge,31461443,1498665,0,0,0,0,0,No,No
-280,2003,Get Rich or Die Tryin',50 Cent,Album,3.75,hip-hop,11739349,882565,0,0,0,0,0,No,No
-281,1971,Nilsson Schmilsson,Harry Nilsson,Album,3.0,rock,1772853,235680,0,0,0,0,0,No,No
-282,1955,In the Wee Small Hours,Frank Sinatra,Album,5.0,pop,2247697,135460,0,0,0,0,0,No,No
-283,1979,Bad Girls,Donna Summer,Album,4.75,pop,1291543,254912,0,0,0,0,0,No,No
-284,1996,Down Every Road,Merle Haggard,Album + Compilation,0.0,country,45098,1662,0,0,0,0,0,No,No
-285,1978,Third/Sister Lovers,Big Star,Album,0.0,pop,1025383,48009,0,0,0,0,0,No,No
-286,1999,Californication,Red Hot Chili Peppers,Album,4.2,rock,45811548,2199739,0,0,0,0,0,No,No
-287,1965,Mr. Tambourine Man,The Byrds,Album,4.0,rock,1726294,227596,0,0,0,0,0,No,No
-288,1976,The Modern Lovers,The Modern Lovers,Album,4.5,rock,3693730,284561,0,0,0,0,0,No,No
-289,1995,Post,Björk,Album,4.3,pop,16656399,957922,0,0,0,0,0,No,No
-290,2003,Speakerboxxx / The Love Below,OutKast,Album,3.35,hip-hop,640345,55603,0,0,0,0,0,No,No
-291,1999,The Writing's on the Wall,Destiny's Child,Album,4.25,pop,7026589,1028765,0,0,0,0,0,No,No
-292,1978,Van Halen,Van Halen,Album,4.05,rock,4347631,321026,0,0,0,0,0,No,No
-293,1993,Last Splash,The Breeders,Album,4.0,rock,6324330,516119,0,0,0,0,0,No,No
-294,1994,Weezer (Blue Album),Weezer,Album,4.65,rock,3137729,146658,0,0,0,0,0,No,No
-295,2013,Random Access Memories,Daft Punk,Album,3.95,dance,46383157,1286423,385,1519106202,1516660,0,0,Yes,No
-296,1979,Rust Never Sleeps,Neil Young & Crazy Horse,Album,4.65,folk,898290,71658,0,0,0,0,0,No,No
-297,1986,So,Peter Gabriel,Album,4.35,pop,2795898,303870,0,0,0,0,0,No,No
-298,1989,Full Moon Fever,Tom Petty,Album,4.2,rock,5206738,632574,0,0,0,0,0,No,No
-299,1965,Live at the Regal,B.B. King,Album + Live,4.75,blues,673643,70583,0,0,0,0,0,No,No
-300,1997,Come On Over,Shania Twain,Album,4.0,country,4945745,648335,0,0,0,12,20,No,Yes
-301,1973,New York Dolls,New York Dolls,Album,4.4,rock,2219250,267293,0,0,0,0,0,No,No
-302,1975,Tonight's the Night,Neil Young,Album,4.0,folk,1835308,131624,0,0,0,0,0,No,No
-303,2001,The Definitive Collection,ABBA,Album + Compilation,4.0,disco,524609,28450,0,0,0,0,0,No,No
-304,1971,Just As I Am,Bill Withers,Album,3.65,soul,3038109,385865,0,0,0,0,0,No,No
-305,1975,Alive!,KISS,Album + Live,3.4,rock,485302,38896,0,0,0,0,0,No,No
-306,1972,I'm Still in Love With You,Al Green,Album,4.5,soul,1252035,163688,0,0,0,0,0,No,No
-307,2003,Portrait of a Legend 1951-1964,Sam Cooke,Album + Compilation,0.0,soul,2092682,115762,0,0,0,0,0,No,No
-308,1973,Here Come the Warm Jets,Brian Eno,Album,4.35,pop,3037360,208951,0,0,0,0,0,No,No
-309,1980,Closer,Joy Division,Album,4.5,new wave,12718458,614229,0,0,0,0,0,No,No
-310,1977,Pink Flag,Wire,Album,4.25,punk,7244271,256602,0,0,0,0,0,No,No
-311,1974,On the Beach,Neil Young,Album,4.0,folk,3129639,197297,0,0,0,0,0,No,No
-312,2016,A Seat at the Table,Solange,Album,5.0,r&b,9480305,314322,0,0,0,0,0,No,No
-313,2000,"Stories From the City, Stories From the Sea",PJ Harvey,Album,4.0,rock,11034929,736734,0,0,0,0,0,No,No
-314,1996,One in a Million,Aaliyah,Album,4.35,r&b,2228036,142916,0,0,0,0,0,No,No
-315,2018,EL MAL QUERER,ROSALÍA,Album,4.25,latin,8885761,208041,0,0,0,0,0,No,No
-316,1967,The Who Sell Out,The Who,Album,4.0,rock,2526337,142867,0,0,0,0,0,No,No
-317,1958,Lady in Satin,Billie Holiday,Album,5.0,jazz,1131607,124670,0,0,0,0,0,No,No
-318,1997,The Velvet Rope,Janet Jackson,Album,4.0,r&b,4073638,413005,0,0,0,0,0,No,No
-319,1989,The Stone Roses,The Stone Roses,Album,4.3,rock,13563965,853492,0,0,0,0,0,No,No
-320,1980,Los Angeles,X,Album,5.0,punk,1437301,141591,0,0,0,0,0,No,No
-321,2019,Norman Fucking Rockwell!,Lana Del Rey,Album,4.5,pop,38153024,551593,0,0,0,0,0,No,No
-322,1969,From Elvis in Memphis,Elvis Presley,Album,4.0,rock,1107959,163820,0,0,0,0,0,No,No
-323,1980,Sandinista!,The Clash,Album,3.6,punk,3453675,232310,0,0,0,0,0,No,No
-324,2002,A Rush of Blood to the Head,Coldplay,Album,4.1,pop,59280222,2804377,207,2174773090,2171271,0,0,Yes,No
-325,1993,"All Killer, No Filler: The Anthology",Jerry Lee Lewis,Album + Compilation,0.0,rock,10748,525,0,0,0,0,0,No,No
-326,1980,Dirty Mind,Prince,Album,3.85,funk,1406540,122023,0,0,0,0,0,No,No
-327,1970,Live at Leeds,The Who,Album + Live,5.0,rock,1035152,60471,0,0,0,0,0,No,No
-328,2013,Modern Vampires of the City,Vampire Weekend,Album,4.35,rock,21745806,627628,0,0,0,0,0,No,No
-329,1996,Endtroducing.....,DJ Shadow,Album,4.55,hip-hop,10585759,682359,0,0,0,0,0,No,No
-330,1966,Aftermath,The Rolling Stones,Album,4.4,rock,5239698,633001,0,0,0,0,0,No,No
-331,1989,Like a Prayer,Madonna,Album,4.15,pop,5148938,485600,0,0,0,0,0,No,No
-332,1956,Elvis Presley,Elvis Presley,Album,4.2,rock,2046888,246405,0,0,0,0,0,No,No
-333,1972,Still Bill,Bill Withers,Album,4.35,soul,1962452,320373,0,0,0,0,0,No,No
-334,1970,Abraxas,Santana,Album,5.0,rock,2291002,242439,0,0,0,0,0,No,No
-335,1975,The Basement Tapes,Bob Dylan And The Band,Album,4.15,folk,842534,64148,0,0,0,0,0,No,No
-336,1982,Avalon,Roxy Music,Album,3.8,pop,3161208,336518,0,0,0,0,0,No,No
-337,1967,John Wesley Harding,Bob Dylan,Album,4.65,folk,3073531,231194,0,0,0,0,0,No,No
-338,1975,Another Green World,Brian Eno,Album,3.95,ambient,6365094,343490,0,0,0,0,0,No,No
-339,1989,Rhythm Nation 1814,Janet Jackson,Album,4.65,r&b,2096183,126253,0,0,0,0,0,No,No
-340,1993,Doggystyle,Snoop Dogg,Album,3.9,hip-hop,9197483,812233,0,0,0,0,0,No,No
-341,1993,Siamese Dream,Smashing Pumpkins,Album,4.15,rock,72076,6064,0,0,0,0,0,No,No
-342,1970,Let It Be,The Beatles,Album,4.0,rock,14428206,681605,0,0,0,0,0,No,No
-343,1970,Greatest Hits,Sly & the Family Stone,Album + Compilation,4.5,funk,700665,120703,0,0,0,0,0,No,No
-344,1973,Funky Kingston,Toots & The Maytals,Album,0.0,reggae,183778,34299,0,0,0,0,0,No,No
-345,1973,"The Wild, the Innocent & The E Street Shuffle",Bruce Springsteen,Album,4.0,rock,1056779,98336,0,0,0,0,0,No,No
-346,2013,AM,Arctic Monkeys,Album,4.35,rock,77478110,1478418,49,4099995491,4093393,0,0,Yes,No
-347,1995,Liquid Swords,Genius/GZA,Album,4.0,hip-hop,9773,906,0,0,0,0,0,No,No
-348,2001,Time (The Revelator),Gillian Welch,Album,0.0,country,965949,74066,0,0,0,0,0,No,No
-349,1969,Kick Out the Jams,MC5,Album + Live,3.0,rock,956005,99637,0,0,0,0,0,No,No
-350,1972,Music of My Mind,Stevie Wonder,Album,4.55,soul,699294,82980,0,0,0,0,0,No,No
-351,1973,For Your Pleasure,Roxy Music,Album,4.35,rock,1175183,96501,0,0,0,0,0,No,No
-352,1999,The Slim Shady LP,Eminem,Album,3.8,hip-hop,10371697,789013,0,0,0,0,0,No,No
-353,1978,The Cars,The Cars,Album,4.4,rock,3328717,358874,0,0,0,0,0,No,No
-354,1978,Germfree Adolescents,X-Ray Spex,Album,4.0,punk,818463,79121,0,0,0,0,0,No,No
-355,1970,Black Sabbath,Black Sabbath,Album,4.55,metal,6602224,481194,0,0,0,0,0,No,No
-356,1968,Gris-Gris,"Dr. John, the Night Tripper",Album,3.0,rock,5409,491,0,0,0,0,0,No,No
-357,1985,Rain Dogs,Tom Waits,Album,4.0,rock,14848127,649643,0,0,0,0,0,No,No
-358,1990,Goo,Sonic Youth,Album,3.65,alternative,8017600,572475,0,0,0,0,0,No,No
-359,1974,Radio City,Big Star,Album,5.0,rock,1177462,116240,0,0,0,0,0,No,No
-360,1978,One Nation Under a Groove,Funkadelic,Album,0.0,funk,629791,50220,0,0,0,0,0,No,No
-361,2006,The Black Parade,My Chemical Romance,Album,4.15,emo,53807489,1731845,0,0,0,0,0,No,No
-362,1981,Never Too Much,Luther Vandross,Single,5.0,r&b,815204,167086,0,0,0,0,0,No,No
-363,1975,Mothership Connection,Parliament,Album,4.25,funk,1671316,247817,0,0,0,0,0,No,No
-364,1978,More Songs About Buildings and Food,Talking Heads,Album,4.35,rock,2738976,172502,0,0,0,0,0,No,No
-365,2004,Madvillainy,Madvillain,Album,4.5,hip-hop,36220537,792015,0,0,0,0,0,No,No
-366,1976,Rocks,Aerosmith,Album,4.0,rock,1531341,168996,0,0,0,0,0,No,No
-367,2015,If You're Reading This It's Too Late,Drake,Album + Mixtape/Street,2.5,r&b,19249176,548222,140,2600392346,2596205,0,0,Yes,No
-368,1970,All Things Must Pass,George Harrison,Album,4.75,rock,4136742,273587,0,0,0,0,0,No,No
-369,1995,The Infamous,Mobb Deep,Album,4.5,hip-hop,8849624,616010,0,0,0,0,0,No,No
-370,2005,Tha Carter II,Lil Wayne,Album,5.0,hip-hop,436754,31739,0,0,0,0,0,No,No
-371,1973,Anthology,The Temptations,Album + Compilation,0.0,soul,199886,35313,0,0,0,0,0,No,No
-372,1968,Cheap Thrills,Big Brother & the Holding Company,Album,4.5,rock,1882025,280448,0,0,0,0,0,No,No
-373,1969,Hot Buttered Soul,Isaac Hayes,Album,5.0,soul,483643,108634,0,0,0,0,0,No,No
-374,1961,King of the Delta Blues Singers,Robert Johnson,Album + Compilation,0.0,blues,1739893,302397,0,0,0,0,0,No,No
-375,1994,Dookie,Green Day,Album,3.95,punk,29106130,1736490,468,1344685414,1342520,0,0,Yes,No
-376,1998,In the Aeroplane Over the Sea,Neutral Milk Hotel,Album,4.55,folk,46155128,1176954,0,0,0,0,0,No,No
-377,2003,Fever to Tell,Yeah Yeah Yeahs,Album,4.65,punk,21351763,1203621,0,0,0,0,0,No,No
-378,1984,Run-D.M.C.,Run-D.M.C.,Album,3.35,hip-hop,199912,18638,0,0,0,0,0,No,No
-379,1981,Moving Pictures,Rush,Album,4.35,rock,5594855,441297,0,0,0,0,0,No,No
-380,1959,Mingus Ah Um,Charles Mingus,Album,4.4,jazz,2688947,309587,0,0,0,0,0,No,No
-381,1973,(pronounced 'lĕh-'nérd 'skin-'nérd),Lynyrd Skynyrd,Album,4.55,rock,275829,24437,0,0,0,0,0,No,No
-382,2015,Currents,Tame Impala,Album,3.9,pop,44140767,1056388,228,2081367286,2078016,0,0,Yes,No
-383,1998,Mezzanine,Massive Attack,Album,4.35,acid house,36121354,1641825,0,0,0,0,0,No,No
-384,1968,The Kinks Are the Village Green Preservation Society,The Kinks,Album,4.3,rock,2462606,195508,0,0,0,0,0,No,No
-385,1977,Rocket to Russia,Ramones,Album,4.3,punk,3783342,307915,0,0,0,0,0,No,No
-386,2006,Donuts,J Dilla,Album,4.75,hip-hop,20406288,408168,0,0,0,0,0,No,No
-387,2007,In Rainbows,Radiohead,Album,4.5,rock,89296356,2023286,0,0,0,0,0,No,No
-388,1972,"Young, Gifted and Black",Aretha Franklin,Album,4.0,soul,636856,114089,0,0,0,0,0,No,No
-389,2005,The Emancipation of Mimi,Mariah Carey,Album,4.2,pop,8678985,659346,0,0,0,0,0,No,No
-390,1988,Surfer Rosa,Pixies,Album,4.0,rock,11948280,708899,0,0,0,0,0,No,No
-391,1999,Kaleidoscope,Kelis,Album,3.35,r&b,1107169,188090,0,0,0,0,0,No,No
-392,1991,Best Of / Proud Mary,Ike & Tina Turner,Album + Compilation,0.0,pop,176725,52590,0,0,0,0,0,No,No
-393,2014,1989,Taylor Swift,Album,4.25,pop,24385160,639719,0,0,0,0,0,No,No
-394,1980,Diana,Diana Ross,Album,5.0,soul,1691019,366363,0,0,0,0,0,No,No
-395,2014,Black Messiah,D'Angelo and The Vanguard,Album,4.0,r&b,552377,19321,0,0,0,0,0,No,No
-396,1972,Something/Anything?,Todd Rundgren,Album,4.5,rock,1396011,145446,0,0,0,0,0,No,No
-397,2019,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,Album,4.25,pop,49795342,991471,6,7944978137,7932184,0,0,Yes,No
-398,1979,The Raincoats,The Raincoats,Album,0.0,punk,1256744,122675,0,0,0,0,0,No,No
-399,2004,SMiLE,Brian Wilson,Album,4.4,rock,2390353,142072,0,0,0,0,0,No,No
-400,1981,Beauty and the Beat,The Go-Go's,Album,3.0,new wave,932372,154051,0,0,0,0,0,No,No
-401,1976,Blondie,Blondie,Album,4.65,new wave,806343,62990,0,0,0,0,0,No,No
-402,1975,Expensive Shit,Fela Ransome Kuti & Africa 70,Album,4.0,funk,2827,550,0,0,0,0,0,No,No
-403,2000,Supreme Clientele,Ghostface Killah,Album,5.0,hip-hop,3431534,231764,0,0,0,0,0,No,No
-404,1986,Rapture,Anita Baker,Album,4.0,pop,666151,77902,0,0,0,0,0,No,No
-405,1972,"Nuggets: Original Artyfacts From the First Psychedelic Era, 1965–1968",Various Artists,Album + Compilation,0.0,rock,7335,244,0,0,0,0,0,No,No
-406,1999,69 Love Songs,The Magnetic Fields,Album,4.5,indie,11686488,315300,0,0,0,0,0,No,No
-407,1969,Everybody Knows This Is Nowhere,Neil Young & Crazy Horse,Album,4.7,folk,834744,66508,0,0,0,0,0,No,No
-408,1980,Ace of Spades,Motörhead,Album,4.15,metal,7222191,519064,0,0,0,0,0,No,No
-409,1970,Workingman's Dead,Grateful Dead,Album,4.5,rock,1569169,165588,0,0,0,0,0,No,No
-410,1967,Wild Honey,The Beach Boys,Album,4.0,rock,454263,30434,0,0,0,0,0,No,No
-411,2001,Love and Theft,Bob Dylan,Album,3.85,folk,1283181,97732,0,0,0,0,0,No,No
-412,1965,Going to a Go-Go,Smokey Robinson and The Miracles,Album,0.0,soul,68467,11251,0,0,0,0,0,No,No
-413,1970,Cosmo's Factory,Creedence Clearwater Revival,Album,4.6,rock,4093018,422548,0,0,0,0,0,No,No
-414,1979,Risqué,Chic,Album,5.0,disco,741151,176591,0,0,0,0,0,No,No
-415,1970,Look-Ka Py Py,The Meters,Album,4.0,funk,326605,35351,0,0,0,0,0,No,No
-416,1999,Things Fall Apart,The Roots,Album,3.7,hip-hop,5135514,373990,0,0,0,0,0,No,No
-417,1959,The Shape of Jazz to Come,Ornette Coleman,Album,4.2,jazz,960823,113235,0,0,0,0,0,No,No
-418,1985,Brothers in Arms,Dire Straits,Album,4.65,rock,10405000,955749,0,0,0,0,0,No,No
-419,2011,Chief,Eric Church,Album,0.0,country,2341775,212770,0,0,0,0,0,No,No
-420,1975,That's the Way of the World,"Earth, Wind & Fire",Album + Soundtrack,3.0,disco,713625,141708,0,0,0,0,0,No,No
-421,2005,Arular,M.I.A.,Album,4.2,hip-hop,8705035,421885,0,0,0,0,0,No,No
-422,1973,Let's Get It On,Marvin Gaye,Album,4.65,r&b,1706570,224647,0,0,0,0,0,No,No
-423,1997,I Can Hear the Heart Beating as One,Yo La Tengo,Album,4.5,indie,9599065,454876,0,0,0,0,0,No,No
-424,1996,Odelay,Beck,Album,4.1,rock,10322649,838941,0,0,0,0,0,No,No
-425,1972,Paul Simon,Paul Simon,Album,0.0,folk,3201980,449027,0,0,0,0,0,No,No
-426,1988,Lucinda Williams,Lucinda Williams,Album,4.65,country,235943,17543,0,0,0,0,0,No,No
-427,1973,Call Me,Al Green,Album,4.35,soul,771813,94010,0,0,0,0,0,No,No
-428,1985,New Day Rising,Hüsker Dü,Album,4.35,rock,2345532,170276,0,0,0,0,0,No,No
-429,1967,Reach Out,Four Tops,Album,0.0,soul,84010,19502,0,0,0,0,0,No,No
-430,1977,My Aim Is True,Elvis Costello,Album,3.4,new wave,4292385,383133,0,0,0,0,0,No,No
-431,1984,How Will the Wolf Survive?,Los Lobos,Album,3.0,rock,142422,18343,0,0,0,0,0,No,No
-432,2004,Confessions,Usher,Album,1.0,pop,5941695,949259,0,0,0,0,0,No,No
-433,2007,Sound of Silver,LCD Soundsystem,Album,3.9,electronic,18074273,1015320,0,0,0,0,0,No,No
-434,1994,"Crooked Rain, Crooked Rain",Pavement,Album,4.35,rock,7363139,359448,0,0,0,0,0,No,No
-435,1987,Actually,Pet Shop Boys,Album,4.25,pop,2119292,198699,0,0,0,0,0,No,No
-436,1996,All Eyez on Me,2Pac,Album,4.65,hip-hop,11333165,657784,0,0,0,0,0,No,No
-437,1991,Screamadelica,Primal Scream,Album,3.0,rock,5224389,505103,0,0,0,0,0,No,No
-438,1994,Parklife,Blur,Album,3.9,pop,11104152,791505,0,0,0,0,0,No,No
-439,1970,Sex Machine,James Brown,Album,4.35,funk,393799,48685,0,0,0,0,0,No,No
-440,1970,Coal Miner's Daughter,Loretta Lynn,Album,0.0,country,107906,24597,0,0,0,0,0,No,No
-441,2007,Blackout,Britney Spears,Album,3.9,pop,27539602,900332,0,0,0,0,0,No,No
-442,2015,Beauty Behind the Madness,The Weeknd,Album,4.0,r&b,27384571,1002314,0,0,0,0,0,No,No
-443,1980,Scary Monsters,David Bowie,Album,3.6,rock,3073716,250147,0,0,0,0,0,No,No
-444,2005,Extraordinary Machine,Fiona Apple,Album,4.25,pop,9338964,583650,0,0,0,0,0,No,No
-445,1972,Close to the Edge,Yes,Album,4.7,rock,1421694,124433,0,0,0,0,0,No,No
-446,1971,Journey in Satchidananda,Alice Coltrane,Album,4.15,jazz,776405,96146,0,0,0,0,0,No,No
-447,2018,X 100PRE,Bad Bunny,Album,3.0,latin,4785696,132603,64,3651213346,3645334,0,0,Yes,No
-448,1966,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Otis Redding,Album,0.0,soul,405766,72968,0,0,0,0,0,No,No
-449,2003,Elephant,The White Stripes,Album,4.1,rock,35947878,1868928,0,0,0,0,0,No,No
-450,1971,Ram,Paul & Linda McCartney,Album,4.5,rock,675362,23243,0,0,0,0,0,No,No
-451,1969,First Take,Roberta Flack,Album,0.0,soul,524118,110620,0,0,0,0,0,No,No
-452,1974,Anthology,Diana Ross and The Supremes,Album + Compilation,0.0,r&b,49156,11001,0,0,0,0,0,No,No
-453,1989,Pretty Hate Machine,Nine Inch Nails,Album,2.4,rock,10557599,567703,0,0,0,0,0,No,No
-454,1972,Ege Bamyasi,Can,Album,4.35,electronic,2093160,146380,0,0,0,0,0,No,No
+1,1971,What's Going On,Marvin Gaye,Album,4.65,r&b,5258671,546458,0,0,0,0,0,No,No
+2,1966,Pet Sounds,The Beach Boys,Album,4.45,rock,13411664,543630,0,0,0,0,0,No,No
+3,1971,Blue,Joni Mitchell,Album,4.45,folk,9405283,537629,0,0,0,0,0,No,No
+4,1976,Songs in the Key of Life,Stevie Wonder,Album,4.55,soul,7700036,759027,0,0,0,0,0,No,No
+5,1969,Abbey Road,The Beatles,Album,4.7,rock,42702139,1071738,0,0,0,0,0,No,No
+6,1991,Nevermind,Nirvana,Album,4.45,grunge,45587589,2465606,0,0,0,0,0,No,No
+7,1977,Rumours,Fleetwood Mac,Album,4.6,pop,23253982,1121627,0,0,0,11,20,No,Yes
+8,1984,Purple Rain,Prince & The Revolution,Album + Soundtrack,4.25,rock,1917080,253312,0,0,0,40,13,No,Yes
+9,1975,Blood on the Tracks,Bob Dylan,Album,4.35,folk,9253129,491935,0,0,0,0,0,No,No
+10,1998,The Miseducation of Lauryn Hill,Lauryn Hill,Album,4.15,r&b,9425879,781231,0,0,0,0,0,No,No
+11,1966,Revolver,The Beatles,Album,4.65,rock,26006005,797507,0,0,0,0,0,No,No
+12,1982,Thriller,Michael Jackson,Album,4.4,pop,14012537,1305900,0,0,0,2,34,No,Yes
+13,1967,I Never Loved a Man the Way I Love You,Aretha Franklin,Album,3.8,soul,2995446,584246,0,0,0,0,0,No,No
+14,1972,Exile on Main St.,The Rolling Stones,Album,4.6,rock,9330747,613183,0,0,0,0,0,No,No
+15,1988,It Takes a Nation of Millions to Hold Us Back,Public Enemy,Album,3.35,hip-hop,3899724,374166,0,0,0,0,0,No,No
+16,1979,London Calling,The Clash,Album,4.25,punk,26112791,1142467,0,0,0,0,0,No,No
+17,2010,My Beautiful Dark Twisted Fantasy,Kanye West,Album,4.5,hip-hop,62155284,1564798,203,2209062493,2205505,0,0,Yes,No
+18,1965,Highway 61 Revisited,Bob Dylan,Album,4.3,folk,11079883,747847,0,0,0,0,0,No,No
+19,2015,To Pimp a Butterfly,Kendrick Lamar,Album,4.75,hip-hop,38785246,810724,0,0,0,0,0,No,No
+20,2000,Kid A,Radiohead,Album,4.6,rock,52822736,1652887,0,0,0,0,0,No,No
+21,1975,Born to Run,Bruce Springsteen,Album,4.4,rock,6242166,478047,0,0,0,0,0,No,No
+22,1994,Ready to Die,The Notorious B.I.G.,Album,4.25,hip-hop,10020799,985811,0,0,0,0,0,No,No
+23,1967,The Velvet Underground & Nico,The Velvet Underground,Album,4.6,rock,13695742,569764,0,0,0,0,0,No,No
+24,1967,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Album,4.55,rock,25193733,847873,0,0,0,0,0,No,No
+25,1971,Tapestry,Carole King,Album,4.15,pop,5496383,517413,0,0,0,38,13,No,Yes
+26,1975,Horses,Patti Smith,Album,4.3,punk,3938666,347997,0,0,0,0,0,No,No
+27,1993,Enter the Wu-Tang (36 Chambers),Wu-Tang Clan,Album,4.65,hip-hop,11393693,703014,0,0,0,0,0,No,No
+28,2000,Voodoo,D'Angelo,Album,4.5,r&b,5230787,403286,0,0,0,0,0,No,No
+29,1968,The Beatles (“The White Album”),The Beatles,Album,4.4,rock,13125966,567654,0,0,0,0,0,No,No
+30,1967,Are You Experienced,The Jimi Hendrix Experience,Album,4.0,rock,3973414,563592,0,0,0,0,0,No,No
+31,1959,Kind of Blue,Miles Davis,Album,4.5,jazz,8333824,620248,0,0,0,0,0,No,No
+32,2016,Lemonade,Beyoncé,Album,4.1,pop,21989100,463907,0,0,0,0,0,No,No
+33,2006,Back to Black,Amy Winehouse,Album,4.1,soul,44957445,1702293,0,0,0,0,0,No,No
+34,1973,Innervisions,Stevie Wonder,Album,5.0,soul,3514967,419954,0,0,0,0,0,No,No
+35,1965,Rubber Soul,The Beatles,Album,4.45,rock,21977790,708123,0,0,0,0,0,No,No
+36,1979,Off the Wall,Michael Jackson,Album,4.25,pop,8043363,731773,0,0,0,0,0,No,No
+37,1992,The Chronic,Dr. Dre,Album,4.1,hip-hop,7404768,512850,0,0,0,0,0,No,No
+38,1966,Blonde on Blonde,Bob Dylan,Album,4.25,folk,11857351,498125,0,0,0,0,0,No,No
+39,1980,Remain in Light,Talking Heads,Album,4.4,rock,5612644,343711,0,0,0,0,0,No,No
+40,1972,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,Album,4.6,rock,10837623,396688,0,0,0,0,0,No,No
+41,1969,Let It Bleed,The Rolling Stones,Album,4.5,rock,10642980,1056343,0,0,0,0,0,No,No
+42,1997,OK Computer,Radiohead,Album,4.65,rock,81607083,2465878,0,0,0,0,0,No,No
+43,1991,The Low End Theory,A Tribe Called Quest,Album,3.8,hip-hop,13643667,699213,0,0,0,0,0,No,No
+44,1994,Illmatic,Nas,Album,4.15,hip-hop,16484781,901761,0,0,0,0,0,No,No
+45,1987,Sign “☮︎” the Times,Prince,Album,4.15,rock,1941060,149487,0,0,0,0,0,No,No
+46,1986,Graceland,Paul Simon,Album,4.6,folk,5459456,433584,0,0,0,0,0,No,No
+47,1976,Ramones,Ramones,Album,4.05,punk,6837570,519686,0,0,0,0,0,No,No
+48,1984,Legend: The Best of Bob Marley and The Wailers,Bob Marley & The Wailers,Album + Compilation,4.3,reggae,221801,16050,0,0,0,0,0,No,No
+49,1998,Aquemini,OutKast,Album,4.15,hip-hop,8521405,536112,0,0,0,0,0,No,No
+50,2001,The Blueprint,JAY-Z,Album,3.7,hip-hop,6474671,672107,0,0,0,0,0,No,No
+51,1982,The Great Twenty-Eight,Chuck Berry,Album + Compilation,0.0,blues,1688013,253369,0,0,0,0,0,No,No
+52,1976,Station to Station,David Bowie,Album,4.1,rock,2661697,188970,0,0,0,0,0,No,No
+53,1968,Electric Ladyland,The Jimi Hendrix Experience,Album,3.85,rock,6578097,497090,0,0,0,0,0,No,No
+54,1991,Star Time,James Brown,Album + Compilation,5.0,funk,739593,116110,0,0,0,0,0,No,No
+55,1973,The Dark Side of the Moon,Pink Floyd,Album,4.8,rock,45604815,1397508,0,0,0,0,0,No,No
+56,1993,Exile in Guyville,Liz Phair,Album,4.25,rock,3080730,250730,0,0,0,0,0,No,No
+57,1969,The Band (“The Brown Album”),The Band,Album,4.35,rock,3022369,331402,0,0,0,0,0,No,No
+58,1971,[Led Zeppelin IV],Led Zeppelin,Album,4.75,rock,232058,21038,0,0,0,0,0,No,No
+59,1972,Talking Book,Stevie Wonder,Album,5.0,soul,2833198,443462,0,0,0,0,0,No,No
+60,1968,Astral Weeks,Van Morrison,Album,4.35,folk,4295853,409679,0,0,0,0,0,No,No
+61,1987,Paid in Full,Eric B. & Rakim,Album,3.5,hip-hop,1795296,297506,0,0,0,0,0,No,No
+62,1987,Appetite for Destruction,Guns N' Roses,Album,4.45,rock,31831200,1992668,0,0,0,14,18,No,Yes
+63,1977,Aja,Steely Dan,Album,4.2,fusion,3987601,313589,0,0,0,0,0,No,No
+64,2000,Stankonia,OutKast,Album,3.95,hip-hop,14380701,1369044,0,0,0,0,0,No,No
+65,1963,"Live at the Apollo, 1962",James Brown,Album + Live,4.5,funk,30459,3207,0,0,0,0,0,No,No
+66,1965,A Love Supreme,John Coltrane,Album,4.7,jazz,2017996,194032,0,0,0,0,0,No,No
+67,1996,Reasonable Doubt,JAY-Z,Album,4.15,hip-hop,5967987,376140,0,0,0,0,0,No,No
+68,1985,Hounds of Love,Kate Bush,Album,3.85,pop,12892442,649839,0,0,0,0,0,No,No
+69,1995,Jagged Little Pill,Alanis Morissette,Album,4.15,alternative,12079868,947052,0,0,0,0,0,No,No
+70,1988,Straight Outta Compton,N.W.A,Album,4.0,hip-hop,3904459,489654,0,0,0,0,0,No,No
+71,1977,Exodus,Bob Marley & The Wailers,Album,4.75,reggae,3634920,340738,0,0,0,0,0,No,No
+72,1972,Harvest,Neil Young,Album,4.6,folk,8982773,631840,0,0,0,0,0,No,No
+73,1991,Loveless,My Bloody Valentine,Album,4.55,alternative,32172088,891229,0,0,0,0,0,No,No
+74,2003,The College Dropout,Kanye West,Album,4.4,hip-hop,28521309,1015719,0,0,0,0,0,No,No
+75,1968,Lady Soul,Aretha Franklin,Album,5.0,soul,843191,88194,0,0,0,0,0,No,No
+76,1972,Superfly,Curtis Mayfield,Album + Soundtrack,4.6,soul,1208103,87203,0,0,0,0,0,No,No
+77,1971,Who's Next,The Who,Album,4.3,rock,9466363,884441,0,0,0,0,0,No,No
+78,1979,The Sun Sessions,Elvis Presley,Album + Compilation,4.5,rock,209543,10549,0,0,0,0,0,No,No
+79,2016,Blonde,Frank Ocean,Album,4.65,r&b,79922807,869340,134,2668070912,2663775,0,0,Yes,No
+80,1977,Never Mind the Bollocks Here's the Sex Pistols,Sex Pistols,Album,4.7,punk,3888743,230553,0,0,0,0,0,No,No
+81,2013,BEYONCÉ,Beyoncé,Album,4.0,pop,18463534,388856,0,0,0,0,0,No,No
+82,1971,There's a Riot Goin' On,Sly & the Family Stone,Album,3.65,funk,2074153,261574,0,0,0,0,0,No,No
+83,1969,Dusty in Memphis,Dusty Springfield,Album,4.0,pop,2407932,372105,0,0,0,0,0,No,No
+84,1980,Back in Black,AC/DC,Album,4.45,rock,25266423,1512745,0,0,0,0,0,No,No
+85,1970,Plastic Ono Band,John Lennon,Album,4.0,rock,3112324,297248,0,0,0,0,0,No,No
+86,1967,The Doors,The Doors,Album,4.55,rock,22283844,1151481,0,0,0,0,0,No,No
+87,1970,Bitches Brew,Miles Davis,Album,4.95,jazz,1790376,227682,0,0,0,0,0,No,No
+88,1971,Hunky Dory,David Bowie,Album,4.35,rock,10384681,516263,0,0,0,0,0,No,No
+89,1997,Baduizm,Erykah Badu,Album,4.0,r&b,7363068,535368,0,0,0,0,0,No,No
+90,1970,After the Gold Rush,Neil Young,Album,4.9,folk,4900751,349606,0,0,0,0,0,No,No
+91,1978,Darkness on the Edge of Town,Bruce Springsteen,Album,5.0,rock,3153756,186288,0,0,0,0,0,No,No
+92,1967,Axis: Bold as Love,The Jimi Hendrix Experience,Album,3.9,rock,5594175,428072,0,0,0,0,0,No,No
+93,1997,Supa Dupa Fly,Missy Elliott,Album,3.65,hip-hop,1314677,192724,0,0,0,0,0,No,No
+94,1970,Fun House,The Stooges,Album,4.2,rock,2522604,213594,0,0,0,0,0,No,No
+95,2011,Take Care,Drake,Album,3.65,r&b,13681860,503580,0,0,0,0,0,No,No
+96,1992,Automatic for the People,R.E.M.,Album,4.0,alternative,11927921,868295,0,0,0,0,0,No,No
+97,1986,Master of Puppets,Metallica,Album,4.65,metal,22774200,964896,0,0,0,0,0,No,No
+98,1998,Car Wheels on a Gravel Road,Lucinda Williams,Album,4.5,country,1734645,194491,0,0,0,0,0,No,No
+99,2012,Red,Taylor Swift,Album,4.45,pop,23505484,590062,0,0,0,0,0,No,No
+100,1968,Music From Big Pink,The Band,Album,4.0,rock,2430603,206519,0,0,0,0,0,No,No
+101,1969,Led Zeppelin,Led Zeppelin,Album,4.55,rock,16132404,950960,0,0,0,0,0,No,No
+102,1977,The Clash,The Clash,Album,4.25,punk,5146399,426640,0,0,0,0,0,No,No
+103,1989,3 Feet High and Rising,De La Soul,Album,3.9,hip-hop,4631305,352316,0,0,0,0,0,No,No
+104,1971,Sticky Fingers,The Rolling Stones,Album,4.45,rock,6056573,553909,0,0,0,0,0,No,No
+105,1971,At Fillmore East,The Allman Brothers Band,Album + Live,4.5,rock,795156,90841,0,0,0,0,0,No,No
+106,1994,Live Through This,Hole,Album,4.55,alternative,9461572,552914,0,0,0,0,0,No,No
+107,1977,Marquee Moon,Television,Album,4.35,rock,6135865,478575,0,0,0,0,0,No,No
+108,1999,When the Pawn,Fiona Apple,Album,4.35,pop,1867328,328373,0,0,0,0,0,No,No
+109,1972,Transformer,Lou Reed,Album,4.2,rock,14307355,1117390,0,0,0,0,0,No,No
+110,1974,Court and Spark,Joni Mitchell,Album,5.0,folk,2304775,161845,0,0,0,0,0,No,No
+111,1986,Control,Janet Jackson,Album,4.5,pop,1676098,148354,0,0,0,0,0,No,No
+112,1973,Goodbye Yellow Brick Road,Elton John,Album,4.0,pop,2928681,290748,0,0,0,0,0,No,No
+113,1986,The Queen Is Dead,The Smiths,Album,4.4,rock,31559610,1158383,0,0,0,0,0,No,No
+114,2001,Is This It,The Strokes,Album,4.35,rock,51862287,2117740,0,0,0,0,0,No,No
+115,2012,"good kid, m.A.A.d city",Kendrick Lamar,Album,4.4,hip-hop,19207199,752041,0,0,0,0,0,No,No
+116,1989,Disintegration,The Cure,Album,4.45,alternative,15993237,687854,0,0,0,0,0,No,No
+117,2005,Late Registration,Kanye West,Album,4.3,hip-hop,38997815,1365375,472,1347031102,1344862,0,0,Yes,No
+118,1976,Hotel California,Eagles,Album,4.45,rock,3433264,316205,0,0,0,3,26,No,Yes
+119,1969,Stand!,Sly & the Family Stone,Album,4.0,funk,887767,171548,0,0,0,0,0,No,No
+120,1970,Moondance,Van Morrison,Album,4.65,folk,5541316,556065,0,0,0,0,0,No,No
+121,1978,This Year's Model,Elvis Costello & The Attractions,Album,4.65,alternative,1754360,211343,0,0,0,0,0,No,No
+122,1994,The Downward Spiral,Nine Inch Nails,Album,3.05,rock,23063427,1087697,0,0,0,0,0,No,No
+123,1969,Led Zeppelin II,Led Zeppelin,Album,4.55,rock,17800645,993176,0,0,0,50,12,No,Yes
+124,1991,Achtung Baby,U2,Album,4.4,rock,10427240,874881,0,0,0,0,0,No,No
+125,1989,Paul's Boutique,Beastie Boys,Album,4.5,hip-hop,4832939,336976,0,0,0,0,0,No,No
+126,1994,My Life,Mary J. Blige,Album,3.0,r&b,1409666,213002,0,0,0,0,0,No,No
+127,1962,Modern Sounds in Country and Western Music,Ray Charles,Album,4.5,country,172970,17752,0,0,0,0,0,No,No
+128,1975,A Night at the Opera,Queen,Album,4.35,rock,9655213,666897,0,0,0,0,0,No,No
+129,1979,The Wall,Pink Floyd,Album,4.4,rock,34270659,892439,0,0,0,8,23,No,Yes
+130,1982,1999,Prince,Album,4.25,rock,2666997,325004,0,0,0,0,0,No,No
+131,1994,Dummy,Portishead,Album,4.3,rock,32385297,1436871,0,0,0,0,0,No,No
+132,1978,40 Greatest Hits,Hank Williams,Album + Compilation,0.0,country,909463,66621,0,0,0,0,0,No,No
+133,1976,Hejira,Joni Mitchell,Album,4.0,folk,1372929,116010,0,0,0,0,0,No,No
+134,1996,The Score,Fugees,Album,4.0,hip-hop,8237784,844775,0,0,0,0,0,No,No
+135,1987,The Joshua Tree,U2,Album,4.3,rock,9941225,821130,0,0,0,0,0,No,No
+136,1971,Maggot Brain,Funkadelic,Album,3.75,funk,4676267,468089,0,0,0,0,0,No,No
+137,2011,21,Adele,Album,4.1,pop,64434877,1931594,56,3929710891,3923383,29,14,Yes,Yes
+138,1990,The Immaculate Collection,Madonna,Album + Compilation,4.4,pop,6870867,456908,0,0,0,0,0,No,No
+139,1970,Paranoid,Black Sabbath,Album,4.75,metal,15573175,1278248,0,0,0,0,0,No,No
+140,1973,Catch a Fire,The Wailers,Album,4.6,reggae,162166,24837,0,0,0,0,0,No,No
+141,1989,Doolittle,Pixies,Album,4.4,rock,36348216,1470541,0,0,0,0,0,No,No
+142,1984,Born in the U.S.A.,Bruce Springsteen,Album,4.65,rock,12500593,800992,0,0,0,0,0,No,No
+143,1969,The Velvet Underground,The Velvet Underground,Album,4.15,rock,8344846,692339,0,0,0,0,0,No,No
+144,1975,Physical Graffiti,Led Zeppelin,Album,4.25,rock,10344676,550846,0,0,0,21,16,No,Yes
+145,2000,The Marshall Mathers LP,Eminem,Album,4.2,hip-hop,19476043,1302088,211,2180206758,2176696,0,0,Yes,No
+146,1978,Parallel Lines,Blondie,Album,4.2,rock,3649797,278286,0,0,0,0,0,No,No
+147,1994,Grace,Jeff Buckley,Album,4.3,alternative,20366284,1106053,0,0,0,0,0,No,No
+148,2012,channel ORANGE,Frank Ocean,Album,4.15,r&b,37803421,953070,0,0,0,0,0,No,No
+149,1971,John Prine,John Prine,Album,4.0,country,1325701,135583,0,0,0,0,0,No,No
+150,1982,Nebraska,Bruce Springsteen,Album,4.4,rock,3682344,249000,0,0,0,0,0,No,No
+151,1987,Faith,George Michael,Album,3.15,pop,3621032,554861,0,0,0,0,0,No,No
+152,1980,Pretenders,Pretenders,Album,4.5,new wave,74359,17174,0,0,0,0,0,No,No
+153,1993,Rid of Me,PJ Harvey,Album,4.65,alternative,5150723,338286,0,0,0,0,0,No,No
+154,1972,Amazing Grace,Aretha Franklin,Album + Live,0.0,gospel,144811,21488,0,0,0,0,0,No,No
+155,2003,The Black Album,JAY-Z,Album,3.15,hip-hop,11329882,1069202,0,0,0,0,0,No,No
+156,1984,Let It Be,The Replacements,Album,4.5,rock,3352652,186862,0,0,0,0,0,No,No
+157,1995,(What's the Story) Morning Glory?,Oasis,Album,3.95,rock,30191528,2082807,0,0,0,0,0,No,No
+158,2000,Mama's Gun,Erykah Badu,Album,4.0,r&b,5698976,434318,0,0,0,0,0,No,No
+159,1983,Synchronicity,The Police,Album,4.2,new wave,3529110,383905,0,0,0,0,0,No,No
+160,1991,Ten,Pearl Jam,Album,4.15,grunge,34102474,1808072,490,1315412286,1313294,39,13,Yes,Yes
+161,1969,"Crosby, Stills & Nash","Crosby, Stills & Nash",Album,4.65,rock,2037130,221091,0,0,0,0,0,No,No
+162,1995,Different Class,Pulp,Album,3.85,rock,11691460,765183,0,0,0,0,0,No,No
+163,1977,Saturday Night Fever: The Original Movie Sound Track,Various Artists,Album + Soundtrack,5.0,disco,7007,435,0,0,0,0,0,No,No
+164,1968,At Folsom Prison,Johnny Cash,Album + Live,4.3,country,5224563,326577,0,0,0,0,0,No,No
+165,1983,Murmur,R.E.M.,Album,4.2,rock,3568491,276038,0,0,0,0,0,No,No
+166,1978,20 Golden Greats,Buddy Holly,Album + Compilation,0.0,rock,95889,5617,0,0,0,0,0,No,No
+167,1990,Violator,Depeche Mode,Album,4.3,alternative,12598463,672950,0,0,0,0,0,No,No
+168,1972,Can't Buy a Thrill,Steely Dan,Album,4.5,fusion,5531975,485276,0,0,0,0,0,No,No
+169,1977,The Stranger,Billy Joel,Album,4.5,pop,2961609,387867,0,0,0,0,0,No,No
+170,1967,Disraeli Gears,Cream,Album,4.9,rock,6327390,738235,0,0,0,0,0,No,No
+171,1988,Daydream Nation,Sonic Youth,Album,4.1,alternative,9210885,543099,0,0,0,0,0,No,No
+172,1970,Bridge Over Troubled Water,Simon & Garfunkel,Album,4.25,folk,9552335,888175,0,0,0,0,0,No,No
+173,1993,In Utero,Nirvana,Album,4.2,grunge,24724952,1364452,0,0,0,0,0,No,No
+174,1972,The Harder They Come,Various Artists,Album + Soundtrack,4.0,reggae,163421,31653,0,0,0,0,0,No,No
+175,2017,DAMN.,Kendrick Lamar,Album,4.15,hip-hop,43602900,967886,28,5121879741,5113632,0,0,Yes,No
+176,1990,Fear of a Black Planet,Public Enemy,Album,4.0,hip-hop,2948162,321342,0,0,0,0,0,No,No
+177,1971,Every Picture Tells a Story,Rod Stewart,Album,4.5,rock,1839989,423881,0,0,0,0,0,No,No
+178,1965,Otis Blue: Otis Redding Sings Soul,Otis Redding,Album,5.0,soul,507480,24550,0,0,0,0,0,No,No
+179,1997,Life After Death,The Notorious B.I.G.,Album,3.8,hip-hop,4895428,579304,0,0,0,0,0,No,No
+180,1967,Forever Changes,Love,Album,4.45,rock,3748784,201709,0,0,0,0,0,No,No
+181,1965,Bringing It All Back Home,Bob Dylan,Album,4.45,folk,7899294,501419,0,0,0,0,0,No,No
+182,1970,Sweet Baby James,James Taylor,Album,3.5,folk,1532303,200930,0,0,0,0,0,No,No
+183,1995,Brown Sugar,D'Angelo,Album,3.5,r&b,3104817,326382,0,0,0,0,0,No,No
+184,1983,She's So Unusual,Cyndi Lauper,Album,4.5,pop,4871988,797374,0,0,0,0,0,No,No
+185,1968,Beggars Banquet,The Rolling Stones,Album,4.5,rock,6027164,599329,0,0,0,0,0,No,No
+186,1991,Blood Sugar Sex Magik,Red Hot Chili Peppers,Album,4.05,rock,20495756,1264080,0,0,0,0,0,No,No
+187,1990,AmeriKKKa's Most Wanted,Ice Cube,Album,4.0,hip-hop,1782895,160448,0,0,0,0,0,No,No
+188,1971,Electric Warrior,T. Rex,Album,3.4,rock,4487406,447908,0,0,0,0,0,No,No
+189,1997,Dig Me Out,Sleater-Kinney,Album,4.55,rock,1784607,74023,0,0,0,0,0,No,No
+190,1969,Tommy,The Who,Album,4.3,rock,5513576,340200,0,0,0,0,0,No,No
+191,1960,At Last!,Etta James,Album,4.5,jazz,3138557,411133,0,0,0,0,0,No,No
+192,1986,Licensed to Ill,Beastie Boys,Album,4.15,hip-hop,9507605,777783,0,0,0,0,0,No,No
+193,1969,Willy and the Poor Boys,Creedence Clearwater Revival,Album,4.7,rock,3603358,385713,0,0,0,0,0,No,No
+194,1987,Bad,Michael Jackson,Album,4.2,pop,9118749,705908,0,0,0,0,0,No,No
+195,1967,Songs of Leonard Cohen,Leonard Cohen,Album,4.75,folk,5551080,491640,0,0,0,0,0,No,No
+196,2010,Body Talk,Robyn,Album,0.0,pop,10763579,423897,0,0,0,0,0,No,No
+197,1964,Meet The Beatles!,The Beatles,Album,4.6,rock,480696,16588,0,0,0,0,0,No,No
+198,1979,The B-52's,The B-52's,Album,5.0,new wave,1959979,250983,0,0,0,0,0,No,No
+199,1992,Slanted and Enchanted,Pavement,Album,4.65,rock,1598115,73529,0,0,0,0,0,No,No
+200,1984,Diamond Life,Sade,Album,4.0,pop,2668724,238916,0,0,0,0,0,No,No
+201,1993,Midnight Marauders,A Tribe Called Quest,Album,4.35,hip-hop,10536180,638703,0,0,0,0,0,No,No
+202,1997,Homogenic,Björk,Album,4.5,electronic,16390298,660856,0,0,0,0,0,No,No
+203,1972,Pink Moon,Nick Drake,Album,4.5,folk,20915860,963634,0,0,0,0,0,No,No
+204,2007,Graduation,Kanye West,Album,3.85,hip-hop,47956605,1852844,0,0,0,0,0,No,No
+205,1970,Tea for the Tillerman,Cat Stevens,Album,4.6,folk,3854785,439314,0,0,0,0,0,No,No
+206,1977,Low,David Bowie,Album,4.35,rock,7514418,324794,0,0,0,0,0,No,No
+207,1972,Eagles,Eagles,Album,4.4,rock,1318921,117714,0,0,0,0,0,No,No
+208,2008,Tha Carter III,Lil Wayne,Album,3.25,hip-hop,1626155,184149,0,0,0,0,0,No,No
+209,1986,Raising Hell,Run-D.M.C.,Album,4.25,hip-hop,1255870,196126,0,0,0,0,0,No,No
+210,1991,The Birth of Soul,Ray Charles,Album + Compilation,0.0,soul,232826,19417,0,0,0,0,0,No,No
+211,1979,Unknown Pleasures,Joy Division,Album,4.45,alternative,27450765,1016951,0,0,0,0,0,No,No
+212,1966,Wild Is the Wind,Nina Simone,Album,5.0,jazz,972915,103682,0,0,0,0,0,No,No
+213,2012,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do,Fiona Apple,Album,3.85,pop,4187597,206250,0,0,0,0,0,No,No
+214,1994,Wildflowers,Tom Petty,Album,3.8,rock,3239374,292413,0,0,0,0,0,No,No
+215,1970,American Beauty,Grateful Dead,Album,4.05,rock,4234067,274484,0,0,0,0,0,No,No
+216,1997,Either/Or,Elliott Smith,Album,4.65,folk,25855755,897007,0,0,0,0,0,No,No
+217,1994,Definitely Maybe,Oasis,Album,4.45,rock,14497762,961291,0,0,0,0,0,No,No
+218,1994,CrazySexyCool,TLC,Album,4.5,r&b,4734602,733491,0,0,0,0,0,No,No
+219,1995,Only Built 4 Cuban Linx,Raekwon,Album,4.25,hip-hop,3891626,382655,0,0,0,0,0,No,No
+220,1970,Déjà vu,"Crosby, Stills, Nash & Young",Album,4.8,rock,4121384,369618,0,0,0,0,0,No,No
+221,1992,Rage Against the Machine,Rage Against the Machine,Album,4.4,rock,25701134,1708122,0,0,0,0,0,No,No
+222,1998,Ray of Light,Madonna,Album,4.35,pop,10528301,602922,0,0,0,0,0,No,No
+223,1971,Imagine,John Lennon,Album,4.0,rock,7520302,635825,0,0,0,0,0,No,No
+224,1999,Fly,Dixie Chicks,Album,4.5,country,1738829,242514,0,0,0,0,0,No,No
+225,2002,Yankee Hotel Foxtrot,Wilco,Album,4.35,folk,16582338,756444,0,0,0,0,0,No,No
+226,1970,Layla and Other Assorted Love Songs,Derek and the Dominos,Album,4.0,rock,1786668,242215,0,0,0,0,0,No,No
+227,1957,Here's Little Richard,Little Richard,Album,4.25,blues,273828,20468,0,0,0,0,0,No,No
+228,1991,De La Soul Is Dead,De La Soul,Album,4.0,hip-hop,1976422,186312,0,0,0,0,0,No,No
+229,2000,The Ultimate Collection,Patsy Cline,Album + Compilation,0.0,country,49476,2662,0,0,0,0,0,No,No
+230,2016,ANTI,Rihanna,Album,4.4,pop,13089252,510877,0,0,0,0,0,No,No
+231,1979,Damn the Torpedoes,Tom Petty and the Heartbreakers,Album,4.0,rock,623589,65177,0,0,0,0,0,No,No
+232,1960,Giant Steps,John Coltrane,Album,4.45,jazz,2878526,214344,0,0,0,0,0,No,No
+233,1992,Little Earthquakes,Tori Amos,Album,4.7,alternative,5603246,373634,0,0,0,0,0,No,No
+234,1971,Master of Reality,Black Sabbath,Album,4.55,metal,6730809,494774,0,0,0,0,0,No,No
+235,1991,Metallica,Metallica,Album,4.2,metal,33016099,1445831,0,0,0,22,16,No,Yes
+236,2001,Discovery,Daft Punk,Album,4.35,dance,59499503,2321091,0,0,0,0,0,No,No
+237,1975,Red Headed Stranger,Willie Nelson,Album,5.0,country,1032530,108197,0,0,0,0,0,No,No
+238,1977,Trans Europa Express,Kraftwerk,Album,4.15,electronic,420273,25692,0,0,0,0,0,No,No
+239,1987,Criminal Minded,Boogie Down Productions,Album,0.0,hip-hop,569016,108054,0,0,0,0,0,No,No
+240,1985,"Live at the Harlem Square Club, 1963",Sam Cooke,Album + Live,5.0,soul,236206,12103,0,0,0,0,0,No,No
+241,1991,Blue Lines,Massive Attack,Album,4.0,acid house,9676537,669163,0,0,0,0,0,No,No
+242,1970,Loaded,The Velvet Underground,Album,4.15,rock,4605324,288113,0,0,0,0,0,No,No
+243,1968,Odessey and Oracle,The Zombies,Album,4.0,rock,4799730,383968,0,0,0,0,0,No,No
+244,2008,808s & Heartbreak,Kanye West,Album,3.45,hip-hop,32224206,1568679,0,0,0,0,0,No,No
+245,1990,Heaven or Las Vegas,Cocteau Twins,Album,3.7,alternative,7442031,323659,0,0,0,0,0,No,No
+246,1990,Mama Said Knock You Out,LL Cool J,Album,4.5,hip-hop,827356,167635,0,0,0,0,0,No,No
+247,1992,Love Deluxe,Sade,Album,4.2,ambient,3112135,215342,0,0,0,0,0,No,No
+248,2004,American Idiot,Green Day,Album,4.05,punk,41736866,1960593,0,0,0,0,0,No,No
+249,1985,Whitney Houston,Whitney Houston,Album,4.65,r&b,2526772,389800,0,0,0,42,13,No,Yes
+250,1979,Singles Going Steady,Buzzcocks,Album + Compilation,3.35,punk,4787780,409100,0,0,0,0,0,No,No
+251,1972,Honky Château,Elton John,Album,3.8,pop,304725,56845,0,0,0,0,0,No,No
+252,1978,Q: Are We Not Men? A: We Are Devo!,DEVO,Album,4.4,new wave,3186866,276953,0,0,0,0,0,No,No
+253,1967,The Piper at the Gates of Dawn,Pink Floyd,Album,3.9,rock,9503260,433732,0,0,0,0,0,No,No
+254,1973,Head Hunters,Herbie Hancock,Album,4.0,jazz,2116769,381408,0,0,0,0,0,No,No
+255,1963,The Freewheelin' Bob Dylan,Bob Dylan,Album,4.35,folk,8955530,534227,0,0,0,0,0,No,No
+256,1988,Tracy Chapman,Tracy Chapman,Album,4.25,folk,8383207,725295,0,0,0,0,0,No,No
+257,1971,Coat of Many Colors,Dolly Parton,Album,4.0,country,267839,40349,0,0,0,0,0,No,No
+258,1975,The Hissing of Summer Lawns,Joni Mitchell,Album,4.0,folk,969575,76830,0,0,0,0,0,No,No
+259,1971,Pearl,Janis Joplin,Album,4.4,blues,3463392,496407,0,0,0,0,0,No,No
+260,1979,Cut,The Slits,Album,0.0,post punk,1405373,141335,0,0,0,0,0,No,No
+261,1992,Check Your Head,Beastie Boys,Album,4.35,hip-hop,6156318,404801,0,0,0,0,0,No,No
+262,1983,"Power, Corruption & Lies",New Order,Album,4.45,new wave,5015512,395322,0,0,0,0,0,No,No
+263,1964,A Hard Day's Night,The Beatles,Album + Soundtrack,4.2,rock,13010272,479257,0,0,0,0,0,No,No
+264,1975,Wish You Were Here,Pink Floyd,Album,4.7,rock,20814498,974362,0,0,0,0,0,No,No
+265,1995,Wowee Zowee,Pavement,Album,4.15,rock,4525324,214839,0,0,0,0,0,No,No
+266,1965,Help!,The Beatles,Album + Soundtrack,4.05,rock,17346036,596572,0,0,0,0,0,No,No
+267,1984,Double Nickels on the Dime,Minutemen,Album,4.5,punk,8348686,304902,0,0,0,0,0,No,No
+268,1972,Sail Away,Randy Newman,Album,4.0,pop,519940,43714,0,0,0,0,0,No,No
+269,2013,Yeezus,Kanye West,Album,4.0,hip-hop,37138737,945436,0,0,0,0,0,No,No
+270,2018,Golden Hour,Kacey Musgraves,Album,3.65,country,14371043,316718,0,0,0,0,0,No,No
+271,1992,What's the 411?,Mary J. Blige,Album,3.5,r&b,1099505,225650,0,0,0,0,0,No,No
+272,1967,White Light/White Heat,The Velvet Underground,Single,0.0,rock,2829785,301339,0,0,0,0,0,No,No
+273,1979,Entertainment!,Gang of Four,Album,4.75,punk,5961866,432185,0,0,0,0,0,No,No
+274,1968,Sweetheart of the Rodeo,The Byrds,Album,4.0,rock,1476120,173000,0,0,0,0,0,No,No
+275,1970,Curtis,Curtis Mayfield,Album,4.65,soul,1262045,130961,0,0,0,0,0,No,No
+276,1995,The Bends,Radiohead,Album,4.3,rock,54673077,1852489,0,0,0,0,0,No,No
+277,2003,The Diary of Alicia Keys,Alicia Keys,Album,5.0,r&b,7236825,851373,0,0,0,0,0,No,No
+278,1973,Houses of the Holy,Led Zeppelin,Album,4.5,rock,9840850,586882,0,0,0,0,0,No,No
+279,1994,MTV Unplugged in New York,Nirvana,Album + Live,4.2,grunge,31541841,1502142,0,0,0,0,0,No,No
+280,2003,Get Rich or Die Tryin',50 Cent,Album,3.75,hip-hop,11830923,887782,0,0,0,0,0,No,No
+281,1971,Nilsson Schmilsson,Harry Nilsson,Album,3.0,rock,1781830,236642,0,0,0,0,0,No,No
+282,1955,In the Wee Small Hours,Frank Sinatra,Album,5.0,pop,2254545,136056,0,0,0,0,0,No,No
+283,1979,Bad Girls,Donna Summer,Album,4.75,pop,1298734,255868,0,0,0,0,0,No,No
+284,1996,Down Every Road,Merle Haggard,Album + Compilation,0.0,country,45161,1663,0,0,0,0,0,No,No
+285,1978,Third/Sister Lovers,Big Star,Album,0.0,pop,1025505,48013,0,0,0,0,0,No,No
+286,1999,Californication,Red Hot Chili Peppers,Album,4.2,rock,45838545,2201167,0,0,0,0,0,No,No
+287,1965,Mr. Tambourine Man,The Byrds,Album,4.0,rock,1731428,228339,0,0,0,0,0,No,No
+288,1976,The Modern Lovers,The Modern Lovers,Album,4.5,rock,3704311,285288,0,0,0,0,0,No,No
+289,1995,Post,Björk,Album,4.3,pop,16714944,960328,0,0,0,0,0,No,No
+290,2003,Speakerboxxx / The Love Below,OutKast,Album,3.35,hip-hop,641193,55661,0,0,0,0,0,No,No
+291,1999,The Writing's on the Wall,Destiny's Child,Album,4.25,pop,7070774,1032519,0,0,0,0,0,No,No
+292,1978,Van Halen,Van Halen,Album,4.05,rock,4350049,321138,0,0,0,0,0,No,No
+293,1993,Last Splash,The Breeders,Album,4.0,rock,6346083,517620,0,0,0,0,0,No,No
+294,1994,Weezer (Blue Album),Weezer,Album,4.65,rock,3139080,146734,0,0,0,0,0,No,No
+295,2013,Random Access Memories,Daft Punk,Album,3.95,dance,46504032,1290491,386,1526525765,1524068,0,0,Yes,No
+296,1979,Rust Never Sleeps,Neil Young & Crazy Horse,Album,4.65,folk,898894,71695,0,0,0,0,0,No,No
+297,1986,So,Peter Gabriel,Album,4.35,pop,2797532,304000,0,0,0,0,0,No,No
+298,1989,Full Moon Fever,Tom Petty,Album,4.2,rock,5223294,634117,0,0,0,0,0,No,No
+299,1965,Live at the Regal,B.B. King,Album + Live,4.75,blues,674826,70671,0,0,0,0,0,No,No
+300,1997,Come On Over,Shania Twain,Album,4.0,country,4961946,649977,0,0,0,12,20,No,Yes
+301,1973,New York Dolls,New York Dolls,Album,4.4,rock,2224184,267760,0,0,0,0,0,No,No
+302,1975,Tonight's the Night,Neil Young,Album,4.0,folk,1838713,131792,0,0,0,0,0,No,No
+303,2001,The Definitive Collection,ABBA,Album + Compilation,4.0,disco,524878,28461,0,0,0,0,0,No,No
+304,1971,Just As I Am,Bill Withers,Album,3.65,soul,3058381,388179,0,0,0,0,0,No,No
+305,1975,Alive!,KISS,Album + Live,3.4,rock,486277,38944,0,0,0,0,0,No,No
+306,1972,I'm Still in Love With You,Al Green,Album,4.5,soul,1257422,164284,0,0,0,0,0,No,No
+307,2003,Portrait of a Legend 1951-1964,Sam Cooke,Album + Compilation,0.0,soul,2092909,115769,0,0,0,0,0,No,No
+308,1973,Here Come the Warm Jets,Brian Eno,Album,4.35,pop,3044662,209471,0,0,0,0,0,No,No
+309,1980,Closer,Joy Division,Album,4.5,new wave,12734474,614767,0,0,0,0,0,No,No
+310,1977,Pink Flag,Wire,Album,4.25,punk,7263146,257468,0,0,0,0,0,No,No
+311,1974,On the Beach,Neil Young,Album,4.0,folk,3136101,197667,0,0,0,0,0,No,No
+312,2016,A Seat at the Table,Solange,Album,5.0,r&b,9522103,315770,0,0,0,0,0,No,No
+313,2000,"Stories From the City, Stories From the Sea",PJ Harvey,Album,4.0,rock,11072199,738709,0,0,0,0,0,No,No
+314,1996,One in a Million,Aaliyah,Album,4.35,r&b,2252127,144186,0,0,0,0,0,No,No
+315,2018,EL MAL QUERER,ROSALÍA,Album,4.25,latin,8946177,209848,0,0,0,0,0,No,No
+316,1967,The Who Sell Out,The Who,Album,4.0,rock,2528009,142963,0,0,0,0,0,No,No
+317,1958,Lady in Satin,Billie Holiday,Album,5.0,jazz,1134047,125068,0,0,0,0,0,No,No
+318,1997,The Velvet Rope,Janet Jackson,Album,4.0,r&b,4097234,413967,0,0,0,0,0,No,No
+319,1989,The Stone Roses,The Stone Roses,Album,4.3,rock,13606543,855304,0,0,0,0,0,No,No
+320,1980,Los Angeles,X,Album,5.0,punk,1440688,141955,0,0,0,0,0,No,No
+321,2019,Norman Fucking Rockwell!,Lana Del Rey,Album,4.5,pop,38553529,556819,0,0,0,0,0,No,No
+322,1969,From Elvis in Memphis,Elvis Presley,Album,4.0,rock,1115290,164745,0,0,0,0,0,No,No
+323,1980,Sandinista!,The Clash,Album,3.6,punk,3455238,232377,0,0,0,0,0,No,No
+324,2002,A Rush of Blood to the Head,Coldplay,Album,4.1,pop,59377635,2809272,207,2187648811,2184126,0,0,Yes,No
+325,1993,"All Killer, No Filler: The Anthology",Jerry Lee Lewis,Album + Compilation,0.0,rock,10798,526,0,0,0,0,0,No,No
+326,1980,Dirty Mind,Prince,Album,3.85,funk,1410429,122253,0,0,0,0,0,No,No
+327,1970,Live at Leeds,The Who,Album + Live,5.0,rock,1035550,60499,0,0,0,0,0,No,No
+328,2013,Modern Vampires of the City,Vampire Weekend,Album,4.35,rock,21775370,628762,0,0,0,0,0,No,No
+329,1996,Endtroducing.....,DJ Shadow,Album,4.55,hip-hop,10619089,683487,0,0,0,0,0,No,No
+330,1966,Aftermath,The Rolling Stones,Album,4.4,rock,5269507,636199,0,0,0,0,0,No,No
+331,1989,Like a Prayer,Madonna,Album,4.15,pop,5160259,486402,0,0,0,0,0,No,No
+332,1956,Elvis Presley,Elvis Presley,Album,4.2,rock,2052065,247035,0,0,0,0,0,No,No
+333,1972,Still Bill,Bill Withers,Album,4.35,soul,1972382,321577,0,0,0,0,0,No,No
+334,1970,Abraxas,Santana,Album,5.0,rock,2299253,243243,0,0,0,0,0,No,No
+335,1975,The Basement Tapes,Bob Dylan And The Band,Album,4.15,folk,842644,64152,0,0,0,0,0,No,No
+336,1982,Avalon,Roxy Music,Album,3.8,pop,3171843,337389,0,0,0,0,0,No,No
+337,1967,John Wesley Harding,Bob Dylan,Album,4.65,folk,3078667,231619,0,0,0,0,0,No,No
+338,1975,Another Green World,Brian Eno,Album,3.95,ambient,6382388,344541,0,0,0,0,0,No,No
+339,1989,Rhythm Nation 1814,Janet Jackson,Album,4.65,r&b,2102790,126619,0,0,0,0,0,No,No
+340,1993,Doggystyle,Snoop Dogg,Album,3.9,hip-hop,9234952,814904,0,0,0,0,0,No,No
+341,1993,Siamese Dream,Smashing Pumpkins,Album,4.15,rock,72970,6108,0,0,0,0,0,No,No
+342,1970,Let It Be,The Beatles,Album,4.0,rock,14436282,681878,0,0,0,0,0,No,No
+343,1970,Greatest Hits,Sly & the Family Stone,Album + Compilation,4.5,funk,702939,121202,0,0,0,0,0,No,No
+344,1973,Funky Kingston,Toots & The Maytals,Album,0.0,reggae,186280,34687,0,0,0,0,0,No,No
+345,1973,"The Wild, the Innocent & The E Street Shuffle",Bruce Springsteen,Album,4.0,rock,1058534,98504,0,0,0,0,0,No,No
+346,2013,AM,Arctic Monkeys,Album,4.35,rock,77932235,1488545,49,4132278339,4125624,0,0,Yes,No
+347,1995,Liquid Swords,Genius/GZA,Album,4.0,hip-hop,9976,918,0,0,0,0,0,No,No
+348,2001,Time (The Revelator),Gillian Welch,Album,0.0,country,968648,74331,0,0,0,0,0,No,No
+349,1969,Kick Out the Jams,MC5,Album + Live,3.0,rock,956499,99657,0,0,0,0,0,No,No
+350,1972,Music of My Mind,Stevie Wonder,Album,4.55,soul,701591,83172,0,0,0,0,0,No,No
+351,1973,For Your Pleasure,Roxy Music,Album,4.35,rock,1178378,96814,0,0,0,0,0,No,No
+352,1999,The Slim Shady LP,Eminem,Album,3.8,hip-hop,10407492,791204,0,0,0,0,0,No,No
+353,1978,The Cars,The Cars,Album,4.4,rock,3344492,360310,0,0,0,0,0,No,No
+354,1978,Germfree Adolescents,X-Ray Spex,Album,4.0,punk,818621,79127,0,0,0,0,0,No,No
+355,1970,Black Sabbath,Black Sabbath,Album,4.55,metal,6605143,481323,0,0,0,0,0,No,No
+356,1968,Gris-Gris,"Dr. John, the Night Tripper",Album,3.0,rock,5417,494,0,0,0,0,0,No,No
+357,1985,Rain Dogs,Tom Waits,Album,4.0,rock,14865928,650223,0,0,0,0,0,No,No
+358,1990,Goo,Sonic Youth,Album,3.65,alternative,8053490,574594,0,0,0,0,0,No,No
+359,1974,Radio City,Big Star,Album,5.0,rock,1180238,116511,0,0,0,0,0,No,No
+360,1978,One Nation Under a Groove,Funkadelic,Album,0.0,funk,630107,50239,0,0,0,0,0,No,No
+361,2006,The Black Parade,My Chemical Romance,Album,4.15,emo,54113185,1739304,0,0,0,0,0,No,No
+362,1981,Never Too Much,Luther Vandross,Single,5.0,r&b,822087,168158,0,0,0,0,0,No,No
+363,1975,Mothership Connection,Parliament,Album,4.25,funk,1678403,248575,0,0,0,0,0,No,No
+364,1978,More Songs About Buildings and Food,Talking Heads,Album,4.35,rock,2742234,172682,0,0,0,0,0,No,No
+365,2004,Madvillainy,Madvillain,Album,4.5,hip-hop,36529130,796326,0,0,0,0,0,No,No
+366,1976,Rocks,Aerosmith,Album,4.0,rock,1534139,169247,0,0,0,0,0,No,No
+367,2015,If You're Reading This It's Too Late,Drake,Album + Mixtape/Street,2.5,r&b,19374258,551768,141,2607877598,2603678,0,0,Yes,No
+368,1970,All Things Must Pass,George Harrison,Album,4.75,rock,4140191,273754,0,0,0,0,0,No,No
+369,1995,The Infamous,Mobb Deep,Album,4.5,hip-hop,8895434,618362,0,0,0,0,0,No,No
+370,2005,Tha Carter II,Lil Wayne,Album,5.0,hip-hop,445839,32255,0,0,0,0,0,No,No
+371,1973,Anthology,The Temptations,Album + Compilation,0.0,soul,200043,35339,0,0,0,0,0,No,No
+372,1968,Cheap Thrills,Big Brother & the Holding Company,Album,4.5,rock,1889906,281485,0,0,0,0,0,No,No
+373,1969,Hot Buttered Soul,Isaac Hayes,Album,5.0,soul,485027,108818,0,0,0,0,0,No,No
+374,1961,King of the Delta Blues Singers,Robert Johnson,Album + Compilation,0.0,blues,1742686,302751,0,0,0,0,0,No,No
+375,1994,Dookie,Green Day,Album,3.95,punk,29213366,1740836,469,1353300558,1351121,0,0,Yes,No
+376,1998,In the Aeroplane Over the Sea,Neutral Milk Hotel,Album,4.55,folk,46300281,1180145,0,0,0,0,0,No,No
+377,2003,Fever to Tell,Yeah Yeah Yeahs,Album,4.65,punk,21356774,1203932,0,0,0,0,0,No,No
+378,1984,Run-D.M.C.,Run-D.M.C.,Album,3.35,hip-hop,199952,18645,0,0,0,0,0,No,No
+379,1981,Moving Pictures,Rush,Album,4.35,rock,5597203,441428,0,0,0,0,0,No,No
+380,1959,Mingus Ah Um,Charles Mingus,Album,4.4,jazz,2690789,309755,0,0,0,0,0,No,No
+381,1973,(pronounced 'lĕh-'nérd 'skin-'nérd),Lynyrd Skynyrd,Album,4.55,rock,276102,24486,0,0,0,0,0,No,No
+382,2015,Currents,Tame Impala,Album,3.9,pop,44461601,1064795,226,2096108903,2092734,0,0,Yes,No
+383,1998,Mezzanine,Massive Attack,Album,4.35,acid house,36173346,1643463,0,0,0,0,0,No,No
+384,1968,The Kinks Are the Village Green Preservation Society,The Kinks,Album,4.3,rock,2464182,195565,0,0,0,0,0,No,No
+385,1977,Rocket to Russia,Ramones,Album,4.3,punk,3785723,308070,0,0,0,0,0,No,No
+386,2006,Donuts,J Dilla,Album,4.75,hip-hop,20497707,410265,0,0,0,0,0,No,No
+387,2007,In Rainbows,Radiohead,Album,4.5,rock,89564523,2028142,0,0,0,0,0,No,No
+388,1972,"Young, Gifted and Black",Aretha Franklin,Album,4.0,soul,641550,114731,0,0,0,0,0,No,No
+389,2005,The Emancipation of Mimi,Mariah Carey,Album,4.2,pop,8715277,661087,0,0,0,0,0,No,No
+390,1988,Surfer Rosa,Pixies,Album,4.0,rock,11999900,713171,0,0,0,0,0,No,No
+391,1999,Kaleidoscope,Kelis,Album,3.35,r&b,1109660,188240,0,0,0,0,0,No,No
+392,1991,Best Of / Proud Mary,Ike & Tina Turner,Album + Compilation,0.0,pop,176732,52590,0,0,0,0,0,No,No
+393,2014,1989,Taylor Swift,Album,4.25,pop,24625794,651660,0,0,0,0,0,No,No
+394,1980,Diana,Diana Ross,Album,5.0,soul,1700996,367798,0,0,0,0,0,No,No
+395,2014,Black Messiah,D'Angelo and The Vanguard,Album,4.0,r&b,552852,19333,0,0,0,0,0,No,No
+396,1972,Something/Anything?,Todd Rundgren,Album,4.5,rock,1396506,145461,0,0,0,0,0,No,No
+397,2019,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,Album,4.25,pop,50166100,999226,6,7980691745,7967840,0,0,Yes,No
+398,1979,The Raincoats,The Raincoats,Album,0.0,punk,1262215,123200,0,0,0,0,0,No,No
+399,2004,SMiLE,Brian Wilson,Album,4.4,rock,2393531,142244,0,0,0,0,0,No,No
+400,1981,Beauty and the Beat,The Go-Go's,Album,3.0,new wave,938008,155068,0,0,0,0,0,No,No
+401,1976,Blondie,Blondie,Album,4.65,new wave,806738,63007,0,0,0,0,0,No,No
+402,1975,Expensive Shit,Fela Ransome Kuti & Africa 70,Album,4.0,funk,2838,550,0,0,0,0,0,No,No
+403,2000,Supreme Clientele,Ghostface Killah,Album,5.0,hip-hop,3441384,232145,0,0,0,0,0,No,No
+404,1986,Rapture,Anita Baker,Album,4.0,pop,668405,78185,0,0,0,0,0,No,No
+405,1972,"Nuggets: Original Artyfacts From the First Psychedelic Era, 1965–1968",Various Artists,Album + Compilation,0.0,rock,7364,245,0,0,0,0,0,No,No
+406,1999,69 Love Songs,The Magnetic Fields,Album,4.5,indie,11720732,316382,0,0,0,0,0,No,No
+407,1969,Everybody Knows This Is Nowhere,Neil Young & Crazy Horse,Album,4.7,folk,835161,66539,0,0,0,0,0,No,No
+408,1980,Ace of Spades,Motörhead,Album,4.15,metal,7224346,519135,0,0,0,0,0,No,No
+409,1970,Workingman's Dead,Grateful Dead,Album,4.5,rock,1574799,166164,0,0,0,0,0,No,No
+410,1967,Wild Honey,The Beach Boys,Album,4.0,rock,454619,30451,0,0,0,0,0,No,No
+411,2001,Love and Theft,Bob Dylan,Album,3.85,folk,1284580,97825,0,0,0,0,0,No,No
+412,1965,Going to a Go-Go,Smokey Robinson and The Miracles,Album,0.0,soul,68482,11254,0,0,0,0,0,No,No
+413,1970,Cosmo's Factory,Creedence Clearwater Revival,Album,4.6,rock,4112940,424159,0,0,0,0,0,No,No
+414,1979,Risqué,Chic,Album,5.0,disco,744349,177163,0,0,0,0,0,No,No
+415,1970,Look-Ka Py Py,The Meters,Album,4.0,funk,327836,35475,0,0,0,0,0,No,No
+416,1999,Things Fall Apart,The Roots,Album,3.7,hip-hop,5152271,375144,0,0,0,0,0,No,No
+417,1959,The Shape of Jazz to Come,Ornette Coleman,Album,4.2,jazz,962708,113420,0,0,0,0,0,No,No
+418,1985,Brothers in Arms,Dire Straits,Album,4.65,rock,10421042,956944,0,0,0,0,0,No,No
+419,2011,Chief,Eric Church,Album,0.0,country,2346725,213161,0,0,0,0,0,No,No
+420,1975,That's the Way of the World,"Earth, Wind & Fire",Album + Soundtrack,3.0,disco,718503,142500,0,0,0,0,0,No,No
+421,2005,Arular,M.I.A.,Album,4.2,hip-hop,8712199,422192,0,0,0,0,0,No,No
+422,1973,Let's Get It On,Marvin Gaye,Album,4.65,r&b,1707820,224732,0,0,0,0,0,No,No
+423,1997,I Can Hear the Heart Beating as One,Yo La Tengo,Album,4.5,indie,9633027,456724,0,0,0,0,0,No,No
+424,1996,Odelay,Beck,Album,4.1,rock,10330400,839402,0,0,0,0,0,No,No
+425,1972,Paul Simon,Paul Simon,Album,0.0,folk,3211773,449925,0,0,0,0,0,No,No
+426,1988,Lucinda Williams,Lucinda Williams,Album,4.65,country,236064,17546,0,0,0,0,0,No,No
+427,1973,Call Me,Al Green,Album,4.35,soul,773285,94183,0,0,0,0,0,No,No
+428,1985,New Day Rising,Hüsker Dü,Album,4.35,rock,2348921,170465,0,0,0,0,0,No,No
+429,1967,Reach Out,Four Tops,Album,0.0,soul,85952,19828,0,0,0,0,0,No,No
+430,1977,My Aim Is True,Elvis Costello,Album,3.4,new wave,4299826,383687,0,0,0,0,0,No,No
+431,1984,How Will the Wolf Survive?,Los Lobos,Album,3.0,rock,142824,18399,0,0,0,0,0,No,No
+432,2004,Confessions,Usher,Album,1.0,pop,5942926,949497,0,0,0,0,0,No,No
+433,2007,Sound of Silver,LCD Soundsystem,Album,3.9,electronic,18109537,1016741,0,0,0,0,0,No,No
+434,1994,"Crooked Rain, Crooked Rain",Pavement,Album,4.35,rock,7386085,360980,0,0,0,0,0,No,No
+435,1987,Actually,Pet Shop Boys,Album,4.25,pop,2127817,199510,0,0,0,0,0,No,No
+436,1996,All Eyez on Me,2Pac,Album,4.65,hip-hop,11395473,660787,0,0,0,0,0,No,No
+437,1991,Screamadelica,Primal Scream,Album,3.0,rock,5236129,505942,0,0,0,0,0,No,No
+438,1994,Parklife,Blur,Album,3.9,pop,11118800,792083,0,0,0,0,0,No,No
+439,1970,Sex Machine,James Brown,Album,4.35,funk,394155,48731,0,0,0,0,0,No,No
+440,1970,Coal Miner's Daughter,Loretta Lynn,Album,0.0,country,108457,24732,0,0,0,0,0,No,No
+441,2007,Blackout,Britney Spears,Album,3.9,pop,27661134,905190,0,0,0,0,0,No,No
+442,2015,Beauty Behind the Madness,The Weeknd,Album,4.0,r&b,27638729,1010354,0,0,0,0,0,No,No
+443,1980,Scary Monsters,David Bowie,Album,3.6,rock,3076516,250467,0,0,0,0,0,No,No
+444,2005,Extraordinary Machine,Fiona Apple,Album,4.25,pop,9367688,584521,0,0,0,0,0,No,No
+445,1972,Close to the Edge,Yes,Album,4.7,rock,1423860,124573,0,0,0,0,0,No,No
+446,1971,Journey in Satchidananda,Alice Coltrane,Album,4.15,jazz,780468,96693,0,0,0,0,0,No,No
+447,2018,X 100PRE,Bad Bunny,Album,3.0,latin,4846705,134193,66,3674798239,3668881,0,0,Yes,No
+448,1966,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Otis Redding,Album,0.0,soul,409449,73654,0,0,0,0,0,No,No
+449,2003,Elephant,The White Stripes,Album,4.1,rock,36006248,1873238,0,0,0,0,0,No,No
+450,1971,Ram,Paul & Linda McCartney,Album,4.5,rock,675696,23254,0,0,0,0,0,No,No
+451,1969,First Take,Roberta Flack,Album,0.0,soul,526665,111042,0,0,0,0,0,No,No
+452,1974,Anthology,Diana Ross and The Supremes,Album + Compilation,0.0,r&b,49157,11001,0,0,0,0,0,No,No
+453,1989,Pretty Hate Machine,Nine Inch Nails,Album,2.4,rock,10579479,568606,0,0,0,0,0,No,No
+454,1972,Ege Bamyasi,Can,Album,4.35,electronic,2094157,146432,0,0,0,0,0,No,No
 455,1986,Bo Diddley / Go Bo Diddley,Bo Diddley,Album + Compilation,5.0,blues,7304,1116,0,0,0,0,0,No,No
-456,1975,Greatest Hits,Al Green,Album + Compilation,5.0,soul,1823607,248307,0,0,0,0,0,No,No
-457,1990,I Do Not Want What I Haven't Got,Sinéad O'Connor,Album,4.7,rock,2486089,424858,0,0,0,0,0,No,No
-458,2013,Southeastern,Jason Isbell,Album,4.5,country,1814547,96590,0,0,0,0,0,No,No
-459,2009,Man on the Moon: The End of Day,Kid Cudi,Album,4.4,hip-hop,27076386,1148539,0,0,0,0,0,No,No
-460,2017,Melodrama,Lorde,Album,4.4,pop,46113839,725412,282,1823886686,1820950,0,0,Yes,No
-461,2008,For Emma,Bon Iver,Single,0.0,folk,140580,35328,0,0,0,0,0,No,No
-462,1969,The Gilded Palace of Sin,The Flying Burrito Brothers,Album,4.0,country,956332,121943,0,0,0,0,0,No,No
-463,1968,Eli and the Thirteenth Confession,Laura Nyro,Album,0.0,pop,548973,60614,0,0,0,0,0,No,No
+456,1975,Greatest Hits,Al Green,Album + Compilation,5.0,soul,1825853,248615,0,0,0,0,0,No,No
+457,1990,I Do Not Want What I Haven't Got,Sinéad O'Connor,Album,4.7,rock,2492949,425649,0,0,0,0,0,No,No
+458,2013,Southeastern,Jason Isbell,Album,4.5,country,1818938,96813,0,0,0,0,0,No,No
+459,2009,Man on the Moon: The End of Day,Kid Cudi,Album,4.4,hip-hop,27216056,1152385,0,0,0,0,0,No,No
+460,2017,Melodrama,Lorde,Album,4.4,pop,46495400,731901,284,1833367934,1830416,0,0,Yes,No
+461,2008,For Emma,Bon Iver,Single,0.0,folk,140602,35334,0,0,0,0,0,No,No
+462,1969,The Gilded Palace of Sin,The Flying Burrito Brothers,Album,4.0,country,958729,122136,0,0,0,0,0,No,No
+463,1968,Eli and the Thirteenth Confession,Laura Nyro,Album,0.0,pop,550442,60700,0,0,0,0,0,No,No
 464,1973,3+3,The Isley Brothers,Album,4.0,funk,1061,495,0,0,0,0,0,No,No
-465,2003,The Best of the Classic Years,King Sunny Adé,Album + Compilation,0.0,juju,1571,115,0,0,0,0,0,No,No
-466,1965,The Beach Boys Today!,The Beach Boys,Album,4.0,rock,174145,8746,0,0,0,0,0,No,No
-467,2009,BLACKsummers'night,Maxwell,Album,4.0,soul,1344512,150794,0,0,0,0,0,No,No
-468,1978,Some Girls,The Rolling Stones,Album,3.35,rock,4651109,526251,0,0,0,0,0,No,No
-469,1998,Clandestino,Manu Chao,Album,4.4,rock,10830649,606937,0,0,0,0,0,No,No
-470,1998,400 Degreez,Juvenile,Album,3.0,hip-hop,630913,110332,0,0,0,0,0,No,No
-471,1967,Surrealistic Pillow,Jefferson Airplane,Album,4.3,rock,12183518,1087413,0,0,0,0,0,No,No
-472,2017,Ctrl,SZA,Album,0.0,r&b,33924858,627621,215,2144313234,2140860,0,0,Yes,No
-473,2004,Barrio fino,Daddy Yankee,Album,3.5,hip-hop,1200328,199536,0,0,0,0,0,No,No
-474,1972,#1 Record,Big Star,Album,1.5,rock,2075363,192749,0,0,0,0,0,No,No
-475,1996,Sheryl Crow,Sheryl Crow,Album,4.0,rock,2368492,376434,0,0,0,0,0,No,No
-476,1974,Kimono My House,Sparks,Album,4.35,rock,1518258,143892,0,0,0,0,0,No,No
-477,1959,Moanin' in the Moonlight,Howlin' Wolf,Album,5.0,blues,749369,93184,0,0,0,0,0,No,No
-478,1967,Something Else by The Kinks,The Kinks,Album,3.75,rock,2094617,226714,0,0,0,0,0,No,No
-479,1994,Amor prohibido,Selena,Album,4.65,latin,1247737,105434,0,0,0,0,0,No,No
-480,2016,The Weight of These Wings,Miranda Lambert,Album,2.0,country,647543,42860,0,0,0,0,0,No,No
-481,1996,If You're Feeling Sinister,Belle and Sebastian,Album,4.05,pop,10186063,416823,0,0,0,0,0,No,No
-482,1992,Bizarre Ride II the Pharcyde,The Pharcyde,Album,5.0,hip-hop,4584029,476905,0,0,0,0,0,No,No
-483,2001,The Anthology,Muddy Waters,Album + Compilation,2.0,blues,126109,9592,0,0,0,0,0,No,No
-484,2011,Born This Way,Lady Gaga,Album,4.05,pop,40851663,749538,0,0,0,0,0,No,No
-485,1974,I Want to See the Bright Lights Tonight,Richard & Linda Thompson,Album,5.0,folk,479826,62904,0,0,0,0,0,No,No
-486,2006,Continuum,John Mayer,Album,3.6,rock,27809128,1374779,473,1337090087,1334937,0,0,Yes,No
-487,1981,Damaged,Black Flag,Album,4.15,punk,7807387,461062,0,0,0,0,0,No,No
-488,1969,The Stooges,The Stooges,Album,4.35,rock,4767692,546996,0,0,0,0,0,No,No
-489,1991,Back to Mono (1958–1969),Phil Spector,Album + Compilation,0.0,pop,5560,183,0,0,0,0,0,No,No
-490,1974,Heart Like a Wheel,Linda Ronstadt,Album,5.0,rock,430663,75205,0,0,0,0,0,No,No
-491,2019,Fine Line,Harry Styles,Album,0.0,pop,42675613,804771,28,5089595811,5081400,0,0,Yes,No
-492,1989,Nick of Time,Bonnie Raitt,Album,4.0,blues,537578,111203,0,0,0,0,0,No,No
-493,1978,"Here, My Dear",Marvin Gaye,Album,3.65,r&b,596432,60839,0,0,0,0,0,No,No
-494,1964,Presenting the Fabulous Ronettes Featuring Veronica,The Ronettes,Album,3.35,pop,397534,55743,0,0,0,0,0,No,No
-495,1994,II,Boyz II Men,Album,2.5,pop,1410881,305516,0,0,0,44,12,No,Yes
-496,1998,Dónde están los ladrones?,Shakira,Album,4.5,pop,2963139,141105,0,0,0,0,0,No,No
-497,1985,The Indestructible Beat of Soweto,Various Artists,Album + Compilation,0.0,mbaqanga,10677,911,0,0,0,0,0,No,No
-498,1977,Suicide,Suicide,Album,4.0,rock,1497948,144595,0,0,0,0,0,No,No
-499,1977,Ask Rufus,Rufus,Album,0.0,r&b,48112,8897,0,0,0,0,0,No,No
-500,2004,Funeral,Arcade Fire,Album,4.65,rock,49313723,1516554,0,0,0,0,0,No,No
+465,2003,The Best of the Classic Years,King Sunny Adé,Album + Compilation,0.0,juju,1574,115,0,0,0,0,0,No,No
+466,1965,The Beach Boys Today!,The Beach Boys,Album,4.0,rock,174445,8760,0,0,0,0,0,No,No
+467,2009,BLACKsummers'night,Maxwell,Album,4.0,soul,1344666,150800,0,0,0,0,0,No,No
+468,1978,Some Girls,The Rolling Stones,Album,3.35,rock,4669322,527805,0,0,0,0,0,No,No
+469,1998,Clandestino,Manu Chao,Album,4.4,rock,10843635,607608,0,0,0,0,0,No,No
+470,1998,400 Degreez,Juvenile,Album,3.0,hip-hop,633794,110802,0,0,0,0,0,No,No
+471,1967,Surrealistic Pillow,Jefferson Airplane,Album,4.3,rock,12218511,1089705,0,0,0,0,0,No,No
+472,2017,Ctrl,SZA,Album,0.0,r&b,34371238,634217,213,2160420828,2156942,0,0,Yes,No
+473,2004,Barrio fino,Daddy Yankee,Album,3.5,hip-hop,1200546,199604,0,0,0,0,0,No,No
+474,1972,#1 Record,Big Star,Album,1.5,rock,2081262,193267,0,0,0,0,0,No,No
+475,1996,Sheryl Crow,Sheryl Crow,Album,4.0,rock,2372957,376937,0,0,0,0,0,No,No
+476,1974,Kimono My House,Sparks,Album,4.35,rock,1527378,144443,0,0,0,0,0,No,No
+477,1959,Moanin' in the Moonlight,Howlin' Wolf,Album,5.0,blues,752838,93704,0,0,0,0,0,No,No
+478,1967,Something Else by The Kinks,The Kinks,Album,3.75,rock,2095427,226768,0,0,0,0,0,No,No
+479,1994,Amor prohibido,Selena,Album,4.65,latin,1264920,106451,0,0,0,0,0,No,No
+480,2016,The Weight of These Wings,Miranda Lambert,Album,2.0,country,649476,42983,0,0,0,0,0,No,No
+481,1996,If You're Feeling Sinister,Belle and Sebastian,Album,4.05,pop,10187857,416899,0,0,0,0,0,No,No
+482,1992,Bizarre Ride II the Pharcyde,The Pharcyde,Album,5.0,hip-hop,4609584,478724,0,0,0,0,0,No,No
+483,2001,The Anthology,Muddy Waters,Album + Compilation,2.0,blues,126166,9593,0,0,0,0,0,No,No
+484,2011,Born This Way,Lady Gaga,Album,4.05,pop,40876327,751109,0,0,0,0,0,No,No
+485,1974,I Want to See the Bright Lights Tonight,Richard & Linda Thompson,Album,5.0,folk,482184,63238,0,0,0,0,0,No,No
+486,2006,Continuum,John Mayer,Album,3.6,rock,27855869,1376865,475,1343498597,1341335,0,0,Yes,No
+487,1981,Damaged,Black Flag,Album,4.15,punk,7823436,461816,0,0,0,0,0,No,No
+488,1969,The Stooges,The Stooges,Album,4.35,rock,4781099,548286,0,0,0,0,0,No,No
+489,1991,Back to Mono (1958–1969),Phil Spector,Album + Compilation,0.0,pop,5594,184,0,0,0,0,0,No,No
+490,1974,Heart Like a Wheel,Linda Ronstadt,Album,5.0,rock,432981,75574,0,0,0,0,0,No,No
+491,2019,Fine Line,Harry Styles,Album,0.0,pop,43201752,815189,26,5142695898,5134415,0,0,Yes,No
+492,1989,Nick of Time,Bonnie Raitt,Album,4.0,blues,538633,111393,0,0,0,0,0,No,No
+493,1978,"Here, My Dear",Marvin Gaye,Album,3.65,r&b,598409,61024,0,0,0,0,0,No,No
+494,1964,Presenting the Fabulous Ronettes Featuring Veronica,The Ronettes,Album,3.35,pop,402661,56750,0,0,0,0,0,No,No
+495,1994,II,Boyz II Men,Album,2.5,pop,1415150,306010,0,0,0,44,12,No,Yes
+496,1998,Dónde están los ladrones?,Shakira,Album,4.5,pop,2963520,141120,0,0,0,0,0,No,No
+497,1985,The Indestructible Beat of Soweto,Various Artists,Album + Compilation,0.0,mbaqanga,10679,912,0,0,0,0,0,No,No
+498,1977,Suicide,Suicide,Album,4.0,rock,1498468,144646,0,0,0,0,0,No,No
+499,1977,Ask Rufus,Rufus,Album,0.0,r&b,48142,8903,0,0,0,0,0,No,No
+500,2004,Funeral,Arcade Fire,Album,4.65,rock,49357312,1518009,0,0,0,0,0,No,No

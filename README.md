@@ -1,4 +1,4 @@
-<img src= "images/RSlogo.png"> vs <img src= "images/lastfm.png">
+<img src= "images/RSlogo.png"> <img src= "images/lastfm.png">
 
 
 # Crítica vs. Público
@@ -30,7 +30,7 @@ Enriqueceremos estos datos con las siguentes webs:
 
 ## Contenido:
 
-- Carpeta Data
+- Carpeta Data: donde guardamos todas las 
 - Carpeta Images
 - Carpeta Notebook con los archivos de prueba de manipulación de datos:
     
